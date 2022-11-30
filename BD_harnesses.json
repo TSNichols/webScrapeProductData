@@ -5,10 +5,10 @@
     "description": "For all-around climbers who know that time spent fiddling with leg loops and adjusting a pinching waistbelt is time wasted, the Black Diamond Momentum delivers a time-saving design for all styles of climbing. A pre-threaded Speed Adjust waistbelt buckle saves time and eliminates error when tying in, while Dual Core Construction™ puts an emphasis on comfort, even when you're posted up at a hanging belay. TrakFIT leg-loops easily adjust for cool fall days at the crag or blazing summer days on long multi-pitches, and four pressure-molded gear loops and a haul loop make this our most popular all-rounder.",
     "bullets": ["Pre-threaded Speed Adjust waistbelt buckle", "Bullhorn-shaped waistbelt built using Dual Core Construction™", "trakFIT™ adjustment for easy leg loop customization", "Adjustable rear elastic riser", "Four pressure-molded gear loops", "Haul loop "],
     "specs": [
-      { "label": " Series ", "value": "All-Around Series" },
-      { "label": " Size Range ", "value": "XS - XXL" },
-      { "label": " Materials ", "value": "Ny.210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[M] 302 g (10.7 oz)" }
+      { "label": "Series", "value": "All-Around Series" },
+      { "label": "Size Range", "value": "XS - XXL" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[M] 302 g (10.7 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7415_source_1664950656.png",
@@ -24,18 +24,18 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1298/51445/404a14e5c015c188a3af6cf42bd9ad45c26135d8__04702.1622266986.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511010001XS_1", "swatch": "Anthracite", "choice": "XS", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511010001SM_1", "swatch": "Anthracite", "choice": "S", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511010001MD_1", "swatch": "Anthracite", "choice": "M", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511010001LG_1", "swatch": "Anthracite", "choice": "L", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511010001XL_1", "swatch": "Anthracite", "choice": "XL", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511010001XXL1", "swatch": "Anthracite", "choice": "XXL", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015XS_1", "swatch": "Kingfisher", "choice": "XS", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015SM_1", "swatch": "Kingfisher", "choice": "S", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015MD_1", "swatch": "Kingfisher", "choice": "M", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015LG_1", "swatch": "Kingfisher", "choice": "L", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015XL_1", "swatch": "Kingfisher", "choice": "XL", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511014015XXL1", "swatch": "Kingfisher", "choice": "XXL", "price": { "list": "$64.95", "sale": null } }
+      { "item": "BD6511010001XS_1", "swatch": "Anthracite", "choice": "XS", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511010001SM_1", "swatch": "Anthracite", "choice": "S", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511010001MD_1", "swatch": "Anthracite", "choice": "M", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511010001LG_1", "swatch": "Anthracite", "choice": "L", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511010001XL_1", "swatch": "Anthracite", "choice": "XL", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511010001XXL1", "swatch": "Anthracite", "choice": "XXL", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015XS_1", "swatch": "Kingfisher", "choice": "XS", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015SM_1", "swatch": "Kingfisher", "choice": "S", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015MD_1", "swatch": "Kingfisher", "choice": "M", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015LG_1", "swatch": "Kingfisher", "choice": "L", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015XL_1", "swatch": "Kingfisher", "choice": "XL", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511014015XXL1", "swatch": "Kingfisher", "choice": "XXL", "price": { "list": "$64.95", "sale": "$48.71" } }
     ]
   },
   {
@@ -44,10 +44,10 @@
     "description": "For all-around female climbers who know that time spent fiddling with leg loops and adjusting a pinching waistbelt is time wasted, the Women's Black Diamond Momentum Harness delivers a time-saving design for all styles of climbing. A pre-threaded Speed Adjust waistbelt buckle saves time and eliminates error when tying in, while Dual Core Construction™ puts an emphasis on comfort, even when you're posted up at a hanging belay. TrakFIT leg-loops easily adjust for cool fall days at the crag or blazing summer days on long multi-pitches, and four pressure-molded gear loops and a haul loop make this our most popular all-rounder.",
     "bullets": ["Pre-threaded Speed Adjust waistbelt buckle", "Bullhorn-shaped waistbelt built using Dual Core Construction™", "trakFIT™ adjustment for easy leg loop customization", "Adjustable rear elastic riser", "Four pressure-molded gear loops", "Haul loop ", "Women's-specific rise"],
     "specs": [
-      { "label": " Series ", "value": "All-Around Series" },
-      { "label": " Size Range ", "value": "XS - L" },
-      { "label": " Materials ", "value": "Ny.210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[Harness only (M)] 302 g (10.7 oz)\n" }
+      { "label": "Series", "value": "All-Around Series" },
+      { "label": "Size Range", "value": "XS - L" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[Harness only (M)] 302 g (10.7 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7429_source_1664950668.png",
@@ -59,16 +59,16 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1299/51459/6dbad50c87d59e0e39f5e5d0ebefd7281b542637__29605.1622266994.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511026012XS_1", "swatch": "Wild Rose", "choice": "XS", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511026012SM_1", "swatch": "Wild Rose", "choice": "S", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511026012MD_1", "swatch": "Wild Rose", "choice": "M", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511026012LG_1", "swatch": "Wild Rose", "choice": "L", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511026012XL_1", "swatch": "Wild Rose", "choice": "XL", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511023019XS_1", "swatch": "Aqua Verde", "choice": "XS", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511023019SM_1", "swatch": "Aqua Verde", "choice": "S", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511023019MD_1", "swatch": "Aqua Verde", "choice": "M", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511023019LG_1", "swatch": "Aqua Verde", "choice": "L", "price": { "list": "$64.95", "sale": null } },
-      { "item": "BD6511023019LG_1", "swatch": "Aqua Verde", "choice": "XL", "price": { "list": "$64.95", "sale": null } }
+      { "item": "BD6511026012XS_1", "swatch": "Wild Rose", "choice": "XS", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511026012SM_1", "swatch": "Wild Rose", "choice": "S", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511026012MD_1", "swatch": "Wild Rose", "choice": "M", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511026012LG_1", "swatch": "Wild Rose", "choice": "L", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511026012XL_1", "swatch": "Wild Rose", "choice": "XL", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511023019XS_1", "swatch": "Aqua Verde", "choice": "XS", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511023019SM_1", "swatch": "Aqua Verde", "choice": "S", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511023019MD_1", "swatch": "Aqua Verde", "choice": "M", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511023019LG_1", "swatch": "Aqua Verde", "choice": "L", "price": { "list": "$64.95", "sale": "$48.71" } },
+      { "item": "BD6511023019LG_1", "swatch": "Aqua Verde", "choice": "XL", "price": { "list": "$64.95", "sale": "$48.71" } }
     ]
   },
   {
@@ -85,10 +85,10 @@
       "Adjustable, releasable elastic risers"
     ],
     "specs": [
-      { "label": " Series ", "value": "Harness Sport" },
-      { "label": " Size Range ", "value": "Waist: 61-99 cm (24-39 in) Legs: 43-69 cm (17-27 in)" },
-      { "label": " Materials ", "value": "Super Fabric™, Small Diameter Spacer Mesh" },
-      { "label": " Weight ", "value": "[M] 394 g (14 oz)" }
+      { "label": "Series", "value": "Harness Sport" },
+      { "label": "Size Range", "value": "Waist: 61-99 cm (24-39 in) Legs: 43-69 cm (17-27 in)" },
+      { "label": "Materials", "value": "Super Fabric™, Small Diameter Spacer Mesh" },
+      { "label": "Weight", "value": "[M] 394 g (14 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7402_source_1664950645.png",
@@ -96,11 +96,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1295/48628/ab3b27fb49eb7b0b9c92f3f8778296cb60dce3c9__40337.1615575555.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510931000XS_1", "swatch": "Alloy", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510931000SM_1", "swatch": "Alloy", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510931000MD_1", "swatch": "Alloy", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510931000LG_1", "swatch": "Alloy", "choice": "L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510931000XL_1", "swatch": "Alloy", "choice": "XL", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6510931000XS_1", "swatch": "Alloy", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510931000SM_1", "swatch": "Alloy", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510931000MD_1", "swatch": "Alloy", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510931000LG_1", "swatch": "Alloy", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510931000XL_1", "swatch": "Alloy", "choice": "XL", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -118,10 +118,10 @@
       "Adjustable, releasable elastic risers"
     ],
     "specs": [
-      { "label": " Series ", "value": "Harness Sport" },
-      { "label": " Size Range ", "value": "Waist: 66-91 cm (26 - 36 in) Legs: 46 - 66 cm (18-26 in)" },
-      { "label": " Materials ", "value": "Super Fabric™, Small Diameter Spacer Mesh" },
-      { "label": " Weight ", "value": "[M] 362 g (13 oz)" }
+      { "label": "Series", "value": "Harness Sport" },
+      { "label": "Size Range", "value": "Waist: 66-91 cm (26 - 36 in) Legs: 46 - 66 cm (18-26 in)" },
+      { "label": "Materials", "value": "Super Fabric™, Small Diameter Spacer Mesh" },
+      { "label": "Weight", "value": "[M] 362 g (13 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7407_source_1664950649.png",
@@ -129,10 +129,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1296/48630/e4b32e2b200c276ae1bf3d193afabbca8ea0777a__86750.1615575555.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510946001XS_1", "swatch": "Coral", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510946001SM_1", "swatch": "Coral", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510946001MD_1", "swatch": "Coral", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6510946001LG_1", "swatch": "Coral", "choice": "L", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6510946001XS_1", "swatch": "Coral", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510946001SM_1", "swatch": "Coral", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510946001MD_1", "swatch": "Coral", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6510946001LG_1", "swatch": "Coral", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -141,9 +141,9 @@
     "description": "With everything you need to get started in the gym or at the crag, the Women's Black Diamond Momentum Package is a complete, convenient package for all-around female climbers, featuring our most popular harness for all-around use.",
     "bullets": ["Women's Momentum Harness", "ATC-XP belay/rappel device", "RockLock Screwgate carabiner", "Mojo chalk bag (random color)", "BD White Gold chalk "],
     "specs": [
-      { "label": " Series ", "value": "All-Around Series" },
-      { "label": " Materials ", "value": "Ny.210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[Harness only (M)] 350 g (12 oz)" }
+      { "label": "Series", "value": "All-Around Series" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[Harness only (M)] 350 g (12 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7458_source_1664950695.png",
@@ -152,11 +152,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1308/48663/91a39ebd99eb1e16abf15d4e7a3b81d5e4649f9b__98524.1615575565.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511513019XS_1", "swatch": "Aqua Verde", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511513019SM_1", "swatch": "Aqua Verde", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511513019MD_1", "swatch": "Aqua Verde", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511513019LG_1", "swatch": "Aqua Verde", "choice": "L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511513019XL_1", "swatch": "Aqua Verde", "choice": "XL", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511513019XS_1", "swatch": "Aqua Verde", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511513019SM_1", "swatch": "Aqua Verde", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511513019MD_1", "swatch": "Aqua Verde", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511513019LG_1", "swatch": "Aqua Verde", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511513019XL_1", "swatch": "Aqua Verde", "choice": "XL", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -165,9 +165,9 @@
     "description": "With everything you need to get started in the gym or at the crag, the Black Diamond Momentum Package is a complete, convenient package for all-around climbers, featuring our most popular harness for all-around use, the Momentum.",
     "bullets": ["Momentum harness", "ATC-XP belay/rappel device", "Rocklock Screwgate locking carabiner", "Mojo chalk bag (random color)", "BD White Gold chalk "],
     "specs": [
-      { "label": " Series ", "value": "Momentum Series" },
-      { "label": " Materials ", "value": "Ny.210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[Harness only(M)] 350 g (12 oz)" }
+      { "label": "Series", "value": "Momentum Series" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[Harness only(M)] 350 g (12 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7453_source_1664950691.png",
@@ -176,12 +176,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1307/48660/a1e613f6b2bbc23d33ebf784a8af5b2480bdf78e__10069.1615575564.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511500001XS_1", "swatch": "Anthracite", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511500001SM_1", "swatch": "Anthracite", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511500001MD_1", "swatch": "Anthracite", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511500001LG_1", "swatch": "Anthracite", "choice": "L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511500001XL_1", "swatch": "Anthracite", "choice": "XL", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511500001XXL1", "swatch": "Anthracite", "choice": "XXL", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511500001XS_1", "swatch": "Anthracite", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511500001SM_1", "swatch": "Anthracite", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511500001MD_1", "swatch": "Anthracite", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511500001LG_1", "swatch": "Anthracite", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511500001XL_1", "swatch": "Anthracite", "choice": "XL", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511500001XXL1", "swatch": "Anthracite", "choice": "XXL", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -190,10 +190,10 @@
     "description": "The Black Diamond Solution Harness provides unequaled comfort for long days spent working your project. Fusion Comfort Technology introduces three separate strands of low-profile webbing in both the fixed leg loops and waist to create superior load distribution while reducing pressure on sensitive points. Designed to fit the contours of your body, the Solution maximizes freedom of movement and comfort, without sacrificing performance.",
     "bullets": ["Lightweight waistbelt with Fusion Comfort Technology™", "Contoured fit for superior comfort and range of motion", "Four pressure-molded gear loops", "Adjustable, releasable elastic risers", "Primary fabric is bluesign approved", "Regular", "XS-XL", "330 (M)"],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Size Range ", "value": "XS-XL" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" },
-      { "label": " Weight ", "value": "[M] 330 g (11.64 oz)" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Size Range", "value": "XS-XL" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" },
+      { "label": "Weight", "value": "[M] 330 g (11.64 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10783_source_1647584367.png",
@@ -203,18 +203,18 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1288/50412/b66f7b911f2befc9a42943db348422e343713d25__08359.1616353195.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510824002XXS1", "swatch": "Astral Blue", "choice": "XXS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510824002XS_1", "swatch": "Astral Blue", "choice": "XS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510824002SM_1", "swatch": "Astral Blue", "choice": "S", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510824002MD_1", "swatch": "Astral Blue", "choice": "M", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510824002LG_1", "swatch": "Astral Blue", "choice": "L", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510824002XL_1", "swatch": "Astral Blue", "choice": "XL", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007XXS1", "swatch": "Granite", "choice": "XXS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007XS_1", "swatch": "Granite", "choice": "XS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007SM_1", "swatch": "Granite", "choice": "S", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007MD_1", "swatch": "Granite", "choice": "M", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007LG_1", "swatch": "Granite", "choice": "L", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510821007XL_1", "swatch": "Granite", "choice": "XL", "price": { "list": "$79.95", "sale": null } }
+      { "item": "BD6510824002XXS1", "swatch": "Astral Blue", "choice": "XXS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510824002XS_1", "swatch": "Astral Blue", "choice": "XS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510824002SM_1", "swatch": "Astral Blue", "choice": "S", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510824002MD_1", "swatch": "Astral Blue", "choice": "M", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510824002LG_1", "swatch": "Astral Blue", "choice": "L", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510824002XL_1", "swatch": "Astral Blue", "choice": "XL", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007XXS1", "swatch": "Granite", "choice": "XXS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007XS_1", "swatch": "Granite", "choice": "XS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007SM_1", "swatch": "Granite", "choice": "S", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007MD_1", "swatch": "Granite", "choice": "M", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007LG_1", "swatch": "Granite", "choice": "L", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510821007XL_1", "swatch": "Granite", "choice": "XL", "price": { "list": "$79.95", "sale": "$59.96" } }
     ]
   },
   {
@@ -223,10 +223,10 @@
     "description": "The Black Diamond Solution Harness provides unequaled comfort for long days spent working your project. This harness features a women's specific rise and fit will form to your body. Fusion Comfort Technology introduces three separate strands of low-profile webbing in both the fixed leg loops and waist to create superior load distribution while reducing pressure on sensitive points. Designed to fit the contours of your body, the Solution maximizes freedom of movement and comfort, without sacrificing performance.",
     "bullets": ["Lightweight waistbelt with Fusion Comfort Technology™", "Women’s-specific rise and fit", "Four pressure-molded gear loops", "Adjustable, releasable elastic risers", "Primary fabric is bluesign approved", "Regular", "XS-L", "330 (M)"],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Size Range ", "value": "XS-L" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" },
-      { "label": " Weight ", "value": "[M] 330 g (11.64 oz)" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Size Range", "value": "XS-L" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" },
+      { "label": "Weight", "value": "[M] 330 g (11.64 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10788_source_1647584374.png",
@@ -234,11 +234,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1289/50440/82531e03ef6ba00de98fca85e4d05cb4de6e60a8__27835.1616353166.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510831016XXS1", "swatch": "Pewter", "choice": "XXS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510831016XS_1", "swatch": "Pewter", "choice": "XS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510831016SM_1", "swatch": "Pewter", "choice": "S", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510831016MD_1", "swatch": "Pewter", "choice": "M", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6510831016LG_1", "swatch": "Pewter", "choice": "L", "price": { "list": "$79.95", "sale": null } }
+      { "item": "BD6510831016XXS1", "swatch": "Pewter", "choice": "XXS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510831016XS_1", "swatch": "Pewter", "choice": "XS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510831016SM_1", "swatch": "Pewter", "choice": "S", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510831016MD_1", "swatch": "Pewter", "choice": "M", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6510831016LG_1", "swatch": "Pewter", "choice": "L", "price": { "list": "$79.95", "sale": "$59.96" } }
     ]
   },
   {
@@ -256,10 +256,10 @@
       "330 (M)"
     ],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Size Range ", "value": "XXS-L" },
-      { "label": " Weight ", "value": "[M] 330 g (11 oz)" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Size Range", "value": "XXS-L" },
+      { "label": "Weight", "value": "[M] 330 g (11 oz)" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10792_source_1664430511.png",
@@ -268,11 +268,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1891/50467/c1bc73eb4bf7ce2cd7602316a38cc8e13f1c8aee__07397.1615575566.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511582009XXS1", "swatch": "Cherrywood", "choice": "XXS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511582009XS_1", "swatch": "Cherrywood", "choice": "XS", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511582009SM_1", "swatch": "Cherrywood", "choice": "S", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511582009MD_1", "swatch": "Cherrywood", "choice": "M", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511582009LG_1", "swatch": "Cherrywood", "choice": "L", "price": { "list": "$79.95", "sale": null } }
+      { "item": "BD6511582009XXS1", "swatch": "Cherrywood", "choice": "XXS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511582009XS_1", "swatch": "Cherrywood", "choice": "XS", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511582009SM_1", "swatch": "Cherrywood", "choice": "S", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511582009MD_1", "swatch": "Cherrywood", "choice": "M", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511582009LG_1", "swatch": "Cherrywood", "choice": "L", "price": { "list": "$79.95", "sale": "$59.96" } }
     ]
   },
   {
@@ -288,9 +288,9 @@
       "Percentage of sales goes to the Honnold Foundation"
     ],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" },
-      { "label": " Weight ", "value": "[M] 330 g (11 oz)" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" },
+      { "label": "Weight", "value": "[M] 330 g (11 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7358_source_1664950628.png",
@@ -311,9 +311,9 @@
     "description": "Designed for the lightweight sport climbing redpoint ice route or alpine mission, the Black Diamond Zone Harness is a versatile powerhouse. High performance, lightweight and breathable, the redesigned Zone now features our patented seamless Infinity Belay Loop, which is durable, low profile, and eliminates the dreaded belay-loop-shift when the loop-seam catches while dogging a route. Fusion Comfort Technology ensures that you'll have ample support when on the wall, while the stretch woven outer fabric adds breathability. Finally, the contoured, women’s specific fit maximizes comfort for the inevitable big whips that come from pushing your limits.",
     "bullets": ["Women's-specific fit", "Patented Infinity Loop for belaying, which is durable, lightweight and seamless.", "Fusion Comfort TechnologyTM", "Speed buckle adjustment", "Fixed leg loops", "Contoured fit", "Four pressure-molded gear loops with rear fifth loop", "Two ice clipper slots"],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Weight ", "value": "[M] 209 g (7.4 oz)" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Weight", "value": "[M] 209 g (7.4 oz)" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10800_source_1658901228.png",
@@ -321,10 +321,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1893/50474/2e6ed58234f9c90fee12f152c3a774e08ae539a8__94862.1615575568.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511608001XS_1", "swatch": "Octane", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511608001SM_1", "swatch": "Octane", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511608001MD_1", "swatch": "Octane", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511608001LG_1", "swatch": "Octane", "choice": "L", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511608001XS_1", "swatch": "Octane", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511608001SM_1", "swatch": "Octane", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511608001MD_1", "swatch": "Octane", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511608001LG_1", "swatch": "Octane", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -333,9 +333,9 @@
     "description": "Designed for the lightweight sport climbing redpoint, ice route or alpine mission, the Black Diamond Zone Harness is a versatile powerhouse. High performance, lightweight and breathable, the redesigned Zone now features our patented seamless Infinity Belay Loop, which is durable, low profile, and eliminates the dreaded belay-loop-shift when the loop-seam catches while dogging a route. Fusion Comfort Technology ensures that you'll have ample support when on the wall, while the stretch woven outer fabric adds breathability. Finally, the contoured fit maximizes comfort for the inevitable big whips that come from pushing your limits.",
     "bullets": ["Patented Infinity Loop for belaying, which is durable, lightweight and seamless.", "Fusion Comfort TechnologyTM", "Speed buckle adjustment", "Fixed leg loops", "Contoured fit", "Four pressure", "molded gear loops with rear fifth loop", "Two ice clipper slots"],
     "specs": [
-      { "label": " Series ", "value": "Sport" },
-      { "label": " Weight ", "value": "[M] 307 g (10.8 oz)" },
-      { "label": " Materials ", "value": "Four-way nylon stretch woven, 3D AirMesh" }
+      { "label": "Series", "value": "Sport" },
+      { "label": "Weight", "value": "[M] 307 g (10.8 oz)" },
+      { "label": "Materials", "value": "Four-way nylon stretch woven, 3D AirMesh" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10796_source_1662703021.png",
@@ -343,10 +343,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1892/50472/e558764ce7a2b70b3d74dac1d5d0f1a8bdee68f5__03468.1615575567.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511597006SM_1", "swatch": "Sulphur", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511597006MD_1", "swatch": "Sulphur", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511597006LG_1", "swatch": "Sulphur", "choice": "L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511597006XL_1", "swatch": "Sulphur", "choice": "XL", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511597006SM_1", "swatch": "Sulphur", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511597006MD_1", "swatch": "Sulphur", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511597006LG_1", "swatch": "Sulphur", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511597006XL_1", "swatch": "Sulphur", "choice": "XL", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -360,9 +360,9 @@
       "Two pressure molded gear loops in front; Lightweight low-profile webbing gear loops in back"
     ],
     "specs": [
-      { "label": " Series ", "value": "Specialty Series" },
-      { "label": " Materials ", "value": "Dyneema airNET" },
-      { "label": " Weight ", "value": "[M] 235 g (8.3 oz)" }
+      { "label": "Series", "value": "Specialty Series" },
+      { "label": "Materials", "value": "Dyneema airNET" },
+      { "label": "Weight", "value": "[M] 235 g (8.3 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7445_source_1664950684.png",
@@ -371,10 +371,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1304/48654/2faf4343b7a781f46632dad3255869e9947e65d8__00053.1615575562.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511079086XS_1", "swatch": "Black", "choice": "XS", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511079086SM_1", "swatch": "Black", "choice": "S", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511079086MD_1", "swatch": "Black", "choice": "M", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511079086LG_1", "swatch": "Black", "choice": "L", "price": { "list": "$169.95", "sale": null } }
+      { "item": "BD6511079086XS_1", "swatch": "Black", "choice": "XS", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511079086SM_1", "swatch": "Black", "choice": "S", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511079086MD_1", "swatch": "Black", "choice": "M", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511079086LG_1", "swatch": "Black", "choice": "L", "price": { "list": "$169.95", "sale": "$127.46" } }
     ]
   },
   {
@@ -388,9 +388,9 @@
       "Two pressure molded gear loops in front; Lightweight low-profile webbing gear loops in back"
     ],
     "specs": [
-      { "label": " Series ", "value": "Specialty Series" },
-      { "label": " Materials ", "value": "Dyneema airNET" },
-      { "label": " Weight ", "value": "[M] 227 g (8.0 oz)" }
+      { "label": "Series", "value": "Specialty Series" },
+      { "label": "Materials", "value": "Dyneema airNET" },
+      { "label": "Weight", "value": "[M] 227 g (8.0 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8950_source_1664950688.png",
@@ -399,10 +399,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1305/48657/bbc529970b2ce7cdc3373f22c122dfe612d1dbfa__46621.1615575563.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511089139XS_1", "swatch": "Black/Aqua Verde", "choice": "XS", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511089139SM_1", "swatch": "Black/Aqua Verde", "choice": "S", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511089139MD_1", "swatch": "Black/Aqua Verde", "choice": "M", "price": { "list": "$169.95", "sale": null } },
-      { "item": "BD6511089139LG_1", "swatch": "Black/Aqua Verde", "choice": "L", "price": { "list": "$169.95", "sale": null } }
+      { "item": "BD6511089139XS_1", "swatch": "Black/Aqua Verde", "choice": "XS", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511089139SM_1", "swatch": "Black/Aqua Verde", "choice": "S", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511089139MD_1", "swatch": "Black/Aqua Verde", "choice": "M", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511089139LG_1", "swatch": "Black/Aqua Verde", "choice": "L", "price": { "list": "$169.95", "sale": "$127.46" } }
     ]
   },
   {
@@ -423,9 +423,9 @@
       "382g (M)"
     ],
     "specs": [
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Size Range ", "value": "S-XL" },
-      { "label": " Weight ", "value": "[M] 382 g (13.47 oz) " }
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Size Range", "value": "S-XL" },
+      { "label": "Weight", "value": "[M] 382 g (13.47 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/13382_source_1662703015.png",
@@ -435,11 +435,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1961/51656/26d1868156d9c8db479f7942ef700828997fa9f9__20499.1627710031.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511141000XS_1", "swatch": "Alloy", "choice": "XS", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511141000SM_1", "swatch": "Alloy", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511141000MD_1", "swatch": "Alloy", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511141000LG_1", "swatch": "Alloy", "choice": "L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511141000XL_1", "swatch": "Alloy", "choice": "XL", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511141000XS_1", "swatch": "Alloy", "choice": "XS", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511141000SM_1", "swatch": "Alloy", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511141000MD_1", "swatch": "Alloy", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511141000LG_1", "swatch": "Alloy", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511141000XL_1", "swatch": "Alloy", "choice": "XL", "price": { "list": "$99.95", "sale": "$74.96" } }
     ]
   },
   {
@@ -448,9 +448,9 @@
     "description": "The ultimate big wall, aid climbing harness, the Big Gun is loaded with features to make your long days aiding in the vertical more comfortable and efficient.",
     "bullets": ["Thermoformed foam bullhorn waistbelt with trad buckle ", "Adjustable, removable leg loops", "Seven color-coded customizable gear loops", "Two color-coded belay loops and 12 kN-rated haul loop", "Left or right holster slots with one hammer holster included"],
     "specs": [
-      { "label": " Series ", "value": "Mountain Trad Series" },
-      { "label": " Weight ", "value": "[M] 660 g (1 lb 7 oz)" },
-      { "label": " Materials ", "value": "420d nylon twill + 420d nylon oxford, four-way nylon stretch woven" }
+      { "label": "Series", "value": "Mountain Trad Series" },
+      { "label": "Weight", "value": "[M] 660 g (1 lb 7 oz)" },
+      { "label": "Materials", "value": "420d nylon twill + 420d nylon oxford, four-way nylon stretch woven" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7354_source_1664950624.png",
@@ -458,10 +458,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1286/48608/cf11ef0ae67f7a06876efac5d99cfcf404d7a111__97554.1615575546.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD651030TGLDS__1", "swatch": "Tequila Gold", "choice": "S", "price": { "list": "$129.95", "sale": null } },
-      { "item": "BD651030TGLDM__1", "swatch": "Tequila Gold", "choice": "M", "price": { "list": "$129.95", "sale": null } },
-      { "item": "BD651030TGLDL__1", "swatch": "Tequila Gold", "choice": "L", "price": { "list": "$129.95", "sale": null } },
-      { "item": "BD651030TGLDXL_1", "swatch": "Tequila Gold", "choice": "XL", "price": { "list": "$129.95", "sale": null } }
+      { "item": "BD651030TGLDS__1", "swatch": "Tequila Gold", "choice": "S", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD651030TGLDM__1", "swatch": "Tequila Gold", "choice": "M", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD651030TGLDL__1", "swatch": "Tequila Gold", "choice": "L", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD651030TGLDXL_1", "swatch": "Tequila Gold", "choice": "XL", "price": { "list": "$129.95", "sale": "$97.46" } }
     ]
   },
   {
@@ -478,9 +478,9 @@
       "Rear haul loop"
     ],
     "specs": [
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Weight ", "value": "[M] 376 g (13.3 oz)" },
-      { "label": " Materials ", "value": "305d polyester ball shadow, PY Spacermesh" }
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Weight", "value": "[M] 376 g (13.3 oz)" },
+      { "label": "Materials", "value": "305d polyester ball shadow, PY Spacermesh" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/13387_source_1650002831.png",
@@ -488,10 +488,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1293/51684/4b3d73fbc1a12bcf49cd97a486afe760e8906b33__89541.1628142088.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510914030SM_1", "swatch": "Storm Blue", "choice": "S", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510914030MD_1", "swatch": "Storm Blue", "choice": "M", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510914030LG_1", "swatch": "Storm Blue", "choice": "L", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510914030XL_1", "swatch": "Storm Blue", "choice": "XL", "price": { "list": "$89.95", "sale": null } }
+      { "item": "BD6510914030SM_1", "swatch": "Storm Blue", "choice": "S", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510914030MD_1", "swatch": "Storm Blue", "choice": "M", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510914030LG_1", "swatch": "Storm Blue", "choice": "L", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510914030XL_1", "swatch": "Storm Blue", "choice": "XL", "price": { "list": "$89.95", "sale": "$67.46" } }
     ]
   },
   {
@@ -509,9 +509,9 @@
       "Rear haul loop"
     ],
     "specs": [
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Display Weight ", "value": "[M] 376g (13.3 oz)" },
-      { "label": " Materials ", "value": "305d polyester ball shadow, PY Spacermesh" }
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Display Weight", "value": "[M] 376g (13.3 oz)" },
+      { "label": "Materials", "value": "305d polyester ball shadow, PY Spacermesh" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/13391_source_1653198839.png",
@@ -519,10 +519,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1294/51686/1dd9121fa27b3247186c9262d9f09cd7cf75c305__47971.1628142090.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6510924040XS_1", "swatch": "Blue Note", "choice": "XS", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510924040SM_1", "swatch": "Blue Note", "choice": "S", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510924040MD_1", "swatch": "Blue Note", "choice": "M", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6510924040LG_1", "swatch": "Blue Note", "choice": "L", "price": { "list": "$89.95", "sale": null } }
+      { "item": "BD6510924040XS_1", "swatch": "Blue Note", "choice": "XS", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510924040SM_1", "swatch": "Blue Note", "choice": "S", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510924040MD_1", "swatch": "Blue Note", "choice": "M", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6510924040LG_1", "swatch": "Blue Note", "choice": "L", "price": { "list": "$89.95", "sale": "$67.46" } }
     ]
   },
   {
@@ -538,16 +538,16 @@
       "Please note that the XXS/S size only has 2 gear loops due to size restraints on the waist belt."
     ],
     "specs": [
-      { "label": " Series ", "value": "All-Around" },
-      { "label": " Size Range ", "value": "XXS - XL" },
-      { "label": " Materials ", "value": "Ny210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[XS/M] 340 g (12 oz)" }
+      { "label": "Series", "value": "All-Around" },
+      { "label": "Size Range", "value": "XXS - XL" },
+      { "label": "Materials", "value": "Ny210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[XS/M] 340 g (12 oz)" }
     ],
     "images": ["https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8947_source_1664950682.png", "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1303/48651/579d57378c4deb815d6bfac22837a233e4659b66__04197.1615575561.386.513.png?c=1"],
     "variants": [
-      { "item": "BD6511060001XXS1", "swatch": "Anthracite", "choice": "XXS/S", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511060001XSM1", "swatch": "Anthracite", "choice": "XS/M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511060001LXL1", "swatch": "Anthracite", "choice": "L/XL", "price": { "list": "$69.95", "sale": null } }
+      { "item": "BD6511060001XXS1", "swatch": "Anthracite", "choice": "XXS/S", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511060001XSM1", "swatch": "Anthracite", "choice": "XS/M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511060001LXL1", "swatch": "Anthracite", "choice": "L/XL", "price": { "list": "$69.95", "sale": "$52.46" } }
     ]
   },
   {
@@ -556,10 +556,10 @@
     "description": "Engineered for sending in all styles of climbing, from gym laps to winter ice, the Black Diamond Momentum 3S brings back the classic 3-buckle design but with a modern touch, thanks to the pre-threaded Speed buckles on the leg-loops and waistbelt. Allowing you to save time and eliminate error when donning your harness, these buckles provide maximum fit-adjustability while our Dual Core Construction™ provides an ultra-comfortable waistbelt that soaks up long hanging belays and whippers with ease. Four pressure-molded gear loops hold the rack, while the rip-stop fabric of the leg-loops add durability to ensure you’ll be roping up season after season.",
     "bullets": ["Pre-threaded Speed waistbelt and leg-loop buckles", "Bullhorn-shaped waistbelt built using Dual Core Construction™", "Adjustable rear elastic riser", "Four pressure-molded gear loops"],
     "specs": [
-      { "label": " Series ", "value": "All-Around" },
-      { "label": " Size Range ", "value": "XS - L" },
-      { "label": " Materials ", "value": "Ny210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[M] 322 g (11.4 oz)" }
+      { "label": "Series", "value": "All-Around" },
+      { "label": "Size Range", "value": "XS - L" },
+      { "label": "Materials", "value": "Ny210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[M] 322 g (11.4 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7435_source_1664950674.png",
@@ -568,12 +568,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1301/48646/39c7cf6947922608601f8c86fd58e80a58a9bf05__71578.1615575560.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511044017XS_1", "swatch": "Midnight", "choice": "XS", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511044017SM_1", "swatch": "Midnight", "choice": "S", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511044017MD_1", "swatch": "Midnight", "choice": "M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511044017LG_1", "swatch": "Midnight", "choice": "L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511044017XL_1", "swatch": "Midnight", "choice": "XL", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511044017XXL1", "swatch": "Midnight", "choice": "XXL", "price": { "list": "$69.95", "sale": null } }
+      { "item": "BD6511044017XS_1", "swatch": "Midnight", "choice": "XS", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511044017SM_1", "swatch": "Midnight", "choice": "S", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511044017MD_1", "swatch": "Midnight", "choice": "M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511044017LG_1", "swatch": "Midnight", "choice": "L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511044017XL_1", "swatch": "Midnight", "choice": "XL", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511044017XXL1", "swatch": "Midnight", "choice": "XXL", "price": { "list": "$69.95", "sale": "$52.46" } }
     ]
   },
   {
@@ -582,10 +582,10 @@
     "description": "Engineered for sending in all styles of climbing, from gym laps to winter ice, the Black Diamond Momentum 3S brings back the classic 3-buckle design but with a modern touch, thanks to the pre-threaded Speed buckles on the leg-loops and waistbelt. Allowing you to save time and eliminate error when donning your harness, these buckles provide maximum fit-adjustability while our Dual Core Construction™ provides an ultra-comfortable waistbelt that soaks up long hanging belays and whippers with ease. Four pressure-molded gear loops hold the rack, while the rip-stop fabric of the leg-loops add durability to ensure you’ll be roping up season after season.",
     "bullets": ["Pre-threaded Speed waistbelt and leg-loop buckles", "Bullhorn-shaped waistbelt built using Dual Core Construction™", "Adjustable rear elastic riser", "Four pressure-molded gear loops"],
     "specs": [
-      { "label": " Series ", "value": "All-Around" },
-      { "label": " Size Range ", "value": "XS- L" },
-      { "label": " Materials ", "value": "Ny210D ripstop, Poly 400D ripstop" },
-      { "label": " Weight ", "value": "[M] 322 g (11.4 oz)" }
+      { "label": "Series", "value": "All-Around" },
+      { "label": "Size Range", "value": "XS- L" },
+      { "label": "Materials", "value": "Ny210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[M] 322 g (11.4 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7440_source_1664950679.png",
@@ -593,10 +593,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1302/48649/0ebf59d3a7d4369b9abf97f4347ed8874e11f5b2__12626.1615575561.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511056018XS_1", "swatch": "Bordeaux", "choice": "XS", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511056018SM_1", "swatch": "Bordeaux", "choice": "S", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511056018MD_1", "swatch": "Bordeaux", "choice": "M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511056018LG_1", "swatch": "Bordeaux", "choice": "L", "price": { "list": "$69.95", "sale": null } }
+      { "item": "BD6511056018XS_1", "swatch": "Bordeaux", "choice": "XS", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511056018SM_1", "swatch": "Bordeaux", "choice": "S", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511056018MD_1", "swatch": "Bordeaux", "choice": "M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511056018LG_1", "swatch": "Bordeaux", "choice": "L", "price": { "list": "$69.95", "sale": "$52.46" } }
     ]
   },
   {
@@ -615,10 +615,10 @@
       "235g (M)"
     ],
     "specs": [
-      { "label": " Display Weight ", "value": "235g (M)" },
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Size Range ", "value": "S-XL" },
-      { "label": " Weight ", "value": "235g (M)" }
+      { "label": "Display Weight", "value": "235g (M)" },
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Size Range", "value": "S-XL" },
+      { "label": "Weight", "value": "235g (M)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/14626_source_1660890013.png",
@@ -629,10 +629,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2019/52301/98574dac3c03060d3959da4029c5e74f05c99ace__31609.1630736411.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511569096S__1", "swatch": "Black/Alloy", "choice": "S", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511569096M__1", "swatch": "Black/Alloy", "choice": "M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511569096L__1", "swatch": "Black/Alloy", "choice": "L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6511569096XL_1", "swatch": "Black/Alloy", "choice": "XL", "price": { "list": "$69.95", "sale": null } }
+      { "item": "BD6511569096S__1", "swatch": "Black/Alloy", "choice": "S", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511569096M__1", "swatch": "Black/Alloy", "choice": "M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511569096L__1", "swatch": "Black/Alloy", "choice": "L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6511569096XL_1", "swatch": "Black/Alloy", "choice": "XL", "price": { "list": "$69.95", "sale": "$52.46" } }
     ]
   },
   {
@@ -652,10 +652,10 @@
       "115g (M)"
     ],
     "specs": [
-      { "label": " Display Weight ", "value": "115g (M)" },
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Size Range ", "value": "S-XL" },
-      { "label": " Weight ", "value": "115g (M)" }
+      { "label": "Display Weight", "value": "115g (M)" },
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Size Range", "value": "S-XL" },
+      { "label": "Weight", "value": "115g (M)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/14617_source_1662703013.png",
@@ -666,10 +666,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2017/52291/cc81e2eab701b65a167d1d0396d8a764fefae789__59274.1630736404.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511139339S__1", "swatch": "Black/Crimson", "choice": "S", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511139339M__1", "swatch": "Black/Crimson", "choice": "M", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511139339L__1", "swatch": "Black/Crimson", "choice": "L", "price": { "list": "$79.95", "sale": null } },
-      { "item": "BD6511139339XL_1", "swatch": "Black/Crimson", "choice": "XL", "price": { "list": "$79.95", "sale": null } }
+      { "item": "BD6511139339S__1", "swatch": "Black/Crimson", "choice": "S", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511139339M__1", "swatch": "Black/Crimson", "choice": "M", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511139339L__1", "swatch": "Black/Crimson", "choice": "L", "price": { "list": "$79.95", "sale": "$59.96" } },
+      { "item": "BD6511139339XL_1", "swatch": "Black/Crimson", "choice": "XL", "price": { "list": "$79.95", "sale": "$59.96" } }
     ]
   },
   {
@@ -687,10 +687,10 @@
       "105g (M)"
     ],
     "specs": [
-      { "label": " Display Weight ", "value": "105g (M)" },
-      { "label": " Series ", "value": "Specialty" },
-      { "label": " Size Range ", "value": "S-L" },
-      { "label": " Weight ", "value": "105g (M)" }
+      { "label": "Display Weight", "value": "105g (M)" },
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Size Range", "value": "S-L" },
+      { "label": "Weight", "value": "105g (M)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/14219_source_1655878397.png",
@@ -701,9 +701,277 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1996/52019/010538a1caff18624214fe51bd159066897902ca__10592.1630648108.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6511579308S__1", "swatch": "Black/White", "choice": "S", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511579308M__1", "swatch": "Black/White", "choice": "M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6511579308L__1", "swatch": "Black/White", "choice": "L", "price": { "list": "$99.95", "sale": null } }
+      { "item": "BD6511579308S__1", "swatch": "Black/White", "choice": "S", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511579308M__1", "swatch": "Black/White", "choice": "M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6511579308L__1", "swatch": "Black/White", "choice": "L", "price": { "list": "$99.95", "sale": "$74.96" } }
+    ]
+  },
+  {
+    "name": "Vision Harness",
+    "link": "/en_US/product/vision-harness/?colorid=5185",
+    "description": "Designed to satisfy the needs of the most discerning ounce-counters, the Black Diamond Vision Harness is a full-featured ultralight harness built for pushing the limits in the high, cold and loose. Clocking in at less than 250 grams, the Vision's incredibly packable and quick-drying shell-less design is stripped to the core to provide gram-counting alpinists everything essential and nothing superfluous. Four pressure-molded gear loops, a rear fifth loop and four Ice Clipper slots accommodate a full alpine rack, and the speed waistbelt buckle makes for quick, simple and secure on/off.",
+    "bullets": ["Ultralight shell-less design dries quickly, is ultra-packable and is incredibly light", "Four pressure-molded gear loops plus rear fifth loop", "Four Ice Clipper slots", "Speed buckle on waistbelt", "Fixed leg loops and elastic risers"],
+    "specs": [
+      { "label": "Series", "value": "Specialty Series" },
+      { "label": "Materials", "value": "Vectran" },
+      { "label": "Weight", "value": "[M] 224 g or (7.9 oz)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7411_source_1664950653.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1297/48633/f9ae8fda699e77dba21a76fbba20d5edaa886c26__94767.1615575556.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1297/48632/7c4b2e51008c52b6c2980fe3b2eea4208c5b25ff__61919.1615575556.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD651096WHITSM_1", "swatch": "White", "choice": "S", "price": { "list": "$174.95", "sale": "$131.21" } },
+      { "item": "BD651096WHITMD_1", "swatch": "White", "choice": "M", "price": { "list": "$174.95", "sale": "$131.21" } },
+      { "item": "BD651096WHITLG_1", "swatch": "White", "choice": "L", "price": { "list": "$174.95", "sale": "$131.21" } },
+      { "item": "BD651096WHITXL_1", "swatch": "White", "choice": "XL", "price": { "list": "$174.95", "sale": "$131.21" } }
+    ]
+  },
+  {
+    "name": "Bod Harness",
+    "link": "/en_US/product/bod-harness/",
+    "description": "Simple, versatile and comfortable, the Bod provides the essentials for all vertical adventures with a functional fit.",
+    "bullets": ["Fleece-padded waistbelt with traditional buckle (comes in assorted colors)", "Quick-release leg loops constructed from nylon webbing", "Supportive back straps", "Four gear loops", "12 kN-rated belay and haul loops"],
+    "specs": [
+      { "label": "Series", "value": "Classic Series" },
+      { "label": "Weight", "value": "[M] 495 g (1 lb 1 oz)" },
+      { "label": "Materials", "value": "Nylon webbing, polyester fleece" }
+    ],
+    "images": ["https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7344_source_1664950616.png", "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1282/48606/80d81b38ffab155145d45cdb111194538c194829__81866.1615575545.386.513.png?c=1"],
+    "variants": [
+      { "item": "BD6500200000XS_1", "swatch": null, "choice": "XS", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD6500200000S__1", "swatch": null, "choice": "S", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD6500200000M__1", "swatch": null, "choice": "M", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD6500200000L__1", "swatch": null, "choice": "L", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD6500200000XL_1", "swatch": null, "choice": "XL", "price": { "list": "$59.95", "sale": "$44.96" } }
+    ]
+  },
+  {
+    "name": "Alpine Bod Harness",
+    "link": "/en_US/product/alpine-bod-harness/?colorid=5118",
+    "description": "With proven performance since sometime around the Pleistocene, the A-Bod is simple, minimal, perfected and classic.",
+    "bullets": ["Traditional buckle", "Quick-release leg loops", "Four gear loops", "12 kN-rated haul loop", "Entire harness constructed from quick-dry nylon webbing"],
+    "specs": [
+      { "label": "Series", "value": "Ice/Alpine Series" },
+      { "label": "Weight", "value": "[M] 395 g (14 oz)" },
+      { "label": "Materials", "value": "Nylon Webbing" }
+    ],
+    "images": ["https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7349_source_1664950620.png", "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1283/48607/d12b327bcb1474f1d59e8d2dc0d658e9da733ca9__69673.1615575546.386.513.png?c=1"],
+    "variants": [
+      { "item": "BD6500260000XS_1", "swatch": "Black", "choice": "XS", "price": { "list": "$49.95", "sale": "$37.46" } },
+      { "item": "BD6500260000S__1", "swatch": "Black", "choice": "S", "price": { "list": "$49.95", "sale": "$37.46" } },
+      { "item": "BD6500260000M__1", "swatch": "Black", "choice": "M", "price": { "list": "$49.95", "sale": "$37.46" } },
+      { "item": "BD6500260000L__1", "swatch": "Black", "choice": "L", "price": { "list": "$49.95", "sale": "$37.46" } },
+      { "item": "BD6500260000XL_1", "swatch": "Black", "choice": "XL", "price": { "list": "$49.95", "sale": "$37.46" } }
+    ]
+  },
+  {
+    "name": "Couloir",
+    "link": "/en_US/product/couloir/?colorid=8844",
+    "description": "For technical big mountain lines, crevassed ski terrain or moderate glacier climbs, the Black Diamond Couloir harness is a full-featured technical harness that packs down to the size of an orange and easily stashes in your pack or jacket pocket. Redesigned with a breathable, low-profile vari-width Dynex monofilament webbing that’s ultralight and durable, the Couloir comes with one speed buckle on the waist with easy-adjust wings and diaper-style leg loops that make for easy on and off while wearing skis or crampons. The Couloir also includes our patented Infinity Loop for belaying, which is durable, low profile, and eliminates the dreaded belay-loop-shift when the belay loop seam catches. Four Ice Clipper slots pair with an integrated ice screw slot in each leg loop to reduce clanking during long approaches and flat glacier travel, and two webbing gear loops secure cordalettes, extra biners and other essential gear.",
+    "bullets": [
+      "Redesigned ultralight construction with breathable vari-width Dynex monofilament webbing",
+      "Patented full-strength Infinity Loop for belaying, which is durable, lightweight and seamless",
+      "Speed buckle and diaper-style design for easy on/off while wearing skis or crampons",
+      "Two webbing gear loops",
+      "Four Ice Clipper slots with ice screw slot in each leg loop to reduce clanking",
+      "Extremely light, packable and low profile",
+      "Color coded waist and leg loops (inside/outside) to make putting on harness easy/intuitive",
+      "Unisex",
+      "Available in XS-S, S-M, M-L, L-XL, XL-XXL",
+      "XS-XXL",
+      "135g (M)"
+    ],
+    "specs": [
+      { "label": "Display Weight", "value": "135g (M)" },
+      { "label": "Series", "value": "Specialty" },
+      { "label": "Size Range", "value": "XS-XXL" },
+      { "label": "Weight", "value": "135g (M)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/14621_source_1650002844.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2018/52297/6b3469d69e6ee3449713f6cce1a84eb038d12f16__94161.1630736408.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2018/52298/b9c29721906bb4dc1393e2749789f7819edeee92__82255.1630736409.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2018/52299/a845aa8a65a3dcb2d1c37ef4bcb6029b73dbe046__64267.1630736410.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2018/52300/8a4699ae899ac597a641a5209323faa3227fa1e8__12464.1630736410.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2018/52296/760f4ead0430d47101a89810c8016b18502c4cc9__86762.1630736408.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD6511559103S_M1", "swatch": "Ultra Blue-Black", "choice": "S-M", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6511559103XSS1", "swatch": "Ultra Blue-Black", "choice": "XS-S", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6511559103M_L1", "swatch": "Ultra Blue-Black", "choice": "M-L", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6511559103LXL1", "swatch": "Ultra Blue-Black", "choice": "L-XL", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6511559103XXL1", "swatch": "Ultra Blue-Black", "choice": "XXL", "price": { "list": "$89.95", "sale": "$67.46" } }
+    ]
+  },
+  {
+    "name": "Momentum 4s Harness Package",
+    "link": "/en_US/product/momentum-4s-harness-package/?colorid=5237",
+    "description": "With everything you need to get started in the gym or at the crag, the momentum 4 s harness package is a complete, convenient package featuring our most versatile all-purpose harness, belay device, locking carabiner, chalk, and chalk bag. The Black Diamond Momentum 4S harness features maximum adjustability and range of fit. Two Speed buckles on the waistbelt and one on each leg loop allow for an incredible range of fit for multi-season and multi-climber use, while the tall, bullhorn-shaped waistbelt improves comfort during long belays.",
+    "bullets": [
+      "Two pre-threaded Speed buckles on waistbelt and one on each leg loop for maximum adjustability",
+      "Tall, padded bullhorn-shaped waistbelt built using Dual Core Construction™",
+      "Four pressure-molded gear loops",
+      "Adjustable, releasable elastic rear risers",
+      "Available in three sizes: XXS/S; S/M; L/XL",
+      "Please note that the XXS/S size only has 2 gear loops due to size restraints on the waist belt.",
+      "ATC-XP belay/rappel device",
+      "RockLock Screwgate carabiner",
+      "Mojo chalk bag (random color)",
+      "BD White Gold chalk"
+    ],
+    "specs": [
+      { "label": "Series", "value": "All-Around" },
+      { "label": "Size Range", "value": "XXS - XL" },
+      { "label": "Materials", "value": "Ny210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "[Harness only (XS/M)] 340 g (12 oz)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8954_source_1664950699.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1309/48667/2da6176a56db64994a04e4f3bdc0808a630ca368__58960.1615575566.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1309/48668/84e32f7d56e90cac635decdd725ef72edbf99614__63180.1615575566.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1309/48666/3552160b6ed2c9aecbb0b59f31f6ce4c69a038ae__56840.1615575565.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD6511520001XSM1", "swatch": "Anthracite", "choice": "XS/M", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD6511520001LXL1", "swatch": "Anthracite", "choice": "L/XL", "price": { "list": "$119.95", "sale": "$89.96" } }
+    ]
+  },
+  {
+    "name": "Momentum Harness - Kid's Full Body",
+    "link": "/en_US/product/momentum-harness-kids-fl-body/",
+    "description": "Designed with the same construction as our time-tested Momentum Harnesses, the Black Diamond Momentum Kid's Full Body provides full support without sacrificing comfort for the mini-me crushers of the world. Easily adjustable with a high tie-in point, it dials in all the details with easy on and off to make gym time enjoyable for everyone. The harness allows for maximum fit adjustments for growing kids.",
+    "bullets": ["Momentum Harness construction", "Easily adjustable", "Easy on-off", "High tie-in point keeps kids upright", "Comfortable construction that minimizes pressure points", "One size fits all"],
+    "specs": [
+      { "label": "Weight", "value": "314 g (11.1 oz)" },
+      { "label": "Series", "value": "All-Around" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Size Range", "value": "Waist: 35-65 cm (14-26 in) Leg: 51 cm max (20 in max)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1306/49609/jxcjl4fp9tlkybuotzbs__48562.1610054124.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1306/49610/50e5524f8a74a6593ecd8b6abb5953b9d35809ec__73352.1610054125.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1306/49609/jxcjl4fp9tlkybuotzbs__48562.1610054124.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD6511094004ALL1", "swatch": null, "choice": null, "price": { "list": "$69.95", "sale": "$52.46" } }]
+  },
+  {
+    "name": "Momentum Harness - Kid's",
+    "link": "/en_US/product/momentum-harness-kids/?colorid=5204",
+    "description": "A decked-out kids' harness built for up-and-coming rock monkeys, the Kids' Black Diamond Momentum packs all the features of our adult harnesses in a smaller size. Just like the adult versions, the Kids' Momentum features our Dual Core Construction, which uses two slim bands of high-tensile webbing on the outer edges of the waistbelt and a venting OpenAir foam insert in the center to offer breathable, lightweight comfort without pressure points. And for growing kids, our trakFIT leg loop adjustment system uses a simple slide adjuster to quickly and easily adjust the diameter of the leg loop and provide a wide range of fit.",
+    "bullets": ["Pre-threaded Speed Adjust waistbelt buckle", "trakFIT™ adjustment for easy leg loop customization", "Adjustable rear elastic riser", "Two pressure-molded gear loops "],
+    "specs": [
+      { "label": "Series", "value": "All-Around Series" },
+      { "label": "Size Range", "value": "ONE SIZEWaist: 56-69 cm (22-27 in) Leg: 41-51 cm (16-20 in)" },
+      { "label": "Materials", "value": "Ny.210D ripstop, Poly 400D ripstop" },
+      { "label": "Weight", "value": "240 g (8.5 oz)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7434_source_1664950673.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1300/48643/c3187635443d5b4a2ee065bc9e9cd0c13d488db9__93319.1615575559.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1300/48644/ef2db187dbffd597557daf457b4853fafec7bd52__97047.1615575559.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1300/48645/9e87ae77171cceb0712d442eeaef0fe35f6917df__81830.1615575559.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1300/48642/6485a5c6560c4c8dab13373ac3f53153b371c865__72106.1615575559.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD6511034015ALL1", "swatch": "Kingfisher", "choice": null, "price": { "list": "$49.95", "sale": "$37.46" } }]
+  },
+  {
+    "name": "Zone - Women's - Past Season",
+    "link": "/en_US/product/zone-womens-past-season/?colorid=10010",
+    "description": "Designed for the lightweight sport climbing redpoint ice route or alpine mission, the Black Diamond Zone Harness is a versatile powerhouse. High performance, lightweight and breathable, the redesigned Zone now features our patented seamless Infinity Belay Loop, which is durable, low profile, and eliminates the dreaded belay-loop-shift when the loop-seam catches while dogging a route. Fusion Comfort Technology ensures that you'll have ample support when on the wall, while the stretch woven outer fabric adds breathability. Finally, the contoured, women’s specific fit maximizes comfort for the inevitable big whips that come from pushing your limits.",
+    "bullets": [],
+    "specs": [
+      { "label": "Display Weight", "value": "290 (M)" },
+      { "label": "Series", "value": "Sport" },
+      { "label": "Size Range", "value": "XS-L" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/16012_source_1664950641.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2112/52901/ed59794aaff4585b15f8a454f1f7030e3e378f73__51634.1635486037.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2112/52900/6609811f475c2a03e33f1e42067337367de2f22d__13463.1635486036.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD651086DCSPXS_1", "swatch": "Caspian", "choice": "XS", "price": { "list": "$99.95", "sale": "$79.96" } },
+      { "item": "BD651086DCSPSM_1", "swatch": "Caspian", "choice": "S", "price": { "list": "$99.95", "sale": "$79.96" } },
+      { "item": "BD651086DCSPMD_1", "swatch": "Caspian", "choice": "M", "price": { "list": "$99.95", "sale": "$79.96" } },
+      { "item": "BD651086DCSPLG_1", "swatch": "Caspian", "choice": "L", "price": { "list": "$99.95", "sale": "$79.96" } }
+    ]
+  },
+  {
+    "name": "Vario Speed Harness",
+    "link": "/en_US/product/vario-speed-harness/",
+    "description": "With a one-size-fits-all, simple design and a revamped to include color-coded webbing for ease of use when putting on, the Vario Speed is a great choice for guide schools, rock gyms and outdoor programs.",
+    "bullets": [
+      "Color coordinated webbing for ease of use while putting on",
+      "Large quick-adjust buckle on waistbelt is pre-threaded and doesn’t require doubling back",
+      "Single tie-in point",
+      "Quick-adjust leg loops",
+      "Constructed from wide nylon webbing",
+      "Also recommended for gym use",
+      "One size fits all"
+    ],
+    "specs": [
+      { "label": "Series", "value": "Classic Series" },
+      { "label": "Size Range", "value": "Fits waist sizes 58-107 cm (23-42 in)  Fits leg sizes 43-71 cm (17-28 in)" },
+      { "label": "Weight", "value": "412 g or 14.5 oz" },
+      { "label": "Materials", "value": "Poly" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1285/49608/bb334c4d789de4c43189421c5551e265d1cd1a61__83020.1610054122.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1285/49608/bb334c4d789de4c43189421c5551e265d1cd1a61__83020.1610054122.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD650075KFSHALL1", "swatch": null, "choice": null, "price": { "list": "$64.95", "sale": "$48.71" } }]
+  },
+  {
+    "name": "Vario Chest Harness",
+    "link": "/en_US/product/vario-chest-harness/",
+    "description": "When upright stability is needed, the lightweight, durable and affordable Vario Chest is your choice. This go-to harness for gym and institutional use is now updated to include color coordinated webbing for ease of use while putting it on.",
+    "bullets": ["Constructed from color coded wide nylon webbing", "Traditional buckles", "Must be worn with a sit harness; cannot be used alone"],
+    "specs": [
+      { "label": "Series", "value": "Classic Series" },
+      { "label": "Size Range", "value": "Fits Chest Sizes 61 - 117 cm (24 - 46 in)" },
+      { "label": "Weight", "value": "338 g (11.9 oz)" },
+      { "label": "Materials", "value": "Poly" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1284/49607/6f8a072528656e70d92d3c8d5bc525785690332d__44077.1610054121.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1284/49607/6f8a072528656e70d92d3c8d5bc525785690332d__44077.1610054121.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD650074BLAKALL1", "swatch": null, "choice": null, "price": { "list": "$49.95", "sale": "$37.46" } }]
+  },
+  {
+    "name": "Vision airNET Harness RECCO",
+    "link": "/en_US/product/vision-airnet-harness-recco/?colorid=12128",
+    "description": "The pinnacle full-featured ultralight harness, the Vision airNET harness is engineered for guides, pros, and anyone pushing the limits on ice or rock in the mountains. Featuring airNET technology, this harness strikes the ideal balance between weight and packability while providing superior support. The Vision airNET also includes our patented Infinity Belay Loop, which is seamless, durable, and eliminates the dreaded belay-loop-shift. This harness is also mountain ready with four ice clipper slots and the addition of RECCO technology, which consists of an integrated RECCO passive transponder that requires no power or activation to function and makes you searchable to rescuers.",
+    "bullets": [
+      "Recco Technology features an integrated Recco Reflector, making you searchable to rescuers",
+      "Patented airNET Technology is ultralight and packable for high-end performance while distributing loads evenly across the “net” during falls",
+      "Patented Infinity Loop for belaying, which is durable, lightweight and seamless",
+      "Four pressure molded gear loops in front: Lightweight low-profile webbing 5th gear loop in back",
+      "Four ice clipper slots"
+    ],
+    "specs": [
+      { "label": "Size Range", "value": "S-XL" },
+      { "label": "Weight", "value": "250g" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/18453_source_1662012383.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57223/aee34098e248bd7a6d9e9912aa7a082793e845d3__61628.1658901833.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57224/730dbc5411ebeee599f63d249db64e705983b3e4__09420.1658901834.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57225/01a6fad5b2edd0dea2ce394e94b2808cb0991e99__34842.1658901834.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57226/e0807c7e225acee6f08db7f019ba0d8b92b56b94__36511.1658901835.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57227/1a34b7ba37057bf2a9fff2adc5ba3eb8517bbd78__40486.1658901835.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57228/6833318f246a83dfb783ed432cd1ac52b3c91815__38361.1658901836.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57229/a510ddf404b272279f154ff15710579b8cce77d0__63368.1658901837.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57230/2ff2b347be8375dc4a38df8b8b5eb86ac5537666__31083.1658901837.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2514/57222/0bbd30dcc142ba04dbcd58fbc4a63eae7b6c75e5__81840.1658901833.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD6511613011SML1", "swatch": "Envy Green", "choice": "S", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511613011MED1", "swatch": "Envy Green", "choice": "M", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511613011LRG1", "swatch": "Envy Green", "choice": "L", "price": { "list": "$169.95", "sale": "$127.46" } },
+      { "item": "BD6511613011XLG1", "swatch": "Envy Green", "choice": "XL", "price": { "list": "$169.95", "sale": "$127.46" } }
     ]
   }
 ]

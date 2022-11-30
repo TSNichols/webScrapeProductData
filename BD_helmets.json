@@ -1,15 +1,15 @@
 [
   {
     "name": "Capitan Helmet",
-    "link": "/en_US/product/capitan-helmet/?colorid=11659",
+    "link": "/en_US/product/capitan-helmet/?colorid=11322",
     "description": "Engineered to handle the abuse only its namesake big wall can dish out, the Capitan is Black Diamond’s bomber, ultra-durable helmet, featuring added coverage on both the sides and back, while maintaining a sleek, cradle fit for all-day comfort. Featuring a 2-piece ABS shell construction that allows for an optimized fit and dual colorways, the Capitan also boasts a fusion of EPP foam and an EPS foam puck, which meets the proposed UIAA increased side and back protection requirements. The Capitan’s vents provide ample breathability when temps heat up and a low-profile suspension system dials in the fit. The integrated headlamp clips with an elastic keeper on the back secure your light so you can push through the night.",
     "bullets": ["EPP + EPS + 2-piece ABS shell combo creates ultra-durability", "Increased side and back protection", "Low-profile suspension system", "Integrated headlamp clips", "Removable / reverse Velcro pads", "295g S/M", "325g M/L"],
     "specs": [
-      { "label": " Size Range ", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" },
-      { "label": " Weight ", "value": "[S/M] 295 g (10.4 oz)[M/L] 325 g (11.4 oz)" }
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" },
+      { "label": "Weight", "value": "[S/M] 295 g (10.4 oz)[M/L] 325 g (11.4 oz)" }
     ],
     "images": [
-      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/17821_source_1658901202.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/17525_source_1664430457.png",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2368/55201/68f241daa537fc100523eeef5d61902f7fc62cba__93484.1652161274.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2368/55202/aa4223ef79290746443b2b8a763f8c6ba692a0d7__84688.1652161275.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2368/55203/8057f300132bbd71454c700f29036dde1f668c5a__52438.1652161276.386.513.png?c=1",
@@ -36,17 +36,17 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2368/55200/6333b7c07fc905858d6187996316a2a2ffb69f72__04658.1652161274.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202219431S_M1", "swatch": "Ultra Pink-Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219431M_L1", "swatch": "Ultra Pink-Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219296S_M1", "swatch": "Astral/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219296M_L1", "swatch": "Astral/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219196S_M1", "swatch": "Octane/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219196M_L1", "swatch": "Octane/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219297S_M1", "swatch": "Pewter/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219297M_L1", "swatch": "Pewter/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219298S_M1", "swatch": "Mulberry/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
+      { "item": "BD6202219296S_M1", "swatch": "Astral/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219296M_L1", "swatch": "Astral/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219196S_M1", "swatch": "Octane/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219196M_L1", "swatch": "Octane/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219297S_M1", "swatch": "Pewter/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219297M_L1", "swatch": "Pewter/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219298S_M1", "swatch": "Mulberry/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
       { "item": "BD620221-MU-ML", "swatch": "Mulberry/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } },
-      { "item": "BD6202219299S_M1", "swatch": "Patina/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
+      { "item": "BD6202219431S_M1", "swatch": "Ultra Pink-Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219431M_L1", "swatch": "Ultra Pink-Black", "choice": "M-L", "price": { "list": "$69.95", "sale": "$52.46" } },
+      { "item": "BD6202219299S_M1", "swatch": "Patina/Black", "choice": "S-M", "price": { "list": "$69.95", "sale": "$52.46" } },
       { "item": "BD620221-PA-ML", "swatch": "Patina/Black", "choice": "M-L", "price": { "list": "$69.95", "sale": null } }
     ]
   },
@@ -65,8 +65,8 @@
       "355g M/L"
     ],
     "specs": [
-      { "label": " Size Range ", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" },
-      { "label": " Weight ", "value": "[S/M] 320 g (11.2 oz)[M/L] 355 g (12.5 oz)" }
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" },
+      { "label": "Weight", "value": "[S/M] 320 g (11.2 oz)[M/L] 355 g (12.5 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/17531_source_1665899756.png",
@@ -79,8 +79,8 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2369/55220/583d66279748520c514785d24da49a289f9966b3__38866.1652161285.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202229086S_M1", "swatch": "Black/White", "choice": "S-M", "price": { "list": "$119.95", "sale": null } },
-      { "item": "BD6202229086M_L1", "swatch": "Black/White", "choice": "M-L", "price": { "list": "$119.95", "sale": null } }
+      { "item": "BD6202229086S_M1", "swatch": "Black/White", "choice": "S-M", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD6202229086M_L1", "swatch": "Black/White", "choice": "M-L", "price": { "list": "$119.95", "sale": "$89.96" } }
     ]
   },
   {
@@ -89,8 +89,8 @@
     "description": "The Half Dome has long been a staple for climbers worldwide. Now redesigned, the helmet features a new lower profile suspension system with a one-handed dial combined with streamlined headlamp clips for added comfort and simplicity. Finally, an updated chin strap adds more efficiency and security while on the rock.",
     "bullets": ["EPS impact foam and durable ABS shell", "Updated, low-profile suspension system", "Streamlined, lightweight headlamp clips", "One-handed fit adjustment dial", "Easily adjustable chin strap"],
     "specs": [
-      { "label": " Size Range ", "value": "[S/M] 50-58 cm (19.7-23 in)[M/L] 56-63 cm (22-25 in)" },
-      { "label": " Display Weight ", "value": "[S/M] 330 g (11.6 oz)[M/L] 350 g (12.3 oz)" }
+      { "label": "Size Range", "value": "[S/M] 50-58 cm (19.7-23 in)[M/L] 56-63 cm (22-25 in)" },
+      { "label": "Display Weight", "value": "[S/M] 330 g (11.6 oz)[M/L] 350 g (12.3 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7184_source_1664950532.png",
@@ -100,14 +100,14 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1230/48332/27cf4e75725a9e995a84dbd8a35f02e8e3bf6649__50635.1615575456.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD620209RAINS_M1", "swatch": "Rain", "choice": "S-M", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209RAINM_L1", "swatch": "Rain", "choice": "M-L", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209BDORS_M1", "swatch": "BD Orange", "choice": "S-M", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209BDORM_L1", "swatch": "BD Orange", "choice": "M-L", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209DENMS_M1", "swatch": "Denim", "choice": "S-M", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209DENMM_L1", "swatch": "Denim", "choice": "M-L", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209SLATS_M1", "swatch": "Slate", "choice": "S-M", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620209SLATM_L1", "swatch": "Slate", "choice": "M-L", "price": { "list": "$59.95", "sale": null } }
+      { "item": "BD620209RAINS_M1", "swatch": "Rain", "choice": "S-M", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209RAINM_L1", "swatch": "Rain", "choice": "M-L", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209BDORS_M1", "swatch": "BD Orange", "choice": "S-M", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209BDORM_L1", "swatch": "BD Orange", "choice": "M-L", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209DENMS_M1", "swatch": "Denim", "choice": "S-M", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209DENMM_L1", "swatch": "Denim", "choice": "M-L", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209SLATS_M1", "swatch": "Slate", "choice": "S-M", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620209SLATM_L1", "swatch": "Slate", "choice": "M-L", "price": { "list": "$59.95", "sale": "$44.96" } }
     ]
   },
   {
@@ -116,8 +116,8 @@
     "description": "The Half Dome has long been a staple for climbers worldwide. Now redesigned to meet a woman's needs, the Half Dome Women's helmet features a fit that caters to the shape of a female head. With a shell profile that is optimized for a ponytail, you can spend less time fiddling with your hair and more time climbing. Plus, low profile, streamlined suspension and a one-handed dial combined with streamlined headlamp clips add comfort and simplicity. A low profile chin strap provides more efficiency.",
     "bullets": ["EPS impact foam and durable ABS shell", "Women’s-specific fit", "Ponytail-friendly shell design", "Lightweight headlamp clips", "One-handed fit adjustment dial", "Easily adjustable chin strap"],
     "specs": [
-      { "label": " Size Range ", "value": "50-58 cm (19.7-22.8 in)" },
-      { "label": " Display Weight ", "value": "330 g (11.6 oz)" }
+      { "label": "Size Range", "value": "50-58 cm (19.7-22.8 in)" },
+      { "label": "Display Weight", "value": "330 g (11.6 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7178_source_1664950528.png",
@@ -128,8 +128,8 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1229/48327/9f9acf4358be2237faeb1a0365f619a5de036ae8__78154.1615575455.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD620208ALUMS_M1", "swatch": "Aluminum", "choice": "One Size", "price": { "list": "$59.95", "sale": null } },
-      { "item": "BD620208CSPNS_M1", "swatch": "Caspian", "choice": "One Size", "price": { "list": "$59.95", "sale": null } }
+      { "item": "BD620208ALUMS_M1", "swatch": "Aluminum", "choice": "One Size", "price": { "list": "$59.95", "sale": "$44.96" } },
+      { "item": "BD620208CSPNS_M1", "swatch": "Caspian", "choice": "One Size", "price": { "list": "$59.95", "sale": "$44.96" } }
     ]
   },
   {
@@ -138,8 +138,8 @@
     "description": "Providing ultralight, low-profile protection, unparalleled ventilation and a secure and super-comfortable fit, the Black Diamond Vapor helmet is a go-anywhere cragging lid that proves helmets aren't just for multi-pitch trad climbs and big alpine faces. We engineered a sheet of Kevlar and a series of carbon rods in between co-molded EPS foam and a polycarbonate shell to keep the weight at a minimum while keeping you protected. The Vapor's ratcheting suspension tucks into the helmet for compact storage in your pack or haul bag, and removable headlamp clips secure your light on pre-dawn starts or when rapping after dark.",
     "bullets": ["Co-molded EPS foam with polycarbonate shell is lower profile than the Vector", "Geometric, open-air design provides unparalleled airflow", "Ratchet adjuster with molded push buttons", "Headlamp clips are removable for reduced snagging on slings and clothing"],
     "specs": [
-      { "label": " Size Range ", "value": " [S/M] 53-59 cm (21-23 in)  [M/L] 58-63 cm (23-25 in)" },
-      { "label": " Display Weight ", "value": " [S/M] 186 g (6.6 oz)  [M/L] 199 g (7 oz)" }
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)  [M/L] 58-63 cm (23-25 in)" },
+      { "label": "Display Weight", "value": "[S/M] 186 g (6.6 oz)  [M/L] 199 g (7 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7190_source_1664950539.png",
@@ -159,18 +159,18 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1233/48342/5346c89f86fca47d32158ca526e220fc5427cba2__74842.1615575459.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202154012S_M1", "swatch": "Ice Blue", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD6202154012M_L1", "swatch": "Ice Blue", "choice": "M-L", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD6202156018S_M1", "swatch": "Bordeaux", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD6202156018M_L1", "swatch": "Bordeaux", "choice": "M-L", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD6202158001S_M1", "swatch": "Octane", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD6202158001M_L1", "swatch": "Octane", "choice": "M-L", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215BLZZS_M1", "swatch": "Blizzard", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215BLZZM_L1", "swatch": "Blizzard", "choice": "M-L", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215ENGRS_M1", "swatch": "Envy Green", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215ENGRM_L1", "swatch": "Envy Green", "choice": "M-L", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215SGRYS_M1", "swatch": "Steel Grey", "choice": "S-M", "price": { "list": "$139.95", "sale": null } },
-      { "item": "BD620215SGRYM_L1", "swatch": "Steel Grey", "choice": "M-L", "price": { "list": "$139.95", "sale": null } }
+      { "item": "BD6202154012S_M1", "swatch": "Ice Blue", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD6202154012M_L1", "swatch": "Ice Blue", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD6202156018S_M1", "swatch": "Bordeaux", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD6202156018M_L1", "swatch": "Bordeaux", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD6202158001S_M1", "swatch": "Octane", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD6202158001M_L1", "swatch": "Octane", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215BLZZS_M1", "swatch": "Blizzard", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215BLZZM_L1", "swatch": "Blizzard", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215ENGRS_M1", "swatch": "Envy Green", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215ENGRM_L1", "swatch": "Envy Green", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215SGRYS_M1", "swatch": "Steel Grey", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } },
+      { "item": "BD620215SGRYM_L1", "swatch": "Steel Grey", "choice": "M-L", "price": { "list": "$139.95", "sale": "$104.96" } }
     ]
   },
   {
@@ -179,8 +179,8 @@
     "description": "The most durable foam helmet in the Black Diamond line-up, the Vision helmet features a fusion of EPP foam, an EPS foam puck, and a ABS shell, which keeps the dings and dents at bay, while remaining incredibly lightweight at just 215 grams. Improved side and back coverage add a new level of protection that meets proposed UIAA requirements, while the strategically placed ventilation ports keep the air flowing when temps are high. The suspension system and chin strap keep the Vision sleek, and the integrated headlamp clips are low-profile so they don't snag on over-the-shoulder slings and allow you to easily light the way on sends that push past the daylight hours.",
     "bullets": ["EPP + EPS + ABS shell combo creates most durable foam helmet in Black Diamond line-up", "Low-profile suspension system", "Lightweight at 215 grams", "Integrated headlamp clips", "Removable / reverse Velcro pads"],
     "specs": [
-      { "label": " Display Weight ", "value": "[S/M] 215 g (7.5 oz)[M/L] 225 g (7.9 oz)" },
-      { "label": " Size Range ", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
+      { "label": "Display Weight", "value": "[S/M] 215 g (7.5 oz)[M/L] 225 g (7.9 oz)" },
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7209_source_1664950554.png",
@@ -192,17 +192,17 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1235/48359/68300014e586935391f9c47b4d6aecd6badfb1b9__02705.1615575466.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202176002S_M1", "swatch": "Hyper Red", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202176002M_L1", "swatch": "Hyper Red", "choice": "M-L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202173010S_M1", "swatch": "Tundra", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202173010M_L1", "swatch": "Tundra", "choice": "M-L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202173019S_M1", "swatch": "Aqua Verde", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
+      { "item": "BD6202176002S_M1", "swatch": "Hyper Red", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202176002M_L1", "swatch": "Hyper Red", "choice": "M-L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202173010S_M1", "swatch": "Tundra", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202173010M_L1", "swatch": "Tundra", "choice": "M-L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202173019S_M1", "swatch": "Aqua Verde", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
       { "item": "BD620217-AQ-ML", "swatch": "Aqua Verde", "choice": "M-L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202174002S_M1", "swatch": "Astral Blue", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202174002M_L1", "swatch": "Astral Blue", "choice": "M-L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202174030S_M1", "swatch": "Storm Blue", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202174030M_L1", "swatch": "Storm Blue", "choice": "M-L", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD6202176018S_M1", "swatch": "Bordeaux", "choice": "S-M", "price": { "list": "$99.95", "sale": null } },
+      { "item": "BD6202174002S_M1", "swatch": "Astral Blue", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202174002M_L1", "swatch": "Astral Blue", "choice": "M-L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202174030S_M1", "swatch": "Storm Blue", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202174030M_L1", "swatch": "Storm Blue", "choice": "M-L", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD6202176018S_M1", "swatch": "Bordeaux", "choice": "S-M", "price": { "list": "$99.95", "sale": "$74.96" } },
       { "item": "BD620217-BO-ML", "swatch": "Bordeaux", "choice": "M-L", "price": { "list": "$99.95", "sale": null } }
     ]
   },
@@ -218,8 +218,8 @@
       "Removable / reverse Velcro pads"
     ],
     "specs": [
-      { "label": " Display Weight ", "value": "[S/M] 240 g (8.4 oz)[M/L] 250 g (8.8 oz)" },
-      { "label": " Size Range ", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
+      { "label": "Display Weight", "value": "[S/M] 240 g (8.4 oz)[M/L] 250 g (8.8 oz)" },
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/7211_source_1664950555.png",
@@ -228,8 +228,8 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1236/48369/27538c4ce5e028b084bf92805e0fd2d14fee2070__72221.1615575469.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202180002S_M1", "swatch": "Black", "choice": "S-M", "price": { "list": "$149.95", "sale": null } },
-      { "item": "BD6202180002M_L1", "swatch": "Black", "choice": "M-L", "price": { "list": "$149.95", "sale": null } }
+      { "item": "BD6202180002S_M1", "swatch": "Black", "choice": "S-M", "price": { "list": "$149.95", "sale": "$112.46" } },
+      { "item": "BD6202180002M_L1", "swatch": "Black", "choice": "M-L", "price": { "list": "$149.95", "sale": "$112.46" } }
     ]
   },
   {
@@ -238,8 +238,8 @@
     "description": "A revolutionary helmet that's ideal for long routes, alpine climbs and other weight-sensitive missions, the Black Diamond Vector Helmet combines lightweight protection, excellent ventilation and \"barely-there\" comfort like never before. The geometric, co-molded EPS foam and polycarbonate shell provide full-coverage protection while remaining incredibly lightweight and comfortable, and the generous ventilation ports keep air flowing on warm days. The ratcheting suspension tucks away for easy storage in your pack, and when the sun gets down before you do, the Vector's in-mold headlamp clips provide an ultra-secure attachment.",
     "bullets": ["Co-molded EPS foam with polycarbonate shell", "Large ventilation ports provide max airflow", "Ratchet adjuster with molded push buttons", "In-mold headlamp clips for ultra-secure attachment", "Tuck-away suspension makes for compact storage", "Available in two sizes"],
     "specs": [
-      { "label": " Display Weight ", "value": "[S/M] 231 g (8.1 oz)[M/L] 240 g (8.5 oz)" },
-      { "label": " Size Range ", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
+      { "label": "Display Weight", "value": "[S/M] 231 g (8.1 oz)[M/L] 240 g (8.5 oz)" },
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8939_source_1664950536.png",
@@ -248,11 +248,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1231/48336/aa011a899f8132643922f096fd2ea8d8d67d4ba7__67810.1615575457.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD6202139137S_M1", "swatch": "Alloy/Octane", "choice": "S/M", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6202139137M_L1", "swatch": "Alloy/Octane", "choice": "M/L", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6202139140S_M1", "swatch": "Sulphur/Anthracite", "choice": "S/M", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6202139140M_L1", "swatch": "Sulphur/Anthracite", "choice": "M/L", "price": { "list": "$89.95", "sale": null } },
-      { "item": "BD6202139138S_M1", "swatch": "Blizzard/Teal", "choice": "S/M", "price": { "list": "$89.95", "sale": null } },
+      { "item": "BD6202139137S_M1", "swatch": "Alloy/Octane", "choice": "S/M", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6202139137M_L1", "swatch": "Alloy/Octane", "choice": "M/L", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6202139140S_M1", "swatch": "Sulphur/Anthracite", "choice": "S/M", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6202139140M_L1", "swatch": "Sulphur/Anthracite", "choice": "M/L", "price": { "list": "$89.95", "sale": "$67.46" } },
+      { "item": "BD6202139138S_M1", "swatch": "Blizzard/Teal", "choice": "S/M", "price": { "list": "$89.95", "sale": "$67.46" } },
       { "item": "BD620213-ML-BL", "swatch": "Blizzard/Teal", "choice": "M/L", "price": { "list": "$89.95", "sale": null } }
     ]
   },
@@ -271,8 +271,8 @@
       "Removable velcro pads"
     ],
     "specs": [
-      { "label": " Size Range ", "value": "49-55 cm (19.3-22.5 in)" },
-      { "label": " Weight ", "value": "383 g (13.5 oz)" }
+      { "label": "Size Range", "value": "49-55 cm (19.3-22.5 in)" },
+      { "label": "Weight", "value": "383 g (13.5 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2371/57584/d34c1dd672ca1ef0c0f28aac41595172920e8fa7__36774.1660890325.386.513.png?c=1",
@@ -282,7 +282,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2371/57588/a5ede9ffe336143adce007916f7b2df8b5baf822__24158.1660890326.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2371/57584/d34c1dd672ca1ef0c0f28aac41595172920e8fa7__36774.1660890325.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD6202289371ALL1", "swatch": null, "choice": null, "price": { "list": "$94.95", "sale": "$75.96" } }]
+    "variants": [{ "item": "BD6202289371ALL1", "swatch": null, "choice": null, "price": { "list": "$94.95", "sale": "$71.21" } }]
   },
   {
     "name": "Capitan Kid's Helmet",
@@ -290,8 +290,8 @@
     "description": "Built for young crushers who send it with mom and dad at the crag and then rally their pedal bike back at camp, the Capitan Kid’s Helmet is dual-certified for both climbing and biking, making it the ultimate one-quiver helmet for tikes. Featuring a 2-piece ABS shell construction and dual density EPS foam, the kid’s Capitan meets the proposed UIAA increased side and back protection requirements, while the vents provide ample breathability for warmer days. A low-profile suspension system dials in the fit, and the integrated headlamp clips with an elastic keeper on the back allow you to clip a Wiz Kid headlamp to the helmet for evening sessions. Finally, an included sticker pack gives your kid the ability to customize the look of their helmet, adding a spark of individuality to your kid’s favorite protective lid.",
     "bullets": [],
     "specs": [
-      { "label": " Size Range ", "value": "49-55 cm (19.3-22.5 in)" },
-      { "label": " Weight ", "value": "358 g (12.6 oz)" }
+      { "label": "Size Range", "value": "49-55 cm (19.3-22.5 in)" },
+      { "label": "Weight", "value": "358 g (12.6 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2370/57579/8e19f2e4634b3731f3ecbc71f1e67b73d10e2f85__06623.1660890322.386.513.png?c=1",
@@ -301,14 +301,14 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2370/57583/d16bdd1a83d984c8cd5e0a7cdab5cd6d6563608e__17071.1660890323.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2370/57579/8e19f2e4634b3731f3ecbc71f1e67b73d10e2f85__06623.1660890322.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD6202279372ALL1", "swatch": null, "choice": null, "price": { "list": "$69.95", "sale": "$55.96" } }]
+    "variants": [{ "item": "BD6202279372ALL1", "swatch": null, "choice": null, "price": { "list": "$69.95", "sale": "$52.46" } }]
   },
   {
     "name": "Vapor Helmet - Hazel Findlay Edition",
     "link": "/en_US/product/vapor-helmet-w-hazel-edition/?colorid=6596",
     "description": null,
     "bullets": [],
-    "specs": [{ "label": " Weight ", "value": "6.56" }],
+    "specs": [{ "label": "Weight", "value": "6.56" }],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/9539_source_1610126642.png",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1238/49567/44c4316484fb600d6ec1a1d37f96a290e612e751__98393.1610054074.386.513.png?c=1",
@@ -316,20 +316,51 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1238/49569/428c06dd739ab0bc1fdea8be3e02dfa5f6b9b438__74665.1610126512.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1238/49570/764a738d122c21e2a0d6d90c935c0fb063316e89__39785.1610126512.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD6202254012S_M1", "swatch": "Ice Blue", "choice": "S-M", "price": { "list": "$139.95", "sale": null } }]
+    "variants": [{ "item": "BD6202254012S_M1", "swatch": "Ice Blue", "choice": "S-M", "price": { "list": "$139.95", "sale": "$104.96" } }]
+  },
+  {
+    "name": "Access Fund Capitan Helmet",
+    "link": "/en_US/product/access-fund-capitan-helmet/?colorid=12529",
+    "description": "Engineered to handle the abuse only its namesake big wall can dish out, the Capitan is Black Diamond’s bomber, ultra-durable helmet, featuring added coverage on both the sides and back, while maintaining a sleek, cradle fit for all-day comfort. Featuring a 2-piece ABS shell construction that allows for an optimized fit and dual colorways, the Capitan also boasts a fusion of EPP foam and an EPS foam puck, which meets the proposed UIAA increased side and back protection requirements. The Capitan’s vents provide ample breathability when temps heat up and a low-profile suspension system dials in the fit. The integrated headlamp clips with an elastic keeper on the back secure your light so you can push through the night. A percentage of sales from the Access Fund Capitan Helmet goes to the Access Fund, which supports sustainable access and conservation of climbing areas.",
+    "bullets": [
+      "Percentage of sales goes to the Access Fund",
+      "Artwork by Andy Earl",
+      "EPP + EPS + 2-piece ABS shell combo creates ultra-durability",
+      "Increased side and back protection",
+      "Low-profile suspension system",
+      "Integrated headlamp clips",
+      "Removable / reverse Velcro pads",
+      "295g S/M",
+      "325g M/L"
+    ],
+    "specs": [
+      { "label": "Size Range", "value": "[S/M] 53-59 cm (21-23 in)[M/L] 58-63 cm (23-25 in)" },
+      { "label": "Weight", "value": "[S/M] 295 g (10.4 oz)[M/L] 325 g (11.4 oz)" }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/19255_source_1669185836.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2604/57966/fb3563b7d22ac7e59585540a4c4c5bd22d65ae34__88333.1669099376.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2604/57967/2d9fe5a7410a9fe2fb38eae87b0d549570777caa__79235.1669099377.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2604/57968/eda91eba3de09943ecf71e6d41c4b19537548ffe__18073.1669099377.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/2604/57965/eb92feca6ea99df91582683dc7e70011da183686__28062.1669099376.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD6202249314S_M1", "swatch": "Birch-Fir", "choice": "S-M", "price": { "list": "$69.95", "sale": null } },
+      { "item": "BD6202249314M_L1", "swatch": "Birch-Fir", "choice": "M-L", "price": { "list": "$69.95", "sale": null } }
+    ]
   },
   {
     "name": "Vapor Helmet - Women's",
     "link": "/en_US/product/vapor-helmet-womens/",
     "description": "Providing ultralight, low-profile protection, unparalleled ventilation and a secure and super-comfortable fit, the Black Diamond Vapor helmet is a go-anywhere cragging lid that proves helmets aren't just for multi-pitch trad climbs and big alpine faces. We engineered a sheet of Kevlar and a series of carbon rods in between co-molded EPS foam and a polycarbonate shell to keep the weight at a minimum while keeping you protected. The Vapor's ratcheting suspension tucks into the helmet for compact storage in your pack or haul bag, and removable headlamp clips secure your light on pre-dawn starts or when rapping after dark.",
     "bullets": ["Co-molded EPS foam with polycarbonate shell is lower profile than the Vector", "Geometric, open-air design provides unparalleled airflow", "Ratchet adjuster with molded push buttons", "Headlamp clips are removable for reduced snagging on slings and clothing", "Size: S/M"],
-    "specs": [{ "label": " Weight ", "value": "186 g (6.6 oz) " }],
+    "specs": [{ "label": "Weight", "value": "186 g (6.6 oz)" }],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1921/52705/a3c4deadacf9b1176fe52b893b27e3ef11a4942c__58987.1633542828.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1921/52706/5f5eed6a46999347633592cff40bdc136390d83c__93123.1633542829.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1921/52707/95ed6a6c37fc04647d50ff5ef1b3bcfba296317d__68807.1633542829.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1921/52705/a3c4deadacf9b1176fe52b893b27e3ef11a4942c__58987.1633542828.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD6202156015S_M1", "swatch": null, "choice": null, "price": { "list": "$139.95", "sale": null } }]
+    "variants": [{ "item": "BD6202156015S_M1", "swatch": null, "choice": null, "price": { "list": "$139.95", "sale": "$104.96" } }]
   }
 ]

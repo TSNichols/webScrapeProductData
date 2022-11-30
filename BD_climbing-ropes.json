@@ -8,14 +8,14 @@
       "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "0.34" },
-      { "label": " Rope Factor Falls ", "value": "7" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "8 kN" },
-      { "label": " Rope Sheath Slippage ", "value": "-0.001" },
-      { "label": " Rope Static Elongation ", "value": "0.084" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "58 g (2.05 oz)" }
+      { "label": "Rope Dynamic Elongation", "value": "0.34" },
+      { "label": "Rope Factor Falls", "value": "7" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "8 kN" },
+      { "label": "Rope Sheath Slippage", "value": "-0.001" },
+      { "label": "Rope Static Elongation", "value": "0.084" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "58 g (2.05 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6525_source_1664950087.png",
@@ -23,11 +23,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1048/48053/2ab9a5b64592a16e265a1ff117ec15a01639a9ee__13213.1615575334.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323021GOLD0351", "swatch": "Gold", "choice": "35m", "price": { "list": "$99.95", "sale": null } },
-      { "item": "BD323021GOLD0401", "swatch": "Gold", "choice": "40m", "price": { "list": "$109.95", "sale": null } },
-      { "item": "BD323021GOLD0601", "swatch": "Gold", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
-      { "item": "BD323021GOLD0701", "swatch": "Gold", "choice": "70m", "price": { "list": "$209.95", "sale": null } },
-      { "item": "BD323021GOLD0801", "swatch": "Gold", "choice": "80m", "price": { "list": "$239.95", "sale": null } }
+      { "item": "BD323021GOLD0351", "swatch": "Gold", "choice": "35m", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD323021GOLD0401", "swatch": "Gold", "choice": "40m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323021GOLD0601", "swatch": "Gold", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323021GOLD0701", "swatch": "Gold", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } },
+      { "item": "BD323021GOLD0801", "swatch": "Gold", "choice": "80m", "price": { "list": "$239.95", "sale": "$179.96" } }
     ]
   },
   {
@@ -40,14 +40,14 @@
       "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "37%" },
-      { "label": " Rope Factor Falls ", "value": "6" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "7.9 kN" },
-      { "label": " Rope Sheath Slippage ", "value": "0%" },
-      { "label": " Rope Static Elongation ", "value": "6.4%" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "58 g (2.05 oz)" }
+      { "label": "Rope Dynamic Elongation", "value": "37%" },
+      { "label": "Rope Factor Falls", "value": "6" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "7.9 kN" },
+      { "label": "Rope Sheath Slippage", "value": "0%" },
+      { "label": "Rope Static Elongation", "value": "6.4%" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "58 g (2.05 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6530_source_1664950091.png",
@@ -55,10 +55,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1049/48055/a9c188af2694cb27b20af48d975d1273caf4192c__97818.1615575336.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323022ENGR0351", "swatch": "Envy Green", "choice": "35m", "price": { "list": "$109.95", "sale": null } },
-      { "item": "BD323022ENGR0401", "swatch": "Envy Green", "choice": "40m", "price": { "list": "$119.95", "sale": null } },
-      { "item": "BD323022ENGR0601", "swatch": "Envy Green", "choice": "60m", "price": { "list": "$249.95", "sale": null } },
-      { "item": "BD323022ENGR0701", "swatch": "Envy Green", "choice": "70m", "price": { "list": "$279.95", "sale": null } }
+      { "item": "BD323022ENGR0351", "swatch": "Envy Green", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323022ENGR0401", "swatch": "Envy Green", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323022ENGR0601", "swatch": "Envy Green", "choice": "60m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323022ENGR0701", "swatch": "Envy Green", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } }
     ]
   },
   {
@@ -70,14 +70,14 @@
       "Durability and Handling Balance: Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "0.26" },
-      { "label": " Rope Factor Falls ", "value": "7" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "9.4 kN" },
-      { "label": " Rope Static Elongation ", "value": "0.033" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "60 g (2.3 oz)" },
-      { "label": " Rope Sheath Slippage ", "value": "+/- .01" }
+      { "label": "Rope Dynamic Elongation", "value": "0.26" },
+      { "label": "Rope Factor Falls", "value": "7" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "9.4 kN" },
+      { "label": "Rope Static Elongation", "value": "0.033" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "60 g (2.3 oz)" },
+      { "label": "Rope Sheath Slippage", "value": "+/- .01" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8769_source_1664950094.png",
@@ -86,10 +86,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1050/57637/e3b1266f26115b8a40ce115bababfeff59f26042__96423.1662617571.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323040DUBL0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$119.95", "sale": null } },
-      { "item": "BD323040DUBL0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$129.95", "sale": null } },
-      { "item": "BD323040DUBL0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$199.95", "sale": null } },
-      { "item": "BD323040DUBL0701", "swatch": "Dual Blue", "choice": "70m", "price": { "list": "$209.95", "sale": null } }
+      { "item": "BD323040DUBL0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323040DUBL0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD323040DUBL0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD323040DUBL0701", "swatch": "Dual Blue", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } }
     ]
   },
   {
@@ -107,11 +107,11 @@
       "60m, 70m, 80m"
     ],
     "specs": [
-      { "label": " Rope Factor Falls ", "value": "9" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "58 g/m" },
-      { "label": " Size Range ", "value": "60m, 70m, 80m" }
+      { "label": "Rope Factor Falls", "value": "9" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "58 g/m" },
+      { "label": "Size Range", "value": "60m, 70m, 80m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10409_source_1662702904.png",
@@ -121,9 +121,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50858/hs5rg3apbhrfl5a8ok1q__50805.1615575341.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311593620601", "swatch": "Blue/Red", "choice": "60m", "price": { "list": "$259.95", "sale": null } },
-      { "item": "BD32311593620701", "swatch": "Blue/Red", "choice": "70m", "price": { "list": "$279.95", "sale": null } },
-      { "item": "BD32311593620801", "swatch": "Blue/Red", "choice": "80m", "price": { "list": "$299.95", "sale": null } }
+      { "item": "BD32311593620601", "swatch": "Blue/Red", "choice": "60m", "price": { "list": "$259.95", "sale": "$194.96" } },
+      { "item": "BD32311593620701", "swatch": "Blue/Red", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
+      { "item": "BD32311593620801", "swatch": "Blue/Red", "choice": "80m", "price": { "list": "$299.95", "sale": "$224.96" } }
     ]
   },
   {
@@ -141,10 +141,10 @@
       "70m"
     ],
     "specs": [
-      { "label": " Rope Factor Falls ", "value": "6" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "58 g/m" }
+      { "label": "Rope Factor Falls", "value": "6" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "58 g/m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/13418_source_1628793365.png",
@@ -154,35 +154,6 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1920/50862/h3wdnlmxxad0felfpim2__79382.1615575342.386.513.png?c=1"
     ],
     "variants": [{ "item": "BD32311693160701", "swatch": "Green/Yellow", "choice": "70m", "price": { "list": "$299.95", "sale": null } }]
-  },
-  {
-    "name": "8.6 Dry Climbing Rope - Past Season",
-    "link": "/en_US/product/8-6-dry-climbing-rope-ondra-edition/",
-    "description": "The Black Diamond 8.6 dry climbing rope is our slimmest diameter single rope specifically designed for your hardest redpoints. Featuring the durable 2X2 woven sheath, this 8.6 has a dry treated core and sheath for extra durability and weather resistance. The triple dash middle marker is easy to spot and adds a margin of safety, while the 80-meter length is ideal for the pumpfest enduro routes that test your limits and the length of shorter cords.",
-    "bullets": [
-      "The slimmest diameter single rope in our line",
-      "Triple Dash Middle Marker—adds margin of safety for identifying middle of rope",
-      "UIAA Dry—With a core and sheath that are dry treated, this rope is protected against weather from the inside out and meets the UIAA Water Repellent standard",
-      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
-      "Climb Ready Coil—tie in for a pitch right out of the packaging",
-      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
-      "80m"
-    ],
-    "specs": [
-      { "label": " Length ", "value": "80m" },
-      { "label": " Rope Factor Falls ", "value": "5" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single/Half/Twin" },
-      { "label": " Rope Weight Per Meter ", "value": "50 g/m" },
-      { "label": " Size Range ", "value": "80m" }
-    ],
-    "images": [
-      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1860/55110/17c36fd68bb2feb97e96964729e2a198a4be1a9f__69726.1650611452.386.513.png?c=1",
-      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1860/55111/f1896bdf74e02174623edd558bd213c2172bfeeb__20963.1650611453.386.513.png?c=1",
-      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1860/55112/1eaa125580ab59dd0bba9e416988fddc34d26d00__49926.1650611453.386.513.png?c=1",
-      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1860/55110/17c36fd68bb2feb97e96964729e2a198a4be1a9f__69726.1650611452.386.513.png?c=1"
-    ],
-    "variants": [{ "item": "BD32311393180801", "swatch": null, "choice": null, "price": { "list": "$349.95", "sale": "$279.96" } }]
   },
   {
     "name": "8.5 Dry Climbing Rope",
@@ -195,14 +166,14 @@
       "Half/twin ropes must be used in pairs.  Do not use as a single rope"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "35% [Half] 33% [Twin]" },
-      { "label": " Rope Factor Falls ", "value": "10 [Half] 17 [Twin]" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "5 kN [Half] 7.7 [Twin]" },
-      { "label": " Rope Sheath Slippage ", "value": "0.001" },
-      { "label": " Rope Static Elongation ", "value": "7% [Half and Twin]" },
-      { "label": " Rope Type ", "value": "Half/Twin" },
-      { "label": " Rope Weight Per Meter ", "value": "46 g (1.62 oz)" }
+      { "label": "Rope Dynamic Elongation", "value": "35% [Half] 33% [Twin]" },
+      { "label": "Rope Factor Falls", "value": "10 [Half] 17 [Twin]" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "5 kN [Half] 7.7 [Twin]" },
+      { "label": "Rope Sheath Slippage", "value": "0.001" },
+      { "label": "Rope Static Elongation", "value": "7% [Half and Twin]" },
+      { "label": "Rope Type", "value": "Half/Twin" },
+      { "label": "Rope Weight Per Meter", "value": "46 g (1.62 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6513_source_1664950073.png",
@@ -212,12 +183,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48047/1dbf67181345beafaea2b074160c0bd64a222f1c__68880.1615575332.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323015ULBL0501", "swatch": "Ultra Blue", "choice": "50m", "price": { "list": "$149.95", "sale": null } },
-      { "item": "BD323015ULBL0601", "swatch": "Ultra Blue", "choice": "60m", "price": { "list": "$219.95", "sale": null } },
-      { "item": "BD323015ULBL0701", "swatch": "Ultra Blue", "choice": "70m", "price": { "list": "$249.95", "sale": null } },
-      { "item": "BD323015GREN0501", "swatch": "Green", "choice": "50m", "price": { "list": "$149.95", "sale": null } },
-      { "item": "BD323015GREN0601", "swatch": "Green", "choice": "60m", "price": { "list": "$219.95", "sale": null } },
-      { "item": "BD323015GREN0701", "swatch": "Green", "choice": "70m", "price": { "list": "$249.95", "sale": null } }
+      { "item": "BD323015ULBL0501", "swatch": "Ultra Blue", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
+      { "item": "BD323015ULBL0601", "swatch": "Ultra Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323015ULBL0701", "swatch": "Ultra Blue", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323015GREN0501", "swatch": "Green", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
+      { "item": "BD323015GREN0601", "swatch": "Green", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323015GREN0701", "swatch": "Green", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } }
     ]
   },
   {
@@ -226,11 +197,11 @@
     "description": "Move seamlessly from the crag to an all-day multi-pitch adventure or winter outing with the versatile Black Diamond 9.6 Bi-pattern Dry. Featuring a 2X2 weave construction to that’s durable and supple and a bi-pattern for quick middle marker recognition, the 9.6 hits that sweet spot of being thin enough for a hard sport redpoint or mixed route, but thick enough to take a seasonal beating in the desert. With a comfortable handling that knots easily and feeds smoothly through a belay device, the BD 9.6 is our multi-faceted workhorse climbing cord.",
     "bullets": ["60m, 70m, 80m"],
     "specs": [
-      { "label": " Rope Factor Falls ", "value": "7" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "61 g/m" },
-      { "label": " Size Range ", "value": "60m, 70m, 80m" }
+      { "label": "Rope Factor Falls", "value": "7" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "61 g/m" },
+      { "label": "Size Range", "value": "60m, 70m, 80m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10415_source_1650694880.png",
@@ -238,9 +209,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1865/50480/7278d96dc305fc76d3796b56d79cd86a1d4a4552__01769.1615575343.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311840050601", "swatch": "Blue", "choice": "60m", "price": { "list": "$299.95", "sale": null } },
-      { "item": "BD32311840050701", "swatch": "Blue", "choice": "70m", "price": { "list": "$329.95", "sale": null } },
-      { "item": "BD32311840050801", "swatch": "Blue", "choice": "80m", "price": { "list": "$359.95", "sale": null } }
+      { "item": "BD32311840050601", "swatch": "Blue", "choice": "60m", "price": { "list": "$299.95", "sale": "$224.96" } },
+      { "item": "BD32311840050701", "swatch": "Blue", "choice": "70m", "price": { "list": "$329.95", "sale": "$247.46" } },
+      { "item": "BD32311840050801", "swatch": "Blue", "choice": "80m", "price": { "list": "$359.95", "sale": "$269.96" } }
     ]
   },
   {
@@ -252,13 +223,13 @@
       "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "0.33" },
-      { "label": " Rope Factor Falls ", "value": "5" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "8.2 kN" },
-      { "label": " Rope Static Elongation ", "value": "0.054" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "66 g/m" }
+      { "label": "Rope Dynamic Elongation", "value": "0.33" },
+      { "label": "Rope Factor Falls", "value": "5" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "8.2 kN" },
+      { "label": "Rope Static Elongation", "value": "0.054" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "66 g/m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8773_source_1664950101.png",
@@ -266,9 +237,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1052/48065/dd1e8d882dfcfd870d1633c5dd91d27de6015b4f__22526.1615575338.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323043TRIB0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$109.95", "sale": null } },
-      { "item": "BD323043TRIB0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$119.95", "sale": null } },
-      { "item": "BD323043TRIB0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$219.95", "sale": null } }
+      { "item": "BD323043TRIB0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323043TRIB0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323043TRIB0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } }
     ]
   },
   {
@@ -283,11 +254,11 @@
       "60m, 70m, 80m"
     ],
     "specs": [
-      { "label": " Rope Factor Falls ", "value": "9" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "58 g/m" },
-      { "label": " Size Range ", "value": "60m, 70m, 80m" }
+      { "label": "Rope Factor Falls", "value": "9" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "58 g/m" },
+      { "label": "Size Range", "value": "60m, 70m, 80m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10406_source_1662702902.png",
@@ -295,9 +266,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1861/50193/170d7936f55256bc00c1f1f88d2d3313f53508e0__19451.1615575340.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311480020601", "swatch": "Orange", "choice": "60m", "price": { "list": "$209.95", "sale": null } },
-      { "item": "BD32311480020701", "swatch": "Orange", "choice": "70m", "price": { "list": "$229.95", "sale": null } },
-      { "item": "BD32311480020801", "swatch": "Orange", "choice": "80m", "price": { "list": "$259.95", "sale": null } }
+      { "item": "BD32311480020601", "swatch": "Orange", "choice": "60m", "price": { "list": "$209.95", "sale": "$157.46" } },
+      { "item": "BD32311480020701", "swatch": "Orange", "choice": "70m", "price": { "list": "$229.95", "sale": "$172.46" } },
+      { "item": "BD32311480020801", "swatch": "Orange", "choice": "80m", "price": { "list": "$259.95", "sale": "$194.96" } }
     ]
   },
   {
@@ -311,13 +282,13 @@
       "100m Rope is an online Exclusive"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "33%/30%/27%" },
-      { "label": " Rope Factor Falls ", "value": "05/16/29" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "8.7 kN/6.1 kN/9.6 kN" },
-      { "label": " Rope Static Elongation ", "value": "0.069" },
-      { "label": " Rope Type ", "value": "Single/Half/Twin" },
-      { "label": " Rope Weight Per Meter ", "value": "52" }
+      { "label": "Rope Dynamic Elongation", "value": "33%/30%/27%" },
+      { "label": "Rope Factor Falls", "value": "05/16/29" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "8.7 kN/6.1 kN/9.6 kN" },
+      { "label": "Rope Static Elongation", "value": "0.069" },
+      { "label": "Rope Type", "value": "Single/Half/Twin" },
+      { "label": "Rope Weight Per Meter", "value": "52" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6521_source_1664950078.png",
@@ -325,13 +296,13 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1047/48051/db8280b47ed032207d5408c32e04c6342d8bbc4a__61554.1615575334.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323017ULPK0351", "swatch": "Ultra Pink", "choice": "35m", "price": { "list": "$119.95", "sale": null } },
-      { "item": "BD323017ULPK0401", "swatch": "Ultra Pink", "choice": "40m", "price": { "list": "$129.95", "sale": null } },
-      { "item": "BD323017ULPK0501", "swatch": "Ultra Pink", "choice": "50m", "price": { "list": "$199.95", "sale": null } },
-      { "item": "BD323017ULPK0601", "swatch": "Ultra Pink", "choice": "60 m", "price": { "list": "$249.95", "sale": null } },
-      { "item": "BD323017ULPK0701", "swatch": "Ultra Pink", "choice": "70m", "price": { "list": "$279.95", "sale": null } },
-      { "item": "BD323017ULPK0801", "swatch": "Ultra Pink", "choice": "80m", "price": { "list": "$309.95", "sale": null } },
-      { "item": "BD323017ULPK1001", "swatch": "Ultra Pink", "choice": "100m", "price": { "list": "$359.95", "sale": null } }
+      { "item": "BD323017ULPK0351", "swatch": "Ultra Pink", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323017ULPK0401", "swatch": "Ultra Pink", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD323017ULPK0501", "swatch": "Ultra Pink", "choice": "50m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD323017ULPK0601", "swatch": "Ultra Pink", "choice": "60 m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323017ULPK0701", "swatch": "Ultra Pink", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
+      { "item": "BD323017ULPK0801", "swatch": "Ultra Pink", "choice": "80m", "price": { "list": "$309.95", "sale": "$232.46" } },
+      { "item": "BD323017ULPK1001", "swatch": "Ultra Pink", "choice": "100m", "price": { "list": "$359.95", "sale": "$269.96" } }
     ]
   },
   {
@@ -346,11 +317,11 @@
       "60m, 70m, 80m"
     ],
     "specs": [
-      { "label": " Rope Factor Falls ", "value": "7" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Type ", "value": "Single" },
-      { "label": " Rope Weight Per Meter ", "value": "61 g/m" },
-      { "label": " Size Range ", "value": "60m, 70m, 80m" }
+      { "label": "Rope Factor Falls", "value": "7" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Type", "value": "Single" },
+      { "label": "Rope Weight Per Meter", "value": "61 g/m" },
+      { "label": "Size Range", "value": "60m, 70m, 80m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10412_source_1665899633.png",
@@ -358,9 +329,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1864/50470/0b9c856dd03ee257bd14763448b268c24d434028__68303.1615575343.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311760090601", "swatch": "Red", "choice": "60m", "price": { "list": "$199.95", "sale": null } },
-      { "item": "BD32311760090701", "swatch": "Red", "choice": "70m", "price": { "list": "$219.95", "sale": null } },
-      { "item": "BD32311760090801", "swatch": "Red", "choice": "80m", "price": { "list": "$249.95", "sale": null } }
+      { "item": "BD32311760090601", "swatch": "Red", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD32311760090701", "swatch": "Red", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD32311760090801", "swatch": "Red", "choice": "80m", "price": { "list": "$249.95", "sale": "$187.46" } }
     ]
   },
   {
@@ -375,13 +346,13 @@
       "Half/twin ropes must be used in pairs.  Do not use as a single rope"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "33% [Twin Rope]" },
-      { "label": " Rope Factor Falls ", "value": "14 [Twin Rope]" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "8.9 kN [Twin Rope]" },
-      { "label": " Rope Static Elongation ", "value": "3.6% [Twin Rope]" },
-      { "label": " Rope Type ", "value": "Twin Rope" },
-      { "label": " Rope Weight Per Meter ", "value": "34 g (1.2 oz)" }
+      { "label": "Rope Dynamic Elongation", "value": "33% [Twin Rope]" },
+      { "label": "Rope Factor Falls", "value": "14 [Twin Rope]" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "8.9 kN [Twin Rope]" },
+      { "label": "Rope Static Elongation", "value": "3.6% [Twin Rope]" },
+      { "label": "Rope Type", "value": "Twin Rope" },
+      { "label": "Rope Weight Per Meter", "value": "34 g (1.2 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6503_source_1664950059.png",
@@ -389,7 +360,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48044/c7e320275945ab10dbb129bfc6cfbc398c6011d3__75310.1615575331.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48042/983c824c2d5267eb05db0774a432e317e9fc1200__21772.1615575330.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323005YELO0601", "swatch": "Yellow", "choice": null, "price": { "list": "$189.95", "sale": null } }]
+    "variants": [{ "item": "BD323005YELO0601", "swatch": "Yellow", "choice": null, "price": { "list": "$189.95", "sale": "$142.46" } }]
   },
   {
     "name": "7.9 Dry Climbing Rope",
@@ -402,13 +373,13 @@
       "Half/twin ropes must be used in pairs.  Do not use as a single rope"
     ],
     "specs": [
-      { "label": " Rope Dynamic Elongation ", "value": "34% [Half] 32% [Twin]" },
-      { "label": " Rope Factor Falls ", "value": "6 [Half] 16 [Twin]" },
-      { "label": " Rope Half Mark ", "value": "Yes" },
-      { "label": " Rope Impact Force ", "value": "5.4 kN [Half] 7.8 kN [Twin]" },
-      { "label": " Rope Static Elongation ", "value": "6.7% [Half] 7% [Twin]" },
-      { "label": " Rope Type ", "value": "Half/Twin" },
-      { "label": " Rope Weight Per Meter ", "value": "39 g  (1.38 oz)" }
+      { "label": "Rope Dynamic Elongation", "value": "34% [Half] 32% [Twin]" },
+      { "label": "Rope Factor Falls", "value": "6 [Half] 16 [Twin]" },
+      { "label": "Rope Half Mark", "value": "Yes" },
+      { "label": "Rope Impact Force", "value": "5.4 kN [Half] 7.8 kN [Twin]" },
+      { "label": "Rope Static Elongation", "value": "6.7% [Half] 7% [Twin]" },
+      { "label": "Rope Type", "value": "Half/Twin" },
+      { "label": "Rope Weight Per Meter", "value": "39 g  (1.38 oz)" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6508_source_1664950067.png",
@@ -416,12 +387,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1045/48045/51885def088cc830b9361a7fcf8fb023faf43fc5__21043.1615575331.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "30m", "price": { "list": "$189.95", "sale": null } },
-      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
-      { "item": "BD323011PURP0701", "swatch": "Purple", "choice": "70m", "price": { "list": "$219.95", "sale": null } },
-      { "item": "BD323011ORAN0301", "swatch": "Orange", "choice": "30m", "price": { "list": "$109.95", "sale": null } },
-      { "item": "BD323011ORAN0601", "swatch": "Orange", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
-      { "item": "BD323011ORAN0701", "swatch": "Orange", "choice": "70m", "price": { "list": "$219.95", "sale": null } }
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "30m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011PURP0701", "swatch": "Purple", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323011ORAN0301", "swatch": "Orange", "choice": "30m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323011ORAN0601", "swatch": "Orange", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011ORAN0701", "swatch": "Orange", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } }
     ]
   },
   {
@@ -430,8 +401,8 @@
     "description": "The BD 6.0 is a versatile tagline or escape cord. Keep it in your pack until the descent and then whip it out for the rappel by pairing it with your climbing rope. Or, use it to tag gear while you go to work on a wall. When it comes to getting it done, this static line is your hard-hitting partner.",
     "bullets": ["Designed at 65m with minimal stretch intended for use when hauling or rappelling with a 60m dynamic cord", "10m length is ideal for cordelette ", "Certified to EN-564"],
     "specs": [
-      { "label": " Rope Type ", "value": "Static Kernmantel Accessory Cord" },
-      { "label": " Rope Weight Per Meter ", "value": "27.4 g/m" }
+      { "label": "Rope Type", "value": "Static Kernmantel Accessory Cord" },
+      { "label": "Rope Weight Per Meter", "value": "27.4 g/m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8776_source_1664950106.png",
@@ -439,8 +410,8 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1054/48067/1c65dd00abaac3906c4a9f43db37a4876985af29__71800.1615575339.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323105BLAK0101", "swatch": "Black", "choice": "10m", "price": { "list": "$9.95", "sale": null } },
-      { "item": "BD323105BLAK0651", "swatch": "Black", "choice": "65m", "price": { "list": "$119.95", "sale": null } }
+      { "item": "BD323105BLAK0101", "swatch": "Black", "choice": "10m", "price": { "list": "$9.95", "sale": "$7.46" } },
+      { "item": "BD323105BLAK0651", "swatch": "Black", "choice": "65m", "price": { "list": "$119.95", "sale": "$89.96" } }
     ]
   },
   {
@@ -449,16 +420,16 @@
     "description": "Designed for the towering granite of Yosemite, this static rope is an excellent addition to any wall rack. At 65 meters, the Black Diamond 9.0 can handle the work of light hauling or as a Tagline while living in the vertical.",
     "bullets": ["Designed at 65m with minimal stretch intended for use when rappelling with a 60m dynamic cord"],
     "specs": [
-      { "label": " Length ", "value": "65m" },
-      { "label": " Rope Type ", "value": "Static" },
-      { "label": " Rope Weight Per Meter ", "value": "50 g/m" }
+      { "label": "Length", "value": "65m" },
+      { "label": "Rope Type", "value": "Static" },
+      { "label": "Rope Weight Per Meter", "value": "50 g/m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54865/875935b49290e15ed45ab82c468e067d207f5438__70949.1647500602.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54866/ff833bf95ecae05519008080db88923b941f2679__41010.1647500603.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54865/875935b49290e15ed45ab82c468e067d207f5438__70949.1647500602.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD32311293000651", "swatch": null, "choice": null, "price": { "list": "$199.95", "sale": null } }]
+    "variants": [{ "item": "BD32311293000651", "swatch": null, "choice": null, "price": { "list": "$199.95", "sale": "$149.96" } }]
   },
   {
     "name": "10.0 Static Rope 65m",
@@ -466,43 +437,43 @@
     "description": "The link between you and the rest of your gear, this burly static cord is designed to haul your gear up the big walls of the world. At 65 meters, the BD 10.0 static line boasts a bomber diameter and can handle a barrage of big wall abuse.",
     "bullets": ["Designed at 65m with minimal stretch intended for use when hauling or rappelling with a 60m dynamic cord", "Certified to EN-1891"],
     "specs": [
-      { "label": " Rope Half Mark ", "value": "No" },
-      { "label": " Rope Sheath Slippage ", "value": "4 mm" },
-      { "label": " Rope Static Elongation ", "value": "0.034" },
-      { "label": " Rope Type ", "value": "Static Type A Low Stretch Kernmantel Rope" },
-      { "label": " Rope Weight Per Meter ", "value": "69 g/m" }
+      { "label": "Rope Half Mark", "value": "No" },
+      { "label": "Rope Sheath Slippage", "value": "4 mm" },
+      { "label": "Rope Static Elongation", "value": "0.034" },
+      { "label": "Rope Type", "value": "Static Type A Low Stretch Kernmantel Rope" },
+      { "label": "Rope Weight Per Meter", "value": "69 g/m" }
     ],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49421/fa77cf71457d380a0ecc0c46aa1869e518f8efc1__95980.1610053892.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49422/78693cfc89955f36eb8a2387275779e29862f046__60068.1610053892.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49421/fa77cf71457d380a0ecc0c46aa1869e518f8efc1__95980.1610053892.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323110BLAK0651", "swatch": null, "choice": null, "price": { "list": "$219.95", "sale": null } }]
+    "variants": [{ "item": "BD323110BLAK0651", "swatch": null, "choice": null, "price": { "list": "$219.95", "sale": "$164.96" } }]
   },
   {
     "name": "10.2 Indoor Climbing Rope - 200m",
     "link": "/en_US/product/10-2-indoor-climbing-rope-200m/",
     "description": "A dynamic single rope with the utmost durability designed for heavy usage in climbing gyms.  The 10.2 indoor has a robust sheath for long life, with excellent handling – perfect for artificial walls and top rope belaying.",
     "bullets": ["Comes in a 200 meter spool", "Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use"],
-    "specs": [{ "label": " Rope Weight Per Meter ", "value": "66 g/m" }],
+    "specs": [{ "label": "Rope Weight Per Meter", "value": "66 g/m" }],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49417/2d41b8f7c5e58f95aac462eadbbc12d794008a29__45283.1610053887.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49418/436f756a5410259313c1ce1d7eb27570599b2f8b__84106.1610053888.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49417/2d41b8f7c5e58f95aac462eadbbc12d794008a29__45283.1610053887.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323044BLBK2001", "swatch": null, "choice": null, "price": { "list": "$699.95", "sale": null } }]
+    "variants": [{ "item": "BD323044BLBK2001", "swatch": null, "choice": null, "price": { "list": "$699.95", "sale": "$524.96" } }]
   },
   {
     "name": "10.0 Static Rope - 200m",
     "link": "/en_US/product/10-0-static-rope-200m/",
     "description": "The link between you and the rest of your gear, this burly static cord is designed to haul your gear up the big walls of the world.  The BD 10.0 static line boasts a bomber diameter and can handle a barrage of big wall abuse.",
     "bullets": ["Designed to haul your gear up big walls"],
-    "specs": [{ "label": " Rope Weight Per Meter ", "value": "69 g/m" }],
+    "specs": [{ "label": "Rope Weight Per Meter", "value": "69 g/m" }],
     "images": [
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323111BLAK2001", "swatch": null, "choice": null, "price": { "list": "$529.95", "sale": null } }]
+    "variants": [{ "item": "BD323111BLAK2001", "swatch": null, "choice": null, "price": { "list": "$529.95", "sale": "$397.46" } }]
   },
   {
     "name": "Rope Marker",
@@ -515,6 +486,6 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54875/836659c5cc3c6e8ecd241111adc2d717a1812c7a__88371.1647500620.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54874/deaa205a389be6e13b8a5db8c26af61a139438f5__03705.1647500619.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD5508580000ALL1", "swatch": null, "choice": null, "price": { "list": "$11.95", "sale": null } }]
+    "variants": [{ "item": "BD5508580000ALL1", "swatch": null, "choice": null, "price": { "list": "$11.95", "sale": "$8.96" } }]
   }
 ]

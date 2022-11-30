@@ -1,22 +1,25 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs')
 
-async function run () {
+async function getBDproductData (productPageURL) {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
   const baseURL = 'https://www.blackdiamondequipment.com'
-  // const productPageURL = '/en_US/shop/climbing-ropes/'
-  const productPageURL = '/en_US/shop/helmets/'
-  // const productPageURL = '/en_US/shop/harnesses/'
-  // const productPageURL = '/en_US/shop/rock-protection/'
 
   const fileName = `BD_${(productPageURL.match(/\/[\w-]+\/$/))[0].replaceAll('/','')}.json`
 
   // Go to product page
   await page.goto( baseURL + productPageURL )
-  await page.waitForNavigation({waitUntil: 'domcontentloaded'})
+  await page
+    .waitForNavigation({waitUntil: 'domcontentloaded'})
+    .catch(() => {})
 
-  // TODO: look for "Load More" button
+  // look for "Load More" button - load all products
+  while (await page.$('.load-more-button')) {
+    await page
+      .click('.load-more-button')
+      .catch(() => {})
+  }
 
   // Get all products from product page URL
   var products = await page.evaluate( () => 
@@ -29,15 +32,17 @@ async function run () {
   // Go to each product and pull data
   for (let i = 0; i < products.length; i++) {
     await page.goto( baseURL + products[i].link )
-    await page.waitForNavigation({waitUntil: 'domcontentloaded'})
+    await page
+      .waitForNavigation({waitUntil: 'domcontentloaded'})
+      .catch(() => {})
 
     // Get product data from page
     const productData = {
       description: (await page.$('.product-description')) ? await page.$eval('.product-description', el => el.textContent) : null,
       bullets: await page.$$eval('.product-bullets li', el => el.map( (bullet) => bullet.textContent )),
       specs: await page.$$eval('.tech-spec-item', itemArray => itemArray.map( (item) => ({
-        label: item.querySelector('.tech-spec-label').textContent,
-        value: item.querySelector('.tech-spec-value').textContent,
+        label: item.querySelector('.tech-spec-label').textContent.trim(),
+        value: item.querySelector('.tech-spec-value').textContent.trim(),
       }))),
       images: await page.$$eval('.alternate-image-container img', el => el.map( (img) => img.getAttribute('data-src') )),
     }
@@ -63,7 +68,7 @@ async function run () {
             // record prices
             // TODO: pull out to own function to use repeats (args: swatches, choices, arrIndex?)
             variants[arrIndex] = {
-              item: await page.$eval('.item-number', el => (((el.textContent).replace('Item', '')).replace('#','')).trim() ),
+              item: await page.$eval('.item-number', el => (((el.textContent).replace('Item', '')).replace('#','')).trim() ), // TODO: replace with regex?
               swatch: await swatch.$eval( 'input' , el => el.value ),
               choice: await choice.$eval( 'input' , el => el.value ),
               price: {
@@ -125,11 +130,14 @@ async function run () {
   // Write data to file
   fs.writeFile(fileName, JSON.stringify(products), (err) => {
     if (err) throw err
-    console.log('File Saved')
+    console.log(`File Saved: ${fileName}`)
   })
   
   // Close browser
   await browser.close()
 }
 
-run() 
+// getBDproductData('/en_US/shop/climbing-ropes/') 
+getBDproductData('/en_US/shop/helmets/') 
+// getBDproductData('/en_US/shop/harnesses/') 
+// getBDproductData('/en_US/shop/rock-protection/') 
