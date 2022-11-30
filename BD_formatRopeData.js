@@ -23,6 +23,12 @@ function capitalize (str) { return str && str[0].toUpperCase() + str.slice(1) }
 
 
 var prodSpecsArray = productArray.map( (productEntry) => ( productEntry.specs ) )
+var prodLinksArray = productArray.map( (productEntry) => ( productEntry.link ) )
+
+
+for (let i = 0; i < prodLinksArray.length; i++) {
+  prodLinksArray[i] = prodLinksArray[i].replace(/\?.*/, '')
+}
 
 
 const specTemplate = {
@@ -407,10 +413,12 @@ for (let i = 0; i < prodSpecsArray.length; i++) {
 }
 
 for (let i = 0; i < productArray.length; i++) {
+  productArray[i].link = prodLinksArray[i]
   productArray[i].specs = prodSpecsArrayFormatted[i]
 }
 
-const fileName = 'productArrayFormatted.json'
+
+const fileName = 'BD_ropesFormatted.json'
 fs.writeFile(fileName, JSON.stringify(productArray), (err) => {
   if (err) throw err
   console.log(`File Saved: ${fileName}`)

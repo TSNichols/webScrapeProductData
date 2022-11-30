@@ -23,11 +23,11 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1048/48053/2ab9a5b64592a16e265a1ff117ec15a01639a9ee__13213.1615575334.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323021GOLD0351", "swatch": "Gold", "choice": "35m", "price": { "list": "$99.95", "sale": "$74.96" } },
-      { "item": "BD323021GOLD0401", "swatch": "Gold", "choice": "40m", "price": { "list": "$109.95", "sale": "$82.46" } },
-      { "item": "BD323021GOLD0601", "swatch": "Gold", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
-      { "item": "BD323021GOLD0701", "swatch": "Gold", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } },
-      { "item": "BD323021GOLD0801", "swatch": "Gold", "choice": "80m", "price": { "list": "$239.95", "sale": "$179.96" } }
+      { "item": "BD323021GOLD0351", "swatch": "Gold", "choice": "35m", "price": { "list": "$99.95", "sale": null } },
+      { "item": "BD323021GOLD0401", "swatch": "Gold", "choice": "40m", "price": { "list": "$109.95", "sale": null } },
+      { "item": "BD323021GOLD0601", "swatch": "Gold", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
+      { "item": "BD323021GOLD0701", "swatch": "Gold", "choice": "70m", "price": { "list": "$209.95", "sale": null } },
+      { "item": "BD323021GOLD0801", "swatch": "Gold", "choice": "80m", "price": { "list": "$239.95", "sale": null } }
     ]
   },
   {
@@ -55,10 +55,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1049/48055/a9c188af2694cb27b20af48d975d1273caf4192c__97818.1615575336.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323022ENGR0351", "swatch": "Envy Green", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
-      { "item": "BD323022ENGR0401", "swatch": "Envy Green", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
-      { "item": "BD323022ENGR0601", "swatch": "Envy Green", "choice": "60m", "price": { "list": "$249.95", "sale": "$187.46" } },
-      { "item": "BD323022ENGR0701", "swatch": "Envy Green", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } }
+      { "item": "BD323022ENGR0351", "swatch": "Envy Green", "choice": "35m", "price": { "list": "$109.95", "sale": null } },
+      { "item": "BD323022ENGR0401", "swatch": "Envy Green", "choice": "40m", "price": { "list": "$119.95", "sale": null } },
+      { "item": "BD323022ENGR0601", "swatch": "Envy Green", "choice": "60m", "price": { "list": "$249.95", "sale": null } },
+      { "item": "BD323022ENGR0701", "swatch": "Envy Green", "choice": "70m", "price": { "list": "$279.95", "sale": null } }
     ]
   },
   {
@@ -86,10 +86,10 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1050/57637/e3b1266f26115b8a40ce115bababfeff59f26042__96423.1662617571.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323040DUBL0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
-      { "item": "BD323040DUBL0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
-      { "item": "BD323040DUBL0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
-      { "item": "BD323040DUBL0701", "swatch": "Dual Blue", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } }
+      { "item": "BD323040DUBL0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$119.95", "sale": null } },
+      { "item": "BD323040DUBL0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$129.95", "sale": null } },
+      { "item": "BD323040DUBL0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$199.95", "sale": null } },
+      { "item": "BD323040DUBL0701", "swatch": "Dual Blue", "choice": "70m", "price": { "list": "$209.95", "sale": null } }
     ]
   },
   {
@@ -121,9 +121,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50858/hs5rg3apbhrfl5a8ok1q__50805.1615575341.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311593620601", "swatch": "Blue/Red", "choice": "60m", "price": { "list": "$259.95", "sale": "$194.96" } },
-      { "item": "BD32311593620701", "swatch": "Blue/Red", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
-      { "item": "BD32311593620801", "swatch": "Blue/Red", "choice": "80m", "price": { "list": "$299.95", "sale": "$224.96" } }
+      { "item": "BD32311593620601", "swatch": "Blue/Red", "choice": "60m", "price": { "list": "$259.95", "sale": null } },
+      { "item": "BD32311593620701", "swatch": "Blue/Red", "choice": "70m", "price": { "list": "$279.95", "sale": null } },
+      { "item": "BD32311593620801", "swatch": "Blue/Red", "choice": "80m", "price": { "list": "$299.95", "sale": null } }
     ]
   },
   {
@@ -183,12 +183,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48047/1dbf67181345beafaea2b074160c0bd64a222f1c__68880.1615575332.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323015ULBL0501", "swatch": "Ultra Blue", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
-      { "item": "BD323015ULBL0601", "swatch": "Ultra Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
-      { "item": "BD323015ULBL0701", "swatch": "Ultra Blue", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } },
-      { "item": "BD323015GREN0501", "swatch": "Green", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
-      { "item": "BD323015GREN0601", "swatch": "Green", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
-      { "item": "BD323015GREN0701", "swatch": "Green", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } }
+      { "item": "BD323015ULBL0501", "swatch": "Ultra Blue", "choice": "50m", "price": { "list": "$149.95", "sale": null } },
+      { "item": "BD323015ULBL0601", "swatch": "Ultra Blue", "choice": "60m", "price": { "list": "$219.95", "sale": null } },
+      { "item": "BD323015ULBL0701", "swatch": "Ultra Blue", "choice": "70m", "price": { "list": "$249.95", "sale": null } },
+      { "item": "BD323015GREN0501", "swatch": "Green", "choice": "50m", "price": { "list": "$149.95", "sale": null } },
+      { "item": "BD323015GREN0601", "swatch": "Green", "choice": "60m", "price": { "list": "$219.95", "sale": null } },
+      { "item": "BD323015GREN0701", "swatch": "Green", "choice": "70m", "price": { "list": "$249.95", "sale": null } }
     ]
   },
   {
@@ -209,9 +209,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1865/50480/7278d96dc305fc76d3796b56d79cd86a1d4a4552__01769.1615575343.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311840050601", "swatch": "Blue", "choice": "60m", "price": { "list": "$299.95", "sale": "$224.96" } },
-      { "item": "BD32311840050701", "swatch": "Blue", "choice": "70m", "price": { "list": "$329.95", "sale": "$247.46" } },
-      { "item": "BD32311840050801", "swatch": "Blue", "choice": "80m", "price": { "list": "$359.95", "sale": "$269.96" } }
+      { "item": "BD32311840050601", "swatch": "Blue", "choice": "60m", "price": { "list": "$299.95", "sale": null } },
+      { "item": "BD32311840050701", "swatch": "Blue", "choice": "70m", "price": { "list": "$329.95", "sale": null } },
+      { "item": "BD32311840050801", "swatch": "Blue", "choice": "80m", "price": { "list": "$359.95", "sale": null } }
     ]
   },
   {
@@ -237,9 +237,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1052/48065/dd1e8d882dfcfd870d1633c5dd91d27de6015b4f__22526.1615575338.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323043TRIB0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
-      { "item": "BD323043TRIB0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
-      { "item": "BD323043TRIB0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } }
+      { "item": "BD323043TRIB0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$109.95", "sale": null } },
+      { "item": "BD323043TRIB0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$119.95", "sale": null } },
+      { "item": "BD323043TRIB0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$219.95", "sale": null } }
     ]
   },
   {
@@ -266,9 +266,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1861/50193/170d7936f55256bc00c1f1f88d2d3313f53508e0__19451.1615575340.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311480020601", "swatch": "Orange", "choice": "60m", "price": { "list": "$209.95", "sale": "$157.46" } },
-      { "item": "BD32311480020701", "swatch": "Orange", "choice": "70m", "price": { "list": "$229.95", "sale": "$172.46" } },
-      { "item": "BD32311480020801", "swatch": "Orange", "choice": "80m", "price": { "list": "$259.95", "sale": "$194.96" } }
+      { "item": "BD32311480020601", "swatch": "Orange", "choice": "60m", "price": { "list": "$209.95", "sale": null } },
+      { "item": "BD32311480020701", "swatch": "Orange", "choice": "70m", "price": { "list": "$229.95", "sale": null } },
+      { "item": "BD32311480020801", "swatch": "Orange", "choice": "80m", "price": { "list": "$259.95", "sale": null } }
     ]
   },
   {
@@ -296,13 +296,13 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1047/48051/db8280b47ed032207d5408c32e04c6342d8bbc4a__61554.1615575334.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323017ULPK0351", "swatch": "Ultra Pink", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
-      { "item": "BD323017ULPK0401", "swatch": "Ultra Pink", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
-      { "item": "BD323017ULPK0501", "swatch": "Ultra Pink", "choice": "50m", "price": { "list": "$199.95", "sale": "$149.96" } },
-      { "item": "BD323017ULPK0601", "swatch": "Ultra Pink", "choice": "60 m", "price": { "list": "$249.95", "sale": "$187.46" } },
-      { "item": "BD323017ULPK0701", "swatch": "Ultra Pink", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
-      { "item": "BD323017ULPK0801", "swatch": "Ultra Pink", "choice": "80m", "price": { "list": "$309.95", "sale": "$232.46" } },
-      { "item": "BD323017ULPK1001", "swatch": "Ultra Pink", "choice": "100m", "price": { "list": "$359.95", "sale": "$269.96" } }
+      { "item": "BD323017ULPK0351", "swatch": "Ultra Pink", "choice": "35m", "price": { "list": "$119.95", "sale": null } },
+      { "item": "BD323017ULPK0401", "swatch": "Ultra Pink", "choice": "40m", "price": { "list": "$129.95", "sale": null } },
+      { "item": "BD323017ULPK0501", "swatch": "Ultra Pink", "choice": "50m", "price": { "list": "$199.95", "sale": null } },
+      { "item": "BD323017ULPK0601", "swatch": "Ultra Pink", "choice": "60 m", "price": { "list": "$249.95", "sale": null } },
+      { "item": "BD323017ULPK0701", "swatch": "Ultra Pink", "choice": "70m", "price": { "list": "$279.95", "sale": null } },
+      { "item": "BD323017ULPK0801", "swatch": "Ultra Pink", "choice": "80m", "price": { "list": "$309.95", "sale": null } },
+      { "item": "BD323017ULPK1001", "swatch": "Ultra Pink", "choice": "100m", "price": { "list": "$359.95", "sale": null } }
     ]
   },
   {
@@ -329,9 +329,9 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1864/50470/0b9c856dd03ee257bd14763448b268c24d434028__68303.1615575343.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD32311760090601", "swatch": "Red", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
-      { "item": "BD32311760090701", "swatch": "Red", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
-      { "item": "BD32311760090801", "swatch": "Red", "choice": "80m", "price": { "list": "$249.95", "sale": "$187.46" } }
+      { "item": "BD32311760090601", "swatch": "Red", "choice": "60m", "price": { "list": "$199.95", "sale": null } },
+      { "item": "BD32311760090701", "swatch": "Red", "choice": "70m", "price": { "list": "$219.95", "sale": null } },
+      { "item": "BD32311760090801", "swatch": "Red", "choice": "80m", "price": { "list": "$249.95", "sale": null } }
     ]
   },
   {
@@ -360,7 +360,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48044/c7e320275945ab10dbb129bfc6cfbc398c6011d3__75310.1615575331.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48042/983c824c2d5267eb05db0774a432e317e9fc1200__21772.1615575330.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323005YELO0601", "swatch": "Yellow", "choice": null, "price": { "list": "$189.95", "sale": "$142.46" } }]
+    "variants": [{ "item": "BD323005YELO0601", "swatch": "Yellow", "choice": null, "price": { "list": "$189.95", "sale": null } }]
   },
   {
     "name": "7.9 Dry Climbing Rope",
@@ -387,12 +387,12 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1045/48045/51885def088cc830b9361a7fcf8fb023faf43fc5__21043.1615575331.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "30m", "price": { "list": "$189.95", "sale": "$142.46" } },
-      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
-      { "item": "BD323011PURP0701", "swatch": "Purple", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
-      { "item": "BD323011ORAN0301", "swatch": "Orange", "choice": "30m", "price": { "list": "$109.95", "sale": "$82.46" } },
-      { "item": "BD323011ORAN0601", "swatch": "Orange", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
-      { "item": "BD323011ORAN0701", "swatch": "Orange", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } }
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "30m", "price": { "list": "$189.95", "sale": null } },
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
+      { "item": "BD323011PURP0701", "swatch": "Purple", "choice": "70m", "price": { "list": "$219.95", "sale": null } },
+      { "item": "BD323011ORAN0301", "swatch": "Orange", "choice": "30m", "price": { "list": "$109.95", "sale": null } },
+      { "item": "BD323011ORAN0601", "swatch": "Orange", "choice": "60m", "price": { "list": "$189.95", "sale": null } },
+      { "item": "BD323011ORAN0701", "swatch": "Orange", "choice": "70m", "price": { "list": "$219.95", "sale": null } }
     ]
   },
   {
@@ -410,8 +410,8 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1054/48067/1c65dd00abaac3906c4a9f43db37a4876985af29__71800.1615575339.386.513.png?c=1"
     ],
     "variants": [
-      { "item": "BD323105BLAK0101", "swatch": "Black", "choice": "10m", "price": { "list": "$9.95", "sale": "$7.46" } },
-      { "item": "BD323105BLAK0651", "swatch": "Black", "choice": "65m", "price": { "list": "$119.95", "sale": "$89.96" } }
+      { "item": "BD323105BLAK0101", "swatch": "Black", "choice": "10m", "price": { "list": "$9.95", "sale": null } },
+      { "item": "BD323105BLAK0651", "swatch": "Black", "choice": "65m", "price": { "list": "$119.95", "sale": null } }
     ]
   },
   {
@@ -429,7 +429,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54866/ff833bf95ecae05519008080db88923b941f2679__41010.1647500603.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54865/875935b49290e15ed45ab82c468e067d207f5438__70949.1647500602.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD32311293000651", "swatch": null, "choice": null, "price": { "list": "$199.95", "sale": "$149.96" } }]
+    "variants": [{ "item": "BD32311293000651", "swatch": null, "choice": null, "price": { "list": "$199.95", "sale": null } }]
   },
   {
     "name": "10.0 Static Rope 65m",
@@ -448,7 +448,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49422/78693cfc89955f36eb8a2387275779e29862f046__60068.1610053892.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49421/fa77cf71457d380a0ecc0c46aa1869e518f8efc1__95980.1610053892.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323110BLAK0651", "swatch": null, "choice": null, "price": { "list": "$219.95", "sale": "$164.96" } }]
+    "variants": [{ "item": "BD323110BLAK0651", "swatch": null, "choice": null, "price": { "list": "$219.95", "sale": null } }]
   },
   {
     "name": "10.2 Indoor Climbing Rope - 200m",
@@ -461,7 +461,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49418/436f756a5410259313c1ce1d7eb27570599b2f8b__84106.1610053888.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49417/2d41b8f7c5e58f95aac462eadbbc12d794008a29__45283.1610053887.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323044BLBK2001", "swatch": null, "choice": null, "price": { "list": "$699.95", "sale": "$524.96" } }]
+    "variants": [{ "item": "BD323044BLBK2001", "swatch": null, "choice": null, "price": { "list": "$699.95", "sale": null } }]
   },
   {
     "name": "10.0 Static Rope - 200m",
@@ -473,7 +473,7 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD323111BLAK2001", "swatch": null, "choice": null, "price": { "list": "$529.95", "sale": "$397.46" } }]
+    "variants": [{ "item": "BD323111BLAK2001", "swatch": null, "choice": null, "price": { "list": "$529.95", "sale": null } }]
   },
   {
     "name": "Rope Marker",
@@ -486,6 +486,6 @@
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54875/836659c5cc3c6e8ecd241111adc2d717a1812c7a__88371.1647500620.386.513.png?c=1",
       "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54874/deaa205a389be6e13b8a5db8c26af61a139438f5__03705.1647500619.386.513.png?c=1"
     ],
-    "variants": [{ "item": "BD5508580000ALL1", "swatch": null, "choice": null, "price": { "list": "$11.95", "sale": "$8.96" } }]
+    "variants": [{ "item": "BD5508580000ALL1", "swatch": null, "choice": null, "price": { "list": "$11.95", "sale": null } }]
   }
 ]

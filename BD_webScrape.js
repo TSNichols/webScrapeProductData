@@ -137,7 +137,7 @@ async function getBDproductData (productPageURL) {
   await browser.close()
 }
 
-// getBDproductData('/en_US/shop/climbing-ropes/') 
-getBDproductData('/en_US/shop/helmets/') 
+getBDproductData('/en_US/shop/climbing-ropes/') 
+// getBDproductData('/en_US/shop/helmets/') 
 // getBDproductData('/en_US/shop/harnesses/') 
 // getBDproductData('/en_US/shop/rock-protection/') 
