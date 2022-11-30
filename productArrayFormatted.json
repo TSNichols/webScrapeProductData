@@ -1,0 +1,533 @@
+[
+  {
+    "name": "9.4 Climbing Rope",
+    "link": "/en_US/product/9-4-climbing-rope/?colorid=4409",
+    "description": "The Black Diamond 9.4 seamlessly blends high-end specs with a durable construction that can handle day in and day out use. By combining a 1X1 sheath that’s burly enough to withstand every day abuse with a versatile diameter equally suited for hard redpoint burns or projecting sessions, the 9.4 hits the sweet spot for climbers who demand performance and need reliability. The rope also features an easily identifiable middle marker and handling that knots easily and feeds through a belay device smoothly",
+    "bullets": [
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "58",
+      "dynamicElong": { "single": 34, "half": null, "twin": null },
+      "staticElong": { "single": 8.4, "half": null, "twin": null },
+      "falls": { "single": 7, "half": null, "twin": null },
+      "impactForce": { "single": 8, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6525_source_1664950087.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1048/48054/cf3wfrqjhhjb3owcsjfx__68321.1615575335.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1048/48053/2ab9a5b64592a16e265a1ff117ec15a01639a9ee__13213.1615575334.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323021GOLD0351", "swatch": "Gold", "choice": "35m", "price": { "list": "$99.95", "sale": "$74.96" } },
+      { "item": "BD323021GOLD0401", "swatch": "Gold", "choice": "40m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323021GOLD0601", "swatch": "Gold", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323021GOLD0701", "swatch": "Gold", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } },
+      { "item": "BD323021GOLD0801", "swatch": "Gold", "choice": "80m", "price": { "list": "$239.95", "sale": "$179.96" } }
+    ]
+  },
+  {
+    "name": "9.4 Dry Climbing Rope",
+    "link": "/en_US/product/9-4-dry-climbing-rope/?colorid=4415",
+    "description": "The Black Diamond 9.4 Dry seamlessly blends high-end specs with a durable construction that can handle day in and day out use. By combining a 1X1 sheath that's burly enough withstand everyday abuse with a versatile diameter equally suited for hard redpoint burns or projecting sessions, the 9.4 hits the sweet spot for climbers who demand performance and need reliability. The dry treated core and sheath repels moisture from the inside out while the middle marker is easily identifiable. The handling knots easily and feeds through a belay device smoothly, making it perfectly suited for hard redpoint burns or projecting sessions on both ice and rock.",
+    "bullets": [
+      "Dry Performance—With a core and sheath that are dry treated, our dry treated ropes are protected against weather from the inside out",
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "58",
+      "dynamicElong": { "single": 37, "half": null, "twin": null },
+      "staticElong": { "single": 6.4, "half": null, "twin": null },
+      "falls": { "single": 6, "half": null, "twin": null },
+      "impactForce": { "single": 7.9, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6530_source_1664950091.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1049/48056/w3xr2mmtgroxuecco7n1__12714.1615575336.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1049/48055/a9c188af2694cb27b20af48d975d1273caf4192c__97818.1615575336.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323022ENGR0351", "swatch": "Envy Green", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323022ENGR0401", "swatch": "Envy Green", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323022ENGR0601", "swatch": "Envy Green", "choice": "60m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323022ENGR0701", "swatch": "Envy Green", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } }
+    ]
+  },
+  {
+    "name": "9.9 Climbing Rope",
+    "link": "/en_US/product/9-9-rope-35m/?colorid=6206",
+    "description": "The Black Diamond 9.9 is our go-to rope for year-round rock climbing. Boasting a thick diameter built for day in, day out use, the 9.9 is optimized for durability yet soft enough to deliver great handling. Sporting an easily identified middle marker, the BD 9.9 is ideal for climbers who prefer packing one burly rope for all rock projects.",
+    "bullets": [
+      "Regular Sheath: Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance: Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "60",
+      "dynamicElong": { "single": 26, "half": null, "twin": null },
+      "staticElong": { "single": 3.3, "half": null, "twin": null },
+      "falls": { "single": 7, "half": null, "twin": null },
+      "impactForce": { "single": 9.4, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8769_source_1664950094.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1050/57638/0b5649892d47d9d9aa0ab763fd4c3a2a0f296c61__51265.1662617571.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1050/57639/c6430083f345c7ec9dfb6c922169265a8448044a__33764.1662617571.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1050/57637/e3b1266f26115b8a40ce115bababfeff59f26042__96423.1662617571.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323040DUBL0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323040DUBL0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD323040DUBL0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD323040DUBL0701", "swatch": "Dual Blue", "choice": "70m", "price": { "list": "$209.95", "sale": "$157.46" } }
+    ]
+  },
+  {
+    "name": "9.2 Dry Climbing Rope - Babsi Edition",
+    "link": "/en_US/product/9-2-dry-climbing-rope-babsi-edition/?colorid=7061",
+    "description": "Built for BD Athlete Babsi Zangerl—a climber who sends it no matter whether she’s on the Nose of El Cap or run-out above a Z4 in the Dolomites, the Black Diamond 9.2 Dry is a true all-arounder that can handle any weather. Featuring a dry treated core and sheath that protects it from the inside out against moisture and a 1X1 weave construction to lengthen the ropes’ lifespan and make it more abrasion-resistant, the 9.2 is certified for use as single rope. With its svelte diameter, triple dash middle marker that’s easy to see for an added margin of safety and a handling that knots easily and feeds smoothly through your belay device, the BD 9.2 is built for pushing your limits on stone.",
+    "bullets": [
+      "Athlete Driven by Babsi Zangerl",
+      "Color hand-picked by Babsi",
+      "UIAA Dry —With a core and sheath that are dry treated, this rope is protected against weather from the inside out and meets the UIAA Water Repellent standard",
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction makes it more abrasion-resistant",
+      "Triple Dash Middle Marker—adds margin of safety for identifying middle of rope",
+      "Climb Ready Coil—tie in for a pitch right out of the packaging",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "60m, 70m, 80m"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "58",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": 9, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10409_source_1662702904.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50859/ym5bl8ucdthz5hqx20w7__18035.1615575341.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50860/ut0nbk65vqu1sxci6nqr__21183.1615575341.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50861/lykzhzkylii6dpsbgye2__39875.1615575341.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1862/50858/hs5rg3apbhrfl5a8ok1q__50805.1615575341.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD32311593620601", "swatch": "Blue/Red", "choice": "60m", "price": { "list": "$259.95", "sale": "$194.96" } },
+      { "item": "BD32311593620701", "swatch": "Blue/Red", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
+      { "item": "BD32311593620801", "swatch": "Blue/Red", "choice": "80m", "price": { "list": "$299.95", "sale": "$224.96" } }
+    ]
+  },
+  {
+    "name": "9.4 Dry Climbing Rope - Honnold Edition",
+    "link": "/en_US/product/9-4-dry-climbing-rope-honnold-edition/?colorid=7394",
+    "description": "BD Athlete Alex Honnold doesn’t always rope up, but when he does it’s with the Black Diamond 9.4 Dry Honnold Edition. This rope seamlessly blends high-end specs with a durable construction that can handle day in and day out use. The 1X1 sheath is burly enough to withstand everyday abuse while the versatile diameter is equally suited for hard redpoint burns on sport projects or gunning up a sub one-hour push on the Nose. Honnold’s 9.4 hits the sweet spot for climbers who demand performance and need reliability. The dry treated core and sheath repels moisture from the inside out while the triple dash middle marker is easily identifiable. The handling knots easily and feeds through a belay device smoothly, making it perfectly suited for hard redpoint burns or projecting sessions on both ice and rock. On top of that, with each rope sold, a percentage of proceeds goes to the Honnold Foundation, which supports solar energy for a more equitable world.",
+    "bullets": [
+      "Athlete Driven by Alex Honnold",
+      "A percentage of proceeds supports the Honnold Foundation",
+      "UIAA Dry—With a core and sheath that are dry treated, this rope is protected against weather from the inside out and meets the UIAA Water Repellent standard",
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction, our standard sheath is built to withstand everyday use",
+      "Triple Dash Middle Marker—adds margin of safety for identifying middle of rope",
+      "Climb Ready Coil—tie in for a pitch right out of the packaging",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "70m"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "58",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": 6, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/13418_source_1628793365.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1920/50863/r8rt6yef9klflkhpfomd__28251.1615575342.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1920/50864/nx5mbexuibng9mvyhyts__60689.1615575342.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1920/50865/xq4apkry411uvh0qv1ws__84809.1615575342.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1920/50862/h3wdnlmxxad0felfpim2__79382.1615575342.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD32311693160701", "swatch": "Green/Yellow", "choice": "70m", "price": { "list": "$299.95", "sale": null } }]
+  },
+  {
+    "name": "8.5 Dry Climbing Rope",
+    "link": "/en_US/product/8-5-dry-climbing-rope/?colorid=4400",
+    "description": "Built for versatility, the Black Diamond 8.5 scales both rock and ice. Designed to be used as half ropes or in a twin configuration, the 8.5 features a dry treated core and sheath to repel moisture from the inside out. The sheath's 2X2 weave construction increases the 8.5's lifespan, while the middle marker is easily identifiable for rappels.",
+    "bullets": [
+      "Dry Performance—With a core and sheath that are dry treated, our dry treated ropes are protected against weather from the inside out",
+      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "Half/twin ropes must be used in pairs.  Do not use as a single rope"
+    ],
+    "specs": {
+      "ropeType": ["Half", "Twin"],
+      "halfMark": "Yes",
+      "weight": "46",
+      "dynamicElong": { "single": null, "half": 35, "twin": 33 },
+      "staticElong": { "single": null, "half": 7, "twin": 7 },
+      "falls": { "single": null, "half": 10, "twin": 17 },
+      "impactForce": { "single": null, "half": 5, "twin": 7.7 }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6513_source_1664950073.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48048/8b8538ebb0416e9409c193a5ff851699a6eeca96__24628.1615575333.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48049/d508b82d2f4aef6451b5f8d1e39b87a32718ff0c__24367.1615575333.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48050/eb03f87f6d9562116e2c372da6033e0bc990f166__76409.1615575333.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1046/48047/1dbf67181345beafaea2b074160c0bd64a222f1c__68880.1615575332.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323015ULBL0501", "swatch": "Ultra Blue", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
+      { "item": "BD323015ULBL0601", "swatch": "Ultra Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323015ULBL0701", "swatch": "Ultra Blue", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323015GREN0501", "swatch": "Green", "choice": "50m", "price": { "list": "$149.95", "sale": "$112.46" } },
+      { "item": "BD323015GREN0601", "swatch": "Green", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323015GREN0701", "swatch": "Green", "choice": "70m", "price": { "list": "$249.95", "sale": "$187.46" } }
+    ]
+  },
+  {
+    "name": "9.6 Dry Climbing Rope - Bi-Pattern",
+    "link": "/en_US/product/9-6-dry-climbing-rope-bi-pattern/?colorid=7069",
+    "description": "Move seamlessly from the crag to an all-day multi-pitch adventure or winter outing with the versatile Black Diamond 9.6 Bi-pattern Dry. Featuring a 2X2 weave construction to that’s durable and supple and a bi-pattern for quick middle marker recognition, the 9.6 hits that sweet spot of being thin enough for a hard sport redpoint or mixed route, but thick enough to take a seasonal beating in the desert. With a comfortable handling that knots easily and feeds smoothly through a belay device, the BD 9.6 is our multi-faceted workhorse climbing cord.",
+    "bullets": ["60m, 70m, 80m"],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "61",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": 7, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10415_source_1650694880.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1865/50481/048c9b99f21ea9d1b79f4b8324fd539e8eb69c65__61783.1615575344.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1865/50480/7278d96dc305fc76d3796b56d79cd86a1d4a4552__01769.1615575343.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD32311840050601", "swatch": "Blue", "choice": "60m", "price": { "list": "$299.95", "sale": "$224.96" } },
+      { "item": "BD32311840050701", "swatch": "Blue", "choice": "70m", "price": { "list": "$329.95", "sale": "$247.46" } },
+      { "item": "BD32311840050801", "swatch": "Blue", "choice": "80m", "price": { "list": "$359.95", "sale": "$269.96" } }
+    ]
+  },
+  {
+    "name": "10.2 Climbing Rope",
+    "link": "/en_US/product/10-2-climbing-rope-60m/?colorid=6212",
+    "description": "Built for routes that dish out abuse, the BD 10.2 is a bomber cord made for tying in on big routes. Featuring a beefy diameter with a 1X1 abrasion resistant sheath that can withstand the whippers and wear, this rope handles smoothly and comes with a middle marker that's easily identifiable. Coil it and toss it in the pack when it's time to go big.",
+    "bullets": [
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction, this sheath is abrasion resistant and ultra durable",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "66",
+      "dynamicElong": { "single": 33, "half": null, "twin": null },
+      "staticElong": { "single": 5.4, "half": null, "twin": null },
+      "falls": { "single": 5, "half": null, "twin": null },
+      "impactForce": { "single": 8.2, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8773_source_1664950101.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1052/48066/075f3a81094ae2d66f9d8e0c1229d2044d54cfa0__06264.1615575339.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1052/48065/dd1e8d882dfcfd870d1633c5dd91d27de6015b4f__22526.1615575338.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323043TRIB0351", "swatch": "Dual Blue", "choice": "35m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323043TRIB0401", "swatch": "Dual Blue", "choice": "40m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323043TRIB0601", "swatch": "Dual Blue", "choice": "60m", "price": { "list": "$219.95", "sale": "$164.96" } }
+    ]
+  },
+  {
+    "name": "9.2 Climbing Rope",
+    "link": "/en_US/product/9-2-climbing-rope/?colorid=7057",
+    "description": "Ultra-light for the send go, yet durable enough to take a beating while big-walling in the Valley, the Black Diamond 9.2 is a high-performance climbing rope. Featuring a 1X1 weave construction to lengthen the ropes’ lifespan and make it more abrasion-resistant, the BD 9.2 maintains a remarkably supple hand and is certified for use as a single rope. With its svelte diameter, triple dash middle marker that’s easy to see for an added margin of safety and a handling that knots easily and feeds smoothly through your belay device, the BD 9.2 is built for pushing your limits on stone.",
+    "bullets": [
+      "1X1 Woven Sheath—Utilizing a 1X1 weave construction makes it more abrasion-resistant",
+      "Triple Dash Middle Marker—adds margin of safety for identifying middle of rope",
+      "Climb Ready Coil—tie in for a pitch right out of the packaging",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "60m, 70m, 80m"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "58",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": 9, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10406_source_1662702902.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1861/50194/3312e6246074c510720d3b89bd5004d7e57f56a9__36886.1615575340.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1861/50193/170d7936f55256bc00c1f1f88d2d3313f53508e0__19451.1615575340.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD32311480020601", "swatch": "Orange", "choice": "60m", "price": { "list": "$209.95", "sale": "$157.46" } },
+      { "item": "BD32311480020701", "swatch": "Orange", "choice": "70m", "price": { "list": "$229.95", "sale": "$172.46" } },
+      { "item": "BD32311480020801", "swatch": "Orange", "choice": "80m", "price": { "list": "$259.95", "sale": "$194.96" } }
+    ]
+  },
+  {
+    "name": "8.9 Dry Climbing Rope",
+    "link": "/en_US/product/8-9-dry-climbing-rope/?colorid=4405",
+    "description": "With its exceptional handling and lightweight design, the 8.9 is a high performance single rope built for the send. Featuring a durable 2X2 weave construction for increased lifespan, the 8.9 also boasts a dry treated core and sheath that repels moisture from the inside out, making it a versatile rope for all-season use. The 8.9 also comes with a middle marker that's easily identifiable for rappels, and exceptional handling that knots easily and feeds smoothly through a belay device. Certified as a single, twin or half rope, the 8.9 is the ultimate high-end climbing rope.",
+    "bullets": [
+      "Dry Performance—With a core and sheath that are dry treated, our dry treated ropes are protected against weather from the inside out",
+      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "100m Rope is an online Exclusive"
+    ],
+    "specs": {
+      "ropeType": ["Single", "Half", "Twin"],
+      "halfMark": "Yes",
+      "weight": "52",
+      "dynamicElong": { "single": 33, "half": 30, "twin": 27 },
+      "staticElong": { "single": 6.9, "half": null, "twin": null },
+      "falls": { "single": 5, "half": 16, "twin": 29 },
+      "impactForce": { "single": 8.7, "half": 6.1, "twin": 9.6 }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6521_source_1664950078.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1047/48052/xi9alfcxheltni4qz2nx__32346.1615575334.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1047/48051/db8280b47ed032207d5408c32e04c6342d8bbc4a__61554.1615575334.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323017ULPK0351", "swatch": "Ultra Pink", "choice": "35m", "price": { "list": "$119.95", "sale": "$89.96" } },
+      { "item": "BD323017ULPK0401", "swatch": "Ultra Pink", "choice": "40m", "price": { "list": "$129.95", "sale": "$97.46" } },
+      { "item": "BD323017ULPK0501", "swatch": "Ultra Pink", "choice": "50m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD323017ULPK0601", "swatch": "Ultra Pink", "choice": "60 m", "price": { "list": "$249.95", "sale": "$187.46" } },
+      { "item": "BD323017ULPK0701", "swatch": "Ultra Pink", "choice": "70m", "price": { "list": "$279.95", "sale": "$209.96" } },
+      { "item": "BD323017ULPK0801", "swatch": "Ultra Pink", "choice": "80m", "price": { "list": "$309.95", "sale": "$232.46" } },
+      { "item": "BD323017ULPK1001", "swatch": "Ultra Pink", "choice": "100m", "price": { "list": "$359.95", "sale": "$269.96" } }
+    ]
+  },
+  {
+    "name": "9.6 Climbing Rope",
+    "link": "/en_US/product/9-6-climbing-rope/?colorid=7065",
+    "description": "Move seamlessly from the crag to an all-day multi-pitch adventure with the versatile Black Diamond 9.6. Featuring a 2X2 weave construction that’s durable and supple, the 9.6 hits that sweet spot of being thin enough for a hard sport redpoint, but thick enough to take a seasonal beating in the desert. With a triple dash middle marker that adds a margin of safety and comfortable handling that knots easily and feeds smoothly through a belay device, the BD 9.6 is our multi-faceted workhorse climbing cord.",
+    "bullets": [
+      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Triple Dash Middle Marker—adds margin of safety for identifying middle of rope",
+      "Climb Ready Coil—tie in for a pitch right out of the packaging",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "60m, 70m, 80m"
+    ],
+    "specs": {
+      "ropeType": ["Single"],
+      "halfMark": "Yes",
+      "weight": "61",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": 7, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/10412_source_1665899633.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1864/50471/ed13f58247ee5c48d2c0adc8d9598b0573b677b3__66093.1615575343.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1864/50470/0b9c856dd03ee257bd14763448b268c24d434028__68303.1615575343.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD32311760090601", "swatch": "Red", "choice": "60m", "price": { "list": "$199.95", "sale": "$149.96" } },
+      { "item": "BD32311760090701", "swatch": "Red", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD32311760090801", "swatch": "Red", "choice": "80m", "price": { "list": "$249.95", "sale": "$187.46" } }
+    ]
+  },
+  {
+    "name": "7.0 Dry 60m Climbing Rope",
+    "link": "/en_US/product/7-0-dry-60m-climbing-rope/?colorid=4389",
+    "description": "An ultralight rope built for alpine missions or demanding ice climbs, the Black Diamond 7.0 is a twin rope designed to be used in pairs. With a burly sheath that utilizes a 2X2 weave construction to withstand everyday use, the 7.0 is dry treated from the inside out and can handle any weather you throw at it. The rope's middle marker is easily identifiable for rappels and the comfortable handling knots easily and feeds smoothly through a belay device.",
+    "bullets": [
+      "60 Meter Length",
+      "Dry Performance—With a core and sheath that are dry treated, our dry treated ropes are protected against weather from the inside out",
+      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "Half/twin ropes must be used in pairs.  Do not use as a single rope"
+    ],
+    "specs": {
+      "ropeType": ["Twin"],
+      "halfMark": "Yes",
+      "weight": "34",
+      "dynamicElong": { "single": null, "half": null, "twin": 33 },
+      "staticElong": { "single": null, "half": null, "twin": 3.6 },
+      "falls": { "single": null, "half": null, "twin": 14 },
+      "impactForce": { "single": null, "half": null, "twin": 8.9 }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6503_source_1664950059.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48043/3615f4694d9951458ac40efc76b45124c1da0674__32556.1615575330.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48044/c7e320275945ab10dbb129bfc6cfbc398c6011d3__75310.1615575331.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1044/48042/983c824c2d5267eb05db0774a432e317e9fc1200__21772.1615575330.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD323005YELO0601", "swatch": "Yellow", "choice": null, "price": { "list": "$189.95", "sale": "$142.46" } }]
+  },
+  {
+    "name": "7.9 Dry Climbing Rope",
+    "link": "/en_US/product/7-9-dry-climbing-rope/?colorid=4395",
+    "description": "Ideal for long alpine routes and tricky weather windows, the Black Diamond 7.9 is built for the mountains. Featuring a burly sheath that uses a 2X2 weave construction to lengthen the rope's lifespan, the 7.9 also boasts a dry treated core and sheath, which protects it from the inside out against moisture. With easily identifiable middle markers, the BD 7.9's are specifically designed to be used in pairs as half ropes or twins for an alpine or multi-pitch set-up, making them perfect for anything the mountains have to offer.",
+    "bullets": [
+      "Dry Performance—With a core and sheath that are dry treated, our dry treated ropes are protected against weather from the inside out",
+      "2X2 Woven Sheath—Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use",
+      "Durability and Handling Balance—Purpose-built to balance both durability and great handling, our ropes are not too stiff and not too soft, giving you a great feeling rope that knots easily, feeds through your belay device with ease, yet holds up to a barrage of use",
+      "Half/twin ropes must be used in pairs.  Do not use as a single rope"
+    ],
+    "specs": {
+      "ropeType": ["Half", "Twin"],
+      "halfMark": "Yes",
+      "weight": "39",
+      "dynamicElong": { "single": null, "half": 34, "twin": 32 },
+      "staticElong": { "single": null, "half": 6.7, "twin": 7 },
+      "falls": { "single": null, "half": 6, "twin": 16 },
+      "impactForce": { "single": null, "half": 5.4, "twin": 7.8 }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/6508_source_1664950067.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1045/48046/f647d5938e2495db87c827e410605fcda33ce8bb__61511.1615575332.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1045/48045/51885def088cc830b9361a7fcf8fb023faf43fc5__21043.1615575331.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "30m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011PURP0601", "swatch": "Purple", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011PURP0701", "swatch": "Purple", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } },
+      { "item": "BD323011ORAN0301", "swatch": "Orange", "choice": "30m", "price": { "list": "$109.95", "sale": "$82.46" } },
+      { "item": "BD323011ORAN0601", "swatch": "Orange", "choice": "60m", "price": { "list": "$189.95", "sale": "$142.46" } },
+      { "item": "BD323011ORAN0701", "swatch": "Orange", "choice": "70m", "price": { "list": "$219.95", "sale": "$164.96" } }
+    ]
+  },
+  {
+    "name": "6.0 Static Accessory Cord",
+    "link": "/en_US/product/6-0-static-accessory-cord-65m/?colorid=6216",
+    "description": "The BD 6.0 is a versatile tagline or escape cord. Keep it in your pack until the descent and then whip it out for the rappel by pairing it with your climbing rope. Or, use it to tag gear while you go to work on a wall. When it comes to getting it done, this static line is your hard-hitting partner.",
+    "bullets": ["Designed at 65m with minimal stretch intended for use when hauling or rappelling with a 60m dynamic cord", "10m length is ideal for cordelette ", "Certified to EN-564"],
+    "specs": {
+      "ropeType": ["Static"],
+      "halfMark": null,
+      "weight": "27.4",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8776_source_1664950106.png",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1054/48068/b8a6418c0720e5438f4256b0f0302ba052eca095__20724.1615575339.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1054/48067/1c65dd00abaac3906c4a9f43db37a4876985af29__71800.1615575339.386.513.png?c=1"
+    ],
+    "variants": [
+      { "item": "BD323105BLAK0101", "swatch": "Black", "choice": "10m", "price": { "list": "$9.95", "sale": "$7.46" } },
+      { "item": "BD323105BLAK0651", "swatch": "Black", "choice": "65m", "price": { "list": "$119.95", "sale": "$89.96" } }
+    ]
+  },
+  {
+    "name": "9.0 Static Rope",
+    "link": "/en_US/product/9-0-static-rope/",
+    "description": "Designed for the towering granite of Yosemite, this static rope is an excellent addition to any wall rack. At 65 meters, the Black Diamond 9.0 can handle the work of light hauling or as a Tagline while living in the vertical.",
+    "bullets": ["Designed at 65m with minimal stretch intended for use when rappelling with a 60m dynamic cord"],
+    "specs": {
+      "ropeType": ["Static"],
+      "halfMark": null,
+      "weight": "50",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54865/875935b49290e15ed45ab82c468e067d207f5438__70949.1647500602.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54866/ff833bf95ecae05519008080db88923b941f2679__41010.1647500603.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1859/54865/875935b49290e15ed45ab82c468e067d207f5438__70949.1647500602.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD32311293000651", "swatch": null, "choice": null, "price": { "list": "$199.95", "sale": "$149.96" } }]
+  },
+  {
+    "name": "10.0 Static Rope 65m",
+    "link": "/en_US/product/10-0-static-rope-65m/",
+    "description": "The link between you and the rest of your gear, this burly static cord is designed to haul your gear up the big walls of the world. At 65 meters, the BD 10.0 static line boasts a bomber diameter and can handle a barrage of big wall abuse.",
+    "bullets": ["Designed at 65m with minimal stretch intended for use when hauling or rappelling with a 60m dynamic cord", "Certified to EN-1891"],
+    "specs": {
+      "ropeType": ["Static"],
+      "halfMark": "No",
+      "weight": "69",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": 3.4, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49421/fa77cf71457d380a0ecc0c46aa1869e518f8efc1__95980.1610053892.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49422/78693cfc89955f36eb8a2387275779e29862f046__60068.1610053892.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1056/49421/fa77cf71457d380a0ecc0c46aa1869e518f8efc1__95980.1610053892.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD323110BLAK0651", "swatch": null, "choice": null, "price": { "list": "$219.95", "sale": "$164.96" } }]
+  },
+  {
+    "name": "10.2 Indoor Climbing Rope - 200m",
+    "link": "/en_US/product/10-2-indoor-climbing-rope-200m/",
+    "description": "A dynamic single rope with the utmost durability designed for heavy usage in climbing gyms.  The 10.2 indoor has a robust sheath for long life, with excellent handling – perfect for artificial walls and top rope belaying.",
+    "bullets": ["Comes in a 200 meter spool", "Utilizing a 2X2 weave construction, our standard sheath is built to withstand everyday use"],
+    "specs": {
+      "ropeType": [],
+      "halfMark": null,
+      "weight": "66",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49417/2d41b8f7c5e58f95aac462eadbbc12d794008a29__45283.1610053887.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49418/436f756a5410259313c1ce1d7eb27570599b2f8b__84106.1610053888.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1053/49417/2d41b8f7c5e58f95aac462eadbbc12d794008a29__45283.1610053887.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD323044BLBK2001", "swatch": null, "choice": null, "price": { "list": "$699.95", "sale": "$524.96" } }]
+  },
+  {
+    "name": "10.0 Static Rope - 200m",
+    "link": "/en_US/product/10-0-static-rope-200m/",
+    "description": "The link between you and the rest of your gear, this burly static cord is designed to haul your gear up the big walls of the world.  The BD 10.0 static line boasts a bomber diameter and can handle a barrage of big wall abuse.",
+    "bullets": ["Designed to haul your gear up big walls"],
+    "specs": {
+      "ropeType": [],
+      "halfMark": null,
+      "weight": "69",
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1057/49423/911365aa39d231687b280abcf7c626c733d98e28__03013.1610053894.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD323111BLAK2001", "swatch": null, "choice": null, "price": { "list": "$529.95", "sale": "$397.46" } }]
+  },
+  {
+    "name": "Rope Marker",
+    "link": "/en_US/product/rope-marker/",
+    "description": "Use the Black Diamond Rope Marker to refresh your middle mark or add a new one to your rope when necessary. This ensures you always know where the middle of your rope is while adventuring in the vertical world. ",
+    "bullets": [],
+    "specs": {
+      "ropeType": [],
+      "halfMark": null,
+      "weight": null,
+      "dynamicElong": { "single": null, "half": null, "twin": null },
+      "staticElong": { "single": null, "half": null, "twin": null },
+      "falls": { "single": null, "half": null, "twin": null },
+      "impactForce": { "single": null, "half": null, "twin": null }
+    },
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54874/deaa205a389be6e13b8a5db8c26af61a139438f5__03705.1647500619.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54875/836659c5cc3c6e8ecd241111adc2d717a1812c7a__88371.1647500620.386.513.png?c=1",
+      "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/1917/54874/deaa205a389be6e13b8a5db8c26af61a139438f5__03705.1647500619.386.513.png?c=1"
+    ],
+    "variants": [{ "item": "BD5508580000ALL1", "swatch": null, "choice": null, "price": { "list": "$11.95", "sale": "$8.96" } }]
+  }
+]
