@@ -1,0 +1,165 @@
+[
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "58",
+    "dynamicElong": { "single": 34, "half": null, "twin": null },
+    "staticElong": { "single": 8.4, "half": null, "twin": null },
+    "falls": { "single": 7, "half": null, "twin": null },
+    "impactForce": { "single": 8, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "58",
+    "dynamicElong": { "single": 37, "half": null, "twin": null },
+    "staticElong": { "single": 6.4, "half": null, "twin": null },
+    "falls": { "single": 6, "half": null, "twin": null },
+    "impactForce": { "single": 7.9, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "60",
+    "dynamicElong": { "single": 26, "half": null, "twin": null },
+    "staticElong": { "single": 3.3, "half": null, "twin": null },
+    "falls": { "single": 7, "half": null, "twin": null },
+    "impactForce": { "single": 9.4, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "58",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": 9, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "58",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": 6, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  { "ropeType": ["Half", "Twin"], "halfMark": "Yes", "weight": "46", "dynamicElong": { "single": null, "half": 35, "twin": 33 }, "staticElong": { "single": null, "half": 7, "twin": 7 }, "falls": { "single": null, "half": 10, "twin": 17 }, "impactForce": { "single": null, "half": 5, "twin": 7.7 } },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "61",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": 7, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "66",
+    "dynamicElong": { "single": 33, "half": null, "twin": null },
+    "staticElong": { "single": 5.4, "half": null, "twin": null },
+    "falls": { "single": 5, "half": null, "twin": null },
+    "impactForce": { "single": 8.2, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "58",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": 9, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Single", "Half", "Twin"],
+    "halfMark": "Yes",
+    "weight": "52",
+    "dynamicElong": { "single": 33, "half": 30, "twin": 27 },
+    "staticElong": { "single": 6.9, "half": null, "twin": null },
+    "falls": { "single": 5, "half": 16, "twin": 29 },
+    "impactForce": { "single": 8.7, "half": 6.1, "twin": 9.6 }
+  },
+  {
+    "ropeType": ["Single"],
+    "halfMark": "Yes",
+    "weight": "61",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": 7, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Twin"],
+    "halfMark": "Yes",
+    "weight": "34",
+    "dynamicElong": { "single": null, "half": null, "twin": 33 },
+    "staticElong": { "single": null, "half": null, "twin": 3.6 },
+    "falls": { "single": null, "half": null, "twin": 14 },
+    "impactForce": { "single": null, "half": null, "twin": 8.9 }
+  },
+  {
+    "ropeType": ["Half", "Twin"],
+    "halfMark": "Yes",
+    "weight": "39",
+    "dynamicElong": { "single": null, "half": 34, "twin": 32 },
+    "staticElong": { "single": null, "half": 6.7, "twin": 7 },
+    "falls": { "single": null, "half": 6, "twin": 16 },
+    "impactForce": { "single": null, "half": 5.4, "twin": 7.8 }
+  },
+  {
+    "ropeType": ["Static"],
+    "halfMark": null,
+    "weight": "27.4",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Static"],
+    "halfMark": null,
+    "weight": "50",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": ["Static"],
+    "halfMark": "No",
+    "weight": "69",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": 3.4, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": [],
+    "halfMark": null,
+    "weight": "66",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": [],
+    "halfMark": null,
+    "weight": "69",
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  },
+  {
+    "ropeType": [],
+    "halfMark": null,
+    "weight": null,
+    "dynamicElong": { "single": null, "half": null, "twin": null },
+    "staticElong": { "single": null, "half": null, "twin": null },
+    "falls": { "single": null, "half": null, "twin": null },
+    "impactForce": { "single": null, "half": null, "twin": null }
+  }
+]
