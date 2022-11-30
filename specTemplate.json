@@ -1,1 +1,21 @@
-[{"falls":{"single":7,"half":null,"twin":null}},{"falls":{"single":6,"half":null,"twin":null}},{"falls":{"single":7,"half":null,"twin":null}},{"falls":{"single":9,"half":null,"twin":null}},{"falls":{"single":6,"half":null,"twin":null}},{"falls":{"single":null,"half":10,"twin":17}},{"falls":{"single":7,"half":null,"twin":null}},{"falls":{"single":5,"half":null,"twin":null}},{"falls":{"single":9,"half":null,"twin":null}},{"falls":{"single":5,"half":16,"twin":29}},{"falls":{"single":7,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":14}},{"falls":{"single":null,"half":6,"twin":16}},{"falls":{"single":null,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":null}},{"falls":{"single":null,"half":null,"twin":null}}]
+[
+  { "impactForce": { "single": 8, "half": null, "twin": null } },
+  { "impactForce": { "single": 7.9, "half": null, "twin": null } },
+  { "impactForce": { "single": 9.4, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": 5, "twin": 7.7 } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": 8.2, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": 8.7, "half": 6.1, "twin": 9.6 } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": 8.9 } },
+  { "impactForce": { "single": null, "half": 5.4, "twin": 7.8 } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } },
+  { "impactForce": { "single": null, "half": null, "twin": null } }
+]

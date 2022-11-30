@@ -33,8 +33,8 @@ const specTemplate = {
   // slippage: null,
   // dynamicElong: { single: null, half: null, twin: null, },
   // staticElong: { single: null, half: null, twin: null, },
-  falls: { single: null, half: null, twin: null, },
-  // impactForce: { single: null, half: null, twin: null, },
+  // falls: { single: null, half: null, twin: null, },
+  impactForce: { single: null, half: null, twin: null, },
 }
 
 //TODO: intermediate file to compare later - DELETE ME
@@ -59,10 +59,12 @@ for (let i = 0; i < specsProdArray.length; i++) {
 // regex match - returns array of either single number (> or < 1) / 2 numbers / 3 numbers / or number string pair
 const elongRegex = /(\d+\.?\d+)|\d(?=\s?\%)|(single)|(half)|(twin)/gi
 const fallsRegex = /(\d+)|(single)|(half)|(twin)/gi
+const impactRegex = /(\d+\.?\d+)|\d(?=\s?(kn))|(single)|(half)|(twin)/gi
 
 
 //TODO: copy spec template - then overwrite values
 //TODO: search through specs to find containing words - write its formatted value to predefined spec name
+//TODO: refactor code to reduce repeat - args(obj to search, search word for label, regex, template objectName)
 for (let i = 0; i < specsProdArray.length; i++) {
   specsProdArray[i].forEach( obj => {
       // if ((obj.label).includes('Type')) { formattedProductArray[i].ropeType.push(obj.value) }
@@ -235,8 +237,90 @@ for (let i = 0; i < specsProdArray.length; i++) {
       //     }
       //   }
       // }
-      if ((obj.label).toLowerCase().includes('falls')) { // find values for each rope type
-        let matchVals = (obj.value).match(fallsRegex)
+      // if ((obj.label).toLowerCase().includes('falls')) { // find values for each rope type
+      //   let matchVals = (obj.value).match(fallsRegex)
+      //   // regex match array contains text
+      //   if (isContainsText(matchVals)) {
+      //     // match array contains even number of elements
+      //     if (matchVals.length % 2 === 0) {
+      //       // if first value is text assign next number else opposite
+      //       if (isContainsText(matchVals[0])) {
+      //         for (let j = 0; j < matchVals.length; j+=2) {
+      //           if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].falls.single = toWholePercent(matchVals[j+1]) }
+      //           if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].falls.half = toWholePercent(matchVals[j+1]) }
+      //           if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].falls.twin = toWholePercent(matchVals[j+1]) }
+      //         }
+      //       } else {
+      //         for (let j = 1; j < matchVals.length; j+=2) {
+      //           if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].falls.single = toWholePercent(matchVals[j-1]) }
+      //           if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].falls.half = toWholePercent(matchVals[j-1]) }
+      //           if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].falls.twin = toWholePercent(matchVals[j-1]) }
+      //         }
+      //       }
+      //     } else { // contains text but odd number length (ie - [3.6, Half, Twin])
+      //       // find the numbers in matchArray
+      //       var numIndexes = []
+      //       for (let j = 0; j < matchVals.length; j++) {
+      //         if ( !isNaN(Number(matchVals[j])) ) {numIndexes.push(j)}
+      //       }
+      //       // first value in matchArray is text
+      //       if (isContainsText(matchVals[0])) {
+      //         for (let j = 0; j < numIndexes.length; j++) {
+      //           for (let k = 0; k < matchVals.length; k++) {
+      //             if ( j > 0 ) {
+      //               if ( (k < numIndexes[j]) && (k > numIndexes[j-1]) ) {
+      //                 if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+      //               }
+      //             } else {
+      //               if (k < numIndexes[j]) {
+      //                 if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+      //               }
+      //             }
+      //           }
+      //         }
+      //       } else { // first value in matchArray is number
+      //         for (let j = 0; j < numIndexes.length; j++) {
+      //           for (let k = 0; k < matchVals.length; k++) {
+      //             if ( j < numIndexes.length-1 ) {
+      //               if ( (k > numIndexes[j]) && (k < numIndexes[j+1]) ) {
+      //                 if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+      //               }
+      //             } else {
+      //               if (k > numIndexes[j]) {
+      //                 if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
+      //                 if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+      //               }
+      //             }
+      //           }
+      //         }
+      //       }
+      //     }
+      //   } else { // match array contains only numbers
+      //     switch (matchVals.length) {
+      //       case 1: 
+      //         formattedProductArray[i].falls.single = toWholePercent(matchVals[0])
+      //         break
+      //       case 2:
+      //         formattedProductArray[i].falls.half = toWholePercent(matchVals[0])
+      //         formattedProductArray[i].falls.twin = toWholePercent(matchVals[1])
+      //         break
+      //       case 3:
+      //         formattedProductArray[i].falls.single = toWholePercent(matchVals[0])
+      //         formattedProductArray[i].falls.half = toWholePercent(matchVals[1])
+      //         formattedProductArray[i].falls.twin = toWholePercent(matchVals[2])
+      //         break
+      //     }
+      //   }
+      // }
+      if ((obj.label).toLowerCase().includes('impact')) { // find values for each rope type
+        let matchVals = (obj.value).match(impactRegex)
         // regex match array contains text
         if (isContainsText(matchVals)) {
           // match array contains even number of elements
@@ -244,15 +328,15 @@ for (let i = 0; i < specsProdArray.length; i++) {
             // if first value is text assign next number else opposite
             if (isContainsText(matchVals[0])) {
               for (let j = 0; j < matchVals.length; j+=2) {
-                if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].falls.single = toWholePercent(matchVals[j+1]) }
-                if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].falls.half = toWholePercent(matchVals[j+1]) }
-                if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].falls.twin = toWholePercent(matchVals[j+1]) }
+                if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].impactForce.single = toWholePercent(matchVals[j+1]) }
+                if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].impactForce.half = toWholePercent(matchVals[j+1]) }
+                if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[j+1]) }
               }
             } else {
               for (let j = 1; j < matchVals.length; j+=2) {
-                if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].falls.single = toWholePercent(matchVals[j-1]) }
-                if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].falls.half = toWholePercent(matchVals[j-1]) }
-                if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].falls.twin = toWholePercent(matchVals[j-1]) }
+                if (matchVals[j].toLowerCase().includes('single')) { formattedProductArray[i].impactForce.single = toWholePercent(matchVals[j-1]) }
+                if (matchVals[j].toLowerCase().includes('half')) { formattedProductArray[i].impactForce.half = toWholePercent(matchVals[j-1]) }
+                if (matchVals[j].toLowerCase().includes('twin')) { formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[j-1]) }
               }
             }
           } else { // contains text but odd number length (ie - [3.6, Half, Twin])
@@ -267,15 +351,15 @@ for (let i = 0; i < specsProdArray.length; i++) {
                 for (let k = 0; k < matchVals.length; k++) {
                   if ( j > 0 ) {
                     if ( (k < numIndexes[j]) && (k > numIndexes[j-1]) ) {
-                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].impactForce.single = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].impactForce.half = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[numIndexes[j]]) }
                     }
                   } else {
                     if (k < numIndexes[j]) {
-                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].impactForce.single = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].impactForce.half = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[numIndexes[j]]) }
                     }
                   }
                 }
@@ -285,15 +369,15 @@ for (let i = 0; i < specsProdArray.length; i++) {
                 for (let k = 0; k < matchVals.length; k++) {
                   if ( j < numIndexes.length-1 ) {
                     if ( (k > numIndexes[j]) && (k < numIndexes[j+1]) ) {
-                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].impactForce.single = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].impactForce.half = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[numIndexes[j]]) }
                     }
                   } else {
                     if (k > numIndexes[j]) {
-                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].falls.single = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].falls.half = toWholePercent(matchVals[numIndexes[j]]) }
-                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].falls.twin = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('single')) {  formattedProductArray[i].impactForce.single = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('half')) {  formattedProductArray[i].impactForce.half = toWholePercent(matchVals[numIndexes[j]]) }
+                      if (matchVals[k].toLowerCase().includes('twin')) {  formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[numIndexes[j]]) }
                     }
                   }
                 }
@@ -303,21 +387,20 @@ for (let i = 0; i < specsProdArray.length; i++) {
         } else { // match array contains only numbers
           switch (matchVals.length) {
             case 1: 
-              formattedProductArray[i].falls.single = toWholePercent(matchVals[0])
+              formattedProductArray[i].impactForce.single = toWholePercent(matchVals[0])
               break
             case 2:
-              formattedProductArray[i].falls.half = toWholePercent(matchVals[0])
-              formattedProductArray[i].falls.twin = toWholePercent(matchVals[1])
+              formattedProductArray[i].impactForce.half = toWholePercent(matchVals[0])
+              formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[1])
               break
             case 3:
-              formattedProductArray[i].falls.single = toWholePercent(matchVals[0])
-              formattedProductArray[i].falls.half = toWholePercent(matchVals[1])
-              formattedProductArray[i].falls.twin = toWholePercent(matchVals[2])
+              formattedProductArray[i].impactForce.single = toWholePercent(matchVals[0])
+              formattedProductArray[i].impactForce.half = toWholePercent(matchVals[1])
+              formattedProductArray[i].impactForce.twin = toWholePercent(matchVals[2])
               break
           }
         }
       }
-  //     if ((obj.label).includes('Impact')) { formattedProductArray[i].impactForce.single = obj.value }
   })
 }
 
@@ -328,5 +411,3 @@ fs.writeFile(fileName, JSON.stringify(formattedProductArray), (err) => {
   if (err) throw err
   console.log(`File Saved: ${fileName}`)
 })
-
-
