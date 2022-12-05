@@ -1,0 +1,23 @@
+{
+  "sku": "2290-00990",
+  "description": ["Freestanding rope bag", "A simple action converts the Magic Rope Bag from a freestanding rope bag to a mat for sitting on."],
+  "attributes": [
+    { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Item number", "2290-00990"] }, { "values": ["Weight", "600 g"] }, { "values": ["Cut", "Basic"] }] },
+    {
+      "title": "Features",
+      "contents": [
+        { "values": ["Drawstring system makes the Magic free standing or flat for storage"] },
+        { "values": ["Normal carrying handle and XL handle for over the shoulder carrying"] },
+        { "values": ["Large internal zipper pocket"] },
+        { "values": ["Foam filling"] },
+        { "values": ["Magic Technology patent pending"] },
+        { "values": ["Zipper opening"] },
+        { "values": ["Internal strap to organize climbing rack"] },
+        { "values": ["Colored rope attachment points"] },
+        { "values": ["Mat for cleaning climbing shoes"] }
+      ]
+    },
+    { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+    { "title": "Sustainability", "contents": [{ "values": ["Fair Wear", "Fair Wear works to ensure fair and safe working conditions in garment factories. The non-profit engages directly with factories, trade unions, NGOs and governments to protect workers’ rights."] }] }
+  ]
+}
