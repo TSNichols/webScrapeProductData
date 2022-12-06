@@ -1,0 +1,1536 @@
+[
+  {
+    "sku": "2010-04190",
+    "name": "8.7 Alpine Sender Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "All-around rope for mountaineering",
+      "Triple certified all-around rope for ice climbing, mountaineering and performance mountain climbing: the 8.7 Alpine Sender Dry Rope features a smooth sheath made from premium quality yarns to minimize its weight and diameter. The rope impresses with its easy handling and durability. 8.7 Alpine Sender Dry Rope - the all-around rope for demanding climbing, when every gram counts."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Mountaineering, Climbing"] },
+          { "values": ["Item number", "2010-04190"] },
+          { "values": ["Diameter", "8.7 mm"] },
+          { "values": ["Stretch on first fall", "33"] },
+          { "values": ["Sheath proportion", "36"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation half rope", "7.5"] },
+          { "values": ["UIAA falls (single rope 55 kg)", ">16"] },
+          { "values": ["Static elongation single rope", "7.5"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "5"] },
+          { "values": ["Impact force", "8.6 / 6.7 / 10.2 kN"] },
+          { "values": ["Weight", "51 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Sender construction for ultimate light weight"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] },
+          { "values": ["Triple certified single, half and twin rope"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04190_doc_220972.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04190_doc_220972.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04190-11284_main_205816.jpg",
+        "imageTransparent": "2010-04190-11284_main-png_205816.png",
+        "sizes": [
+          { "sku": "2010-04190-11284-1050", "inStock": true, "price": 229.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11284-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11284-1070", "inStock": true, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11284-1030", "inStock": false, "price": 174.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11284-1040", "inStock": false, "price": 184.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, ocean-vibrant orange"]
+      },
+      {
+        "image": "2010-04190-11285_main_205821.jpg",
+        "imageTransparent": "2010-04190-11285_main-png_205821.png",
+        "sizes": [
+          { "sku": "2010-04190-11285-1050", "inStock": true, "price": 229.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11285-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11285-1070", "inStock": true, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11285-1030", "inStock": false, "price": 174.95, "originalPrice": 0 },
+          { "sku": "2010-04190-11285-1040", "inStock": false, "price": 184.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, vibrant orange-ocean"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04140",
+    "name": "10.1 Gym Station Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Durable rope for the climbing gym",
+      "10.1 Gym Station Classic Rope. A durable dynamic rope for the climbing gym. Featuring a special braided core construction designed to minimize slipping of the sheath - in particular, during use as a top rope. Ideal for use in climbing gyms and with a long service life."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04140"] },
+          { "values": ["Diameter", "10.1 mm"] },
+          { "values": ["Stretch on first fall", "34"] },
+          { "values": ["Sheath proportion", "37"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "7"] },
+          { "values": ["Impact force", "8.6 kN"] },
+          { "values": ["Weight", "67 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Special braided core construction that minimizes sheath slippage, particularly when used as a top rope"] }, { "values": ["PFC-free"] }, { "values": ["For climbing gyms"] }, { "values": ["Made for top-roping"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04140_doc_220968.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04140_doc_220968.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [{ "image": "2010-04140-01227_main_215921.jpg", "imageTransparent": "2010-04140-01227_main-png_215921.png", "sizes": [{ "sku": "2010-04140-01227-1800", "inStock": true, "price": 734.95, "originalPrice": 0 }], "color": ["Classic Standard, blue-white"] }]
+  },
+  {
+    "sku": "2010-04470",
+    "name": "9.5 Crag We Care Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Single rope made with responsible use of resources",
+      "With the 9.5 Crag We Care Classic Rope for sports and classic climbing, Mammut aims at reducing the environmental footprint of its rope production. The sheath of the single rope is made from residual yarn left over from changes between different colors. Previously disposed of, this yarn is a... read more"
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04470"] },
+          { "values": ["Diameter", "9.5 mm"] },
+          { "values": ["Stretch on first fall", "33.8"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "6-7"] },
+          { "values": ["Impact force", "8.8 kN"] },
+          { "values": ["Weight", "59 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Sheath made of 100% residual yarn"] }, { "values": ["Center mark"] }, { "values": ["PFC-free"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04470_doc_221008.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04470_doc_221008.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04470-0199_main_173690.jpg",
+        "imageTransparent": "2010-04470-0199_main-png_173690.png",
+        "sizes": [
+          { "sku": "2010-04470-0199-1060", "inStock": true, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-04470-0199-1070", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04470-0199-1080", "inStock": true, "price": 219.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, assorted"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04480",
+    "name": "9.9 Crag Workhorse Classic",
+    "brand": "Mammut",
+    "description": [
+      "Rope for intensive use on the rocks",
+      "The 9.9 Crag Workhorse Classic Rope is a high-quality single rope for sport and traditional climbing. It features the most robust rope construction Mammut has ever produced. Its fine, smooth surface makes the optimized sheath construction particularly abrasion-proof in comparison to standard ropes with a similar diameter. Developed for intensive use on the rocks."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04480"] },
+          { "values": ["Diameter", "9.9 mm"] },
+          { "values": ["Stretch on first fall", "33.5"] },
+          { "values": ["Sheath proportion", "39"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.3"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "8-9"] },
+          { "values": ["Impact force", "8.3 kN"] },
+          { "values": ["Weight", "65 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["Workhorse construction for ultimate abrasion resistance"] }, { "values": ["PFC-free"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04480_doc_221009.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04480_doc_221009.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04480-01231_main_205793.jpg",
+        "imageTransparent": "2010-04480-01231_main-png_205793.png",
+        "sizes": [
+          { "sku": "2010-04480-01231-1060", "inStock": true, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04480-01231-1070", "inStock": true, "price": 219.95, "originalPrice": 0 },
+          { "sku": "2010-04480-01231-1080", "inStock": false, "price": 199.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, boa-white"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04280",
+    "name": "9.8 Crag Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Single rope for sports and traditional climbing",
+      "Mammut Dry Rope for sport climbing and traditional climbing: the 9.8 Crag Dry Rope is a versatile rope for all-around climbers. Excellent handling. Optimum balance between diameter and weight. High durability. The 9.8 Crag Dry Rope is a classic Mammut single rope based on the best-selling Mammut Eternity Dry rope."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04280"] },
+          { "values": ["Diameter", "9.8 mm"] },
+          { "values": ["Stretch on first fall", "32"] },
+          { "values": ["Sheath proportion", "38"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation single rope", "7"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "8-9"] },
+          { "values": ["Impact force", "9.0 kN"] },
+          { "values": ["Weight", "64 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04280_doc_220982.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04280_doc_220982.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04280-11238_main_160246.jpg",
+        "imageTransparent": "2010-04280-11238_main-png_160246.png",
+        "sizes": [
+          { "sku": "2010-04280-11238-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04280-11238-1070", "inStock": true, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-04280-11238-1080", "inStock": true, "price": 329, "originalPrice": 0 },
+          { "sku": "2010-04280-11238-1050", "inStock": false, "price": 239.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, safety orange-boa"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04210",
+    "name": "9.0 Crag Sender Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Waterproofed rope for sports and trad climbers",
+      "Triple certified rope for sport climbers and all-arounders: the 9.0 Crag Sender Dry Rope. Extremely light weight and small diameter thanks to a smoother sheath made from premium quality yarns. Easy handling. Reliable durability. The 9.0 Crag Sender Dry Rope is ideal for demanding climbing, where every gram counts."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04210"] },
+          { "values": ["Diameter", "9 mm"] },
+          { "values": ["Stretch on first fall", "32.5"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation half rope", "8.5"] },
+          { "values": ["UIAA falls (single rope 55 kg)", ">18"] },
+          { "values": ["Static elongation single rope", "8.5"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "5-6"] },
+          { "values": ["Impact force", "8.8 / 6.5 / 10.0 kN"] },
+          { "values": ["Weight", "54 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Sender construction for ultimate light weight"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] },
+          { "values": ["Triple certified single, half and twin rope"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04210_doc_220975.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04210_doc_220975.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04210-11236_main_160224.jpg",
+        "imageTransparent": "2010-04210-11236_main-png_160224.png",
+        "sizes": [
+          { "sku": "2010-04210-11236-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04210-11236-1070", "inStock": true, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-04210-11236-1080", "inStock": true, "price": 329.95, "originalPrice": 0 },
+          { "sku": "2010-04210-11236-1100", "inStock": false, "price": 399.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, ice-sunrise"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04330",
+    "name": "7.5 Alpine Sender Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Double rope for mountaineering",
+      "7.5 Alpine Sender Dry Rope - an extremely light double rope for ice climbing, mixed climbing, mountaineering, multi-pitch and alpine climbing. Smooth sheath made from high-quality yarns for an extremely low weight and a small diameter. Combination of easy handling and durability. The double rope is ideal for tough climbing sessions where every gram counts."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Mountaineering, Climbing"] },
+          { "values": ["Item number", "2010-04330"] },
+          { "values": ["Diameter", "7.5 mm"] },
+          { "values": ["Stretch on first fall", "31"] },
+          { "values": ["Sheath proportion", "35"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation half rope", "9"] },
+          { "values": ["UIAA falls (single rope 55 kg)", "7-8"] },
+          { "values": ["Impact force", "6.3 / 9.7 kN"] },
+          { "values": ["Weight", "38 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Sender construction for ultimate light weight"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] },
+          { "values": ["Double certified half and twin rope"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04330_doc_220987.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04330_doc_220987.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04330-11250_main_160256.jpg",
+        "imageTransparent": "2010-04330-11250_main-png_160256.png",
+        "sizes": [
+          { "sku": "2010-04330-11250-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11250-1070", "inStock": true, "price": 224.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11250-1050", "inStock": false, "price": 169.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, fire-blue"]
+      },
+      {
+        "image": "2010-04330-11251_main_160258.jpg",
+        "imageTransparent": "2010-04330-11251_main-png_160258.png",
+        "sizes": [
+          { "sku": "2010-04330-11251-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11251-1070", "inStock": true, "price": 224.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11251-1050", "inStock": false, "price": 169.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, blue-safety orange"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04150",
+    "name": "10.2 Crag Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Single rope for sport-, trad and top rope climbing",
+      "The 10.2 Crag Classic Rope - a rope for sport climbing, traditional climbing and top rope climbing. Very robust thanks to a diameter of 10.2 mm. Greater safety. Longer service life. A Mammut rope for all-around climbers with demanding standards for quality and safety."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04150"] },
+          { "values": ["Diameter", "10.2 mm"] },
+          { "values": ["Stretch on first fall", "33"] },
+          { "values": ["Sheath proportion", "42"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.5"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "10 - 11"] },
+          { "values": ["Impact force", "8.4 kN"] },
+          { "values": ["Weight", "67 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["PFC-free"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04150_doc_220970.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04150_doc_220970.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [{ "image": "2010-04150-01228_main_160214.jpg", "imageTransparent": "2010-04150-01228_main-png_160214.png", "sizes": [{ "sku": "2010-04150-01228-1060", "inStock": true, "price": 179.95, "originalPrice": 0 }], "color": ["Classic Standard, marine-white"] }]
+  },
+  {
+    "sku": "2010-04270",
+    "name": "9.8 Crag Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Single rope for sports and traditional climbing",
+      "9.8 Crag Classic Rope, a perfect choice for all-around climbers. A high-quality Mammut rope for sport climbing and traditional climbing. Excellent handling, the best combination of diameter, weight and reliable durability. The 9.8 Crag Classic Rope is a classic Mammut single rope based on the best-selling Eternity."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04270"] },
+          { "values": ["Diameter", "9.8 mm"] },
+          { "values": ["Stretch on first fall", "33"] },
+          { "values": ["Sheath proportion", "38"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "7 - 8"] },
+          { "values": ["Impact force", "9 kN"] },
+          { "values": ["Weight", "64 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["PFC-free"] }, { "values": ["Duodess version features a durable and always visible center mark"] }, { "values": ["Duodess version: ready to climb - tangle-free packing, no need to uncoil before use"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04270_doc_220981.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04270_doc_220981.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04270-01176_main_160242.jpg",
+        "imageTransparent": "2010-04270-01176_main-png_160242.png",
+        "sizes": [
+          { "sku": "2010-04270-01176-1060", "inStock": true, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01176-1070", "inStock": true, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01176-1050", "inStock": false, "price": 114.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01176-1080", "inStock": false, "price": 229.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, orange-white"]
+      },
+      {
+        "image": "2010-04270-01283_main_205806.jpg",
+        "imageTransparent": "2010-04270-01283_main-png_205806.png",
+        "sizes": [
+          { "sku": "2010-04270-01283-1060", "inStock": true, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01283-1070", "inStock": true, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01283-1080", "inStock": true, "price": 229.95, "originalPrice": 0 },
+          { "sku": "2010-04270-01283-1050", "inStock": false, "price": 114.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, ice mint-white"]
+      },
+      {
+        "image": "2010-04270-02268_main_173689.jpg",
+        "imageTransparent": "2010-04270-02268_main-png_173689.png",
+        "sizes": [
+          { "sku": "2010-04270-02268-1060", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04270-02268-1080", "inStock": true, "price": 249.95, "originalPrice": 0 },
+          { "sku": "2010-04270-02268-1070", "inStock": false, "price": 219.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Duodess, vibrant orange-white"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04350",
+    "name": "8.0 Alpine Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Double rope for climbing and mountaineering",
+      "A versatile double rope for ice climbing, mountaineering, multi-pitch climbing and alpine climbing: 8.0 Alpine Dry Rope. The rope features a construction that offers  light weight and smaller diameter with greater safety margin. Its design is based on the best-selling Mammut Phoenix Dry rope. 8.0 Alpine Dry Rope - for adventures on the rocks."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Mountaineering, Climbing"] },
+          { "values": ["Item number", "2010-04350"] },
+          { "values": ["Diameter", "8 mm"] },
+          { "values": ["Stretch on first fall", "31"] },
+          { "values": ["Sheath proportion", "42"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation half rope", "8.7"] },
+          { "values": ["UIAA falls (single rope 55 kg)", "9 - 10"] },
+          { "values": ["Impact force", "6.3 / 10.0 kN"] },
+          { "values": ["Weight", "42 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Double certified half and twin rope"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04350_doc_220990.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04350_doc_220990.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04350-11240_main_160210.jpg",
+        "imageTransparent": "2010-04350-11240_main-png_160210.png",
+        "sizes": [
+          { "sku": "2010-04350-11240-1030", "inStock": true, "price": 109.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11240-1050", "inStock": true, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11240-1060", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11240-1070", "inStock": true, "price": 204.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, boa-safety orange"]
+      },
+      {
+        "image": "2010-04350-11253_main_160212.jpg",
+        "imageTransparent": "2010-04350-11253_main-png_160212.png",
+        "sizes": [
+          { "sku": "2010-04350-11253-1050", "inStock": true, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11253-1060", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11253-1070", "inStock": true, "price": 204.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, zen-pink"]
+      },
+      {
+        "image": "2010-04350-11218_main_160206.jpg",
+        "imageTransparent": "2010-04350-11218_main-png_160206.png",
+        "sizes": [
+          { "sku": "2010-04350-11218-1060", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11218-1070", "inStock": true, "price": 204.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11218-1050", "inStock": false, "price": 159.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, pink-zen"]
+      },
+      {
+        "image": "2010-04350-11238_main_160208.jpg",
+        "imageTransparent": "2010-04350-11238_main-png_160208.png",
+        "sizes": [
+          { "sku": "2010-04350-11238-1050", "inStock": false, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11238-1060", "inStock": false, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11238-1070", "inStock": false, "price": 204.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, safety orange-boa"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-00801",
+    "name": "11.0 Performance Static",
+    "brand": "Mammut",
+    "description": ["Very abrasion-proof static rope", "This static rope is highly abrasion-resistant, very low stretch, maximum strength, extremely durable and has a long service life. Do not use for dynamic belaying! EN 1891 Type A."],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Item number", "2010-00801"] }, { "values": ["Diameter", "11 mm"] }, { "values": ["Sheath proportion", "35"] }, { "values": ["Breaking load", "32 kN"] }, { "values": ["Weight", "75 g/m"] }, { "values": ["Cut", "Basic"] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-00801_doc_220855.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }, { "values": ["2010-00801_doc_220855.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-00801-0255_main_56967.jpg",
+        "imageTransparent": "2010-00801-0255_main-png_56967.png",
+        "sizes": [
+          { "sku": "2010-00801-0255-1050", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-00801-0255-1100", "inStock": true, "price": 339.95, "originalPrice": 0 },
+          { "sku": "2010-00801-0255-1200", "inStock": true, "price": 599.95, "originalPrice": 0 },
+          { "sku": "2010-00801-0255-1640", "inStock": false, "price": 1359.95, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00801-3072_main_200119.jpg",
+        "imageTransparent": "2010-00801-3072_main-png_200119.png",
+        "sizes": [
+          { "sku": "2010-00801-3072-1200", "inStock": true, "price": 599.95, "originalPrice": 0 },
+          { "sku": "2010-00801-3072-1050", "inStock": false, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-00801-3072-1100", "inStock": false, "price": 339.95, "originalPrice": 0 }
+        ],
+        "color": []
+      }
+    ]
+  },
+  {
+    "sku": "2010-04070",
+    "name": "6.0 Glacier Cord Dry",
+    "brand": "Mammut",
+    "description": [
+      "Ultra-light hyperstatic glacier rope",
+      "A rope developed specially for glacier trekking and for skiers and mountaineers - suitable for rappelling, haul maneuvers or crevasse rescues. The Dry treatment also gives the rope maximum safety even in the most adverse conditions, by ensuring that the cord absorbs practically no water and does not... read more"
+    ],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Ski Touring, Mountaineering"] }, { "values": ["Item number", "2010-04070"] }, { "values": ["Diameter", "6 mm"] }, { "values": ["Breaking load", "14 kN"] }, { "values": ["Weight", "25 g/m"] }, { "values": ["Cut", "Basic"] }] },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Extremely light"] },
+          { "values": ["Highly compressible"] },
+          { "values": ["Extra-grippy aramid sheath construction for easy handling, high friction while rappelling, low abrasion and also to aid in braking when arresting a crevasse fall"] },
+          { "values": ["Meets minimum breaking strength requirement of 4 kN with TIBLOC and MICRO TRAXION. Tested according to the standard EN 567"] },
+          { "values": ["Hyperstatic rope with less than 2% stretch for greater efficiency in rescue maneuvers and to prevent the bungee effect during rappelling or a crevasse fall"] },
+          { "values": ["Compact bag that can also be used as a throw bag for rappelling maneuvers"] },
+          { "values": ["CE EN 564 & UIAA Dry in accordance to UIAA 102"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "66% Dyneema, 34% Aramide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04070_doc_220947.pdf"] }, { "values": ["User_Manual_HI-MAM-152-3_6-0_GlacierCordDry_PRINT.pdf"] }, { "values": ["2010-04070_doc_220947.pdf"] }, { "values": ["User_Manual_HI-MAM-152-3_6-0_GlacierCordDry_PRINT.pdf"] }] }
+    ],
+    "variants": [
+      {
+        "image": "2010-04070-11221_main_202935.jpg",
+        "imageTransparent": "2010-04070-11221_main-png_202935.png",
+        "sizes": [
+          { "sku": "2010-04070-11221-1200-106", "inStock": true, "price": 259.95, "originalPrice": 0 },
+          { "sku": "2010-04070-11221-1250-106", "inStock": true, "price": 484.95, "originalPrice": 0 }
+        ],
+        "color": []
+      }
+    ]
+  },
+  {
+    "sku": "2010-00052",
+    "name": "Accessory Cord",
+    "brand": "Mammut",
+    "description": ["Accessory cord for different outdoor activities", "Strong, low stretch, easy to tie, resilient.E. g. for rescue techniques (prussiking),slinging chocks or nuts."],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing, Mountaineering"] }, { "values": ["Item number", "2010-00052"] }, { "values": ["Breaking load", "18 kN"] }, { "values": ["Weight", "39 g/m"] }, { "values": ["Cut", "Basic"] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-00052_doc_219530.pdf"] }, { "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }, { "values": ["2010-00052_doc_219530.pdf"] }, { "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-00052-4047_main_56958.jpg",
+        "imageTransparent": "2010-00052-4047_main-png_56958.png",
+        "sizes": [
+          { "sku": "2010-00052-4047-1050-104", "inStock": true, "price": 45, "originalPrice": 0 },
+          { "sku": "2010-00052-4047-1150-104", "inStock": true, "price": 130, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00052-1037_main_56956.jpg",
+        "imageTransparent": "2010-00052-1037_main-png_56956.png",
+        "sizes": [
+          { "sku": "2010-00052-1037-1050-105", "inStock": true, "price": 55, "originalPrice": 0 },
+          { "sku": "2010-00052-1037-1150-105", "inStock": false, "price": 150, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00052-3000_main_56961.jpg",
+        "imageTransparent": "2010-00052-3000_main-png_56961.png",
+        "sizes": [
+          { "sku": "2010-00052-3000-1050-106", "inStock": true, "price": 70, "originalPrice": 0 },
+          { "sku": "2010-00052-3000-1150-106", "inStock": true, "price": 190, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00052-4287_main_56955.jpg",
+        "imageTransparent": "2010-00052-4287_main-png_56955.png",
+        "sizes": [
+          { "sku": "2010-00052-4287-1050-108", "inStock": true, "price": 120, "originalPrice": 0 },
+          { "sku": "2010-00052-4287-1150-104", "inStock": true, "price": 130, "originalPrice": 0 },
+          { "sku": "2010-00052-4287-1150-108", "inStock": true, "price": 330, "originalPrice": 0 },
+          { "sku": "2010-00052-4287-1150-106", "inStock": false, "price": 190, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00052-2016_main_56960.jpg",
+        "imageTransparent": "2010-00052-2016_main-png_56960.png",
+        "sizes": [
+          { "sku": "2010-00052-2016-1150-107", "inStock": true, "price": 240, "originalPrice": 0 },
+          { "sku": "2010-00052-2016-1050-107", "inStock": false, "price": 90, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      { "image": "2010-00052-3022_main_56957.jpg", "imageTransparent": "2010-00052-3022_main-png_56957.png", "sizes": [{ "sku": "2010-00052-3022-1150-107", "inStock": true, "price": 240, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-00052-7047_main_56954.jpg", "imageTransparent": "2010-00052-7047_main-png_56954.png", "sizes": [{ "sku": "2010-00052-7047-1150-108", "inStock": true, "price": 330, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-00052-0139_main_56959.jpg", "imageTransparent": "2010-00052-0139_main-png_56959.png", "sizes": [{ "sku": "2010-00052-0139-1150-105", "inStock": false, "price": 150, "originalPrice": 0 }], "color": [] }
+    ]
+  },
+  {
+    "sku": "2010-00042",
+    "name": "Hammer Cord",
+    "brand": "Mammut",
+    "description": ["Versatile accessory cord", "Robust and durable, strong, easy to tie, for example for securing equipment, backpack and tent area or laces. 150 m roll."],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing, Mountaineering"] }, { "values": ["Item number", "2010-00042"] }, { "values": ["Breaking load", "0.85 kN"] }, { "values": ["Weight", "2 g/m"] }, { "values": ["Cut", "Basic"] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }, { "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      { "image": "2010-00042-5052_main_56952.jpg", "imageTransparent": "2010-00042-5052_main-png_56952.png", "sizes": [{ "sku": "2010-00042-5052-1150-102", "inStock": true, "price": 79.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-00042-4100_main_56953.jpg", "imageTransparent": "2010-00042-4100_main-png_56953.png", "sizes": [{ "sku": "2010-00042-4100-1150-102", "inStock": true, "price": 79.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-00042-3000_main_56951.jpg", "imageTransparent": "2010-00042-3000_main-png_56951.png", "sizes": [{ "sku": "2010-00042-3000-1150-103", "inStock": true, "price": 109.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-00042-5133_main_95366.jpg", "imageTransparent": "2010-00042-5133_main-png_95366.png", "sizes": [{ "sku": "2010-00042-5133-1150-103", "inStock": true, "price": 109.95, "originalPrice": 0 }], "color": [] }
+    ]
+  },
+  {
+    "sku": "2010-03901",
+    "name": "Cord POS",
+    "brand": "Mammut",
+    "description": ["Universal rope", "Robust and tear-proof: The Cord POS is a universal rope that you can rely on. It is available in various diameters and practical lengths. Its high tear resistance provides safety on the rock face."],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing, Mountaineering"] }, { "values": ["Item number", "2010-03901"] }, { "values": ["Breaking load", "5.5 kN"] }, { "values": ["Weight", "15 g/m"] }, { "values": ["Cut", "Basic"] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-03901_doc_220891.pdf"] }, { "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }, { "values": ["2010-03901_doc_220891.pdf"] }, { "values": ["User_Manual_HI-MAM-024-8_Cord_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      { "image": "2010-03901-1037_main_56947.jpg", "imageTransparent": "2010-03901-1037_main-png_56947.png", "sizes": [{ "sku": "2010-03901-1037-1060-105", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-03901-2016_main_56949.jpg", "imageTransparent": "2010-03901-2016_main-png_56949.png", "sizes": [{ "sku": "2010-03901-2016-1590-107", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-03901-3000_main_56945.jpg", "imageTransparent": "2010-03901-3000_main-png_56945.png", "sizes": [{ "sku": "2010-03901-3000-1055-106", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-03901-4047_main_56948.jpg", "imageTransparent": "2010-03901-4047_main-png_56948.png", "sizes": [{ "sku": "2010-03901-4047-1070-104", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2010-03901-4287_main_56946.jpg", "imageTransparent": "2010-03901-4287_main-png_56946.png", "sizes": [{ "sku": "2010-03901-4287-1600-108", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] }
+    ]
+  },
+  {
+    "sku": "2050-00040",
+    "name": "Crag Rope Bag",
+    "brand": "Mammut",
+    "description": ["Large rope bag with roll opening", "Large rope bag with roll opening for fast and easy handling. The size of the bag can easily be adjusted, thanks to the roll opening, to always have the perfect fit. Made for a 80 m rope or a 70 m rope plus climbing gear."],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Item number", "2050-00040"] }, { "values": ["Weight", "800 g"] }, { "values": ["Cut", "Basic"] }] },
+      {
+        "title": "Features",
+        "contents": [{ "values": ["Backpack carrying system"] }, { "values": ["Roll-top closure"] }, { "values": ["Zipper pocket"] }, { "values": ["Padded shoulder straps and back panel"] }, { "values": ["Large removable tarp with colored tie in loops included"] }, { "values": ["33 l volume"] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "Sustainability", "contents": [{ "values": ["Fair Wear", "Fair Wear works to ensure fair and safe working conditions in garment factories. The non-profit engages directly with factories, trade unions, NGOs and governments to protect workers’ rights."] }] }
+    ],
+    "variants": [{ "image": "2050-00040-50011_main_7206.jpg", "imageTransparent": "2050-00040-50011_main-png_7206.png", "sizes": [{ "sku": "2050-00040-50011-1", "size": "one size", "inStock": true, "price": 84.95, "originalPrice": 0 }], "color": [] }]
+  },
+  {
+    "sku": "2290-00511",
+    "name": "Rope Bag LMNT",
+    "brand": "Mammut",
+    "description": ["Rope bag with backpack carrying system", "Durable, spacious rope bag in classic design."],
+    "attributes": [
+      { "title": "", "contents": [{ "values": ["SizeWeight [g]one size550 g"] }] },
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Cut", "Basic"] }] },
+      { "title": "Features", "contents": [{ "values": ["Backpack carrying system"] }, { "values": ["Large, robust mat"] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "Dimensions", "contents": [{ "values": ["SizeWeight [g]one size550 g"] }] },
+      { "title": "Sustainability", "contents": [{ "values": ["Fair Wear", "Fair Wear works to ensure fair and safe working conditions in garment factories. The non-profit engages directly with factories, trade unions, NGOs and governments to protect workers’ rights."] }] }
+    ],
+    "variants": [{ "image": "2290-00511-0001_main_7143.jpg", "imageTransparent": "2290-00511-0001_main-png_7143.png", "sizes": [{ "sku": "2290-00511-0001-1", "size": "one size", "inStock": true, "price": 39.95, "originalPrice": 0 }], "color": [] }]
+  },
+  {
+    "sku": "2010-04320",
+    "name": "9.9 Gym Workhorse Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Ultra-robust and durable rope for climbing gyms",
+      "9.9 Gym Workhorse Dry Rope, the ultra abrasion-proof rope for climbing gyms. More performance thanks to the most robust rope construction Mammut has ever produced: an optimized sheath construction with a fine, smooth surface for greater abrasion resistance in comparison to ropes with standard construction and similar diameters. The DRY treatment increases the rope's resistance and gives it greater durability."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04320"] },
+          { "values": ["Diameter", "9.9 mm"] },
+          { "values": ["Stretch on first fall", "31.5"] },
+          { "values": ["Sheath proportion", "39"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation single rope", "7"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "9 - 10"] },
+          { "values": ["Impact force", "9.3 kN"] },
+          { "values": ["Weight", "65 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Center mark"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Workhorse construction for ultimate abrasion resistance"] },
+          { "values": ["Made for lead climbing"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04320_doc_220985.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04320_doc_220985.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04320-11284_main_205812.jpg",
+        "imageTransparent": "2010-04320-11284_main-png_205812.png",
+        "sizes": [
+          { "sku": "2010-04320-11284-1030", "inStock": true, "price": 219.95, "originalPrice": 0 },
+          { "sku": "2010-04320-11284-1200", "inStock": true, "price": 999.95, "originalPrice": 0 },
+          { "sku": "2010-04320-11284-1040", "inStock": false, "price": 239.95, "originalPrice": 0 },
+          { "sku": "2010-04320-11284-1050", "inStock": false, "price": 259.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, ocean-vibrant orange"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04230",
+    "name": "9.5 Crag Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "An especially good single rope",
+      "One rope for all situations: with a profile of 9.5mm, this high-quality single rope impresses with its excellent handling, making it ideal for all mountain adventures. Whether you’re sending indoors or on trad routes, the ideal balance of diameter, weight, and durability make the 9.5 Crag Classic Rope the favored link between friends on the rock."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04230"] },
+          { "values": ["Diameter", "9.5 mm"] },
+          { "values": ["Stretch on first fall", "33.8"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "6 - 7"] },
+          { "values": ["Impact force", "8.8 kN"] },
+          { "values": ["Weight", "59 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["PFC-free"] }, { "values": ["Duodess version features a durable and always visible center mark"] }, { "values": ["Duodess version: ready to climb - tangle-free packing, no need to uncoil before use"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04230_doc_220978.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04230_doc_220978.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04230-01268_main_205796.jpg",
+        "imageTransparent": "2010-04230-01268_main-png_205796.png",
+        "sizes": [
+          { "sku": "2010-04230-01268-1060", "inStock": true, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01268-1070", "inStock": true, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01268-1050", "inStock": false, "price": 149.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01268-1080", "inStock": false, "price": 229.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, vibrant orange-white"]
+      },
+      {
+        "image": "2010-04230-02153_main_173688.jpg",
+        "imageTransparent": "2010-04230-02153_main-png_173688.png",
+        "sizes": [
+          { "sku": "2010-04230-02153-1060", "inStock": true, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04230-02153-1070", "inStock": false, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04230-02153-1080", "inStock": false, "price": 229.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Duodess, carribean blue-white"]
+      },
+      {
+        "image": "2010-04230-01227_main_160228.jpg",
+        "imageTransparent": "2010-04230-01227_main-png_160228.png",
+        "sizes": [
+          { "sku": "2010-04230-01227-1060", "inStock": true, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01227-1070", "inStock": true, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01227-1050", "inStock": false, "price": 149.95, "originalPrice": 0 },
+          { "sku": "2010-04230-01227-1080", "inStock": false, "price": 229.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, blue-white"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04290",
+    "name": "9.9 Crag Workhorse Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Extremely robust rope for sport- and trad climbing",
+      "Performance at its best: 9.9 Crag Workhorse Dry, the rope for extreme demands. For sport climbing and traditional climbing applications, the rope benefits from the most robust construction Mammut has ever produced: an optimized sheath construction with a very fine and smooth surface for greater... read more"
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04290"] },
+          { "values": ["Diameter", "9.9 mm"] },
+          { "values": ["Stretch on first fall", "31.5"] },
+          { "values": ["Sheath proportion", "39"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation single rope", "7"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "9 - 10"] },
+          { "values": ["Impact force", "9.3 kN"] },
+          { "values": ["Weight", "65 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Workhorse construction for ultimate abrasion resistance"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04290_doc_220983.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04290_doc_220983.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04290-11242_main_171778.jpg",
+        "imageTransparent": "2010-04290-11242_main-png_171778.png",
+        "sizes": [
+          { "sku": "2010-04290-11242-1060", "inStock": true, "price": 289.95, "originalPrice": 0 },
+          { "sku": "2010-04290-11242-1070", "inStock": false, "price": 319.95, "originalPrice": 0 },
+          { "sku": "2010-04290-11242-1080", "inStock": false, "price": 339.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, boa-ocean"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04240",
+    "name": "9.5 Crag Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Single rope for sports and traditional climbing",
+      "9.5 Crag Dry Rope: a Mammut classic in the single rope category. Ideal for sport climbing or classic climbing. The 9.5 Crag Dry Rope incorporates the proven properties of our best-selling Mammut Infinity rope with a perfect balance of small diameter, low weight and high performance. The DRY finishing makes the rope particularly versatile. A classic and first choice for our athletes."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04240"] },
+          { "values": ["Diameter", "9.5 mm"] },
+          { "values": ["Stretch on first fall", "32"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation single rope", "8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "8 - 9"] },
+          { "values": ["Impact force", "8.9 kN"] },
+          { "values": ["Weight", "59 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04240_doc_220979.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04240_doc_220979.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04240-11217_main_160232.jpg",
+        "imageTransparent": "2010-04240-11217_main-png_160232.png",
+        "sizes": [
+          { "sku": "2010-04240-11217-1060", "inStock": true, "price": 249.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11217-1070", "inStock": true, "price": 289.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11217-1040", "inStock": false, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11217-1050", "inStock": false, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11217-1080", "inStock": false, "price": 319.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, blue-ocean"]
+      },
+      {
+        "image": "2010-04240-11218_main_160234.jpg",
+        "imageTransparent": "2010-04240-11218_main-png_160234.png",
+        "sizes": [
+          { "sku": "2010-04240-11218-1060", "inStock": true, "price": 249.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11218-1070", "inStock": true, "price": 289.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11218-1040", "inStock": false, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11218-1050", "inStock": false, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04240-11218-1080", "inStock": false, "price": 319.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, pink-zen"]
+      },
+      {
+        "image": "2010-04240-12240_main_160236.jpg",
+        "imageTransparent": "2010-04240-12240_main-png_160236.png",
+        "sizes": [
+          { "sku": "2010-04240-12240-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04240-12240-1070", "inStock": true, "price": 309.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Duodess, boa-safety orange"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04220",
+    "name": "9.5 Alpine Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "Waterproofed single rope for alpine climbing",
+      "9.5 Alpine Dry Rope, the classic Mammut single rope for alpine climbing. The rope is based on Mammut’s best-selling Infinity, known for its perfect balance of diameter, weight and handling. These are also the hallmarks of the 9.5 Alpine Dry Rope: low weight, high performance and Dry finishing. A versatile single rope."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Mountaineering, Climbing"] },
+          { "values": ["Item number", "2010-04220"] },
+          { "values": ["Diameter", "9.5 mm"] },
+          { "values": ["Stretch on first fall", "32"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation single rope", "8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "8 - 9"] },
+          { "values": ["Impact force", "8.9 kN"] },
+          { "values": ["Weight", "59 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04220_doc_220977.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04220_doc_220977.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04220-11256_main_160226.jpg",
+        "imageTransparent": "2010-04220-11256_main-png_160226.png",
+        "sizes": [
+          { "sku": "2010-04220-11256-1060", "inStock": true, "price": 249.95, "originalPrice": 0 },
+          { "sku": "2010-04220-11256-1070", "inStock": true, "price": 289.95, "originalPrice": 0 },
+          { "sku": "2010-04220-11256-1040", "inStock": false, "price": 169.95, "originalPrice": 0 },
+          { "sku": "2010-04220-11256-1050", "inStock": false, "price": 199.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, safety orange-zen"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04310",
+    "name": "9.9 Gym Workhorse Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Very abrasion-proof climbing rope for the gym",
+      "9.9 Gym Workhorse Classic Rope: ultra abrasion-proof climbing rope for the gym. The 9.9 Gym Workhorse Classic Rope features the most robust rope construction Mammut has ever produced. an optimized sheath construction with a fine, smooth surface for greater abrasion resistance in comparison to ropes with standard construction and similar diameters. Designed for intensive usage in climbing gyms."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04310"] },
+          { "values": ["Diameter", "9.9 mm"] },
+          { "values": ["Stretch on first fall", "33.5"] },
+          { "values": ["Sheath proportion", "39"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.3"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "8 - 9"] },
+          { "values": ["Impact force", "8.3 kN"] },
+          { "values": ["Weight", "65 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Workhorse construction for ultimate abrasion resistance"] }, { "values": ["Center mark"] }, { "values": ["PFC-free"] }, { "values": ["Made for lead climbing"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04310_doc_220984.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04310_doc_220984.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04310-01244_main_160250.jpg",
+        "imageTransparent": "2010-04310-01244_main-png_160250.png",
+        "sizes": [
+          { "sku": "2010-04310-01244-1030", "inStock": true, "price": 99.95, "originalPrice": 0 },
+          { "sku": "2010-04310-01244-1040", "inStock": true, "price": 129.95, "originalPrice": 0 },
+          { "sku": "2010-04310-01244-1200", "inStock": true, "price": 649.95, "originalPrice": 0 },
+          { "sku": "2010-04310-01244-1050", "inStock": false, "price": 174.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, boa"]
+      },
+      {
+        "image": "2010-04310-01243_main_160248.jpg",
+        "imageTransparent": "2010-04310-01243_main-png_160248.png",
+        "sizes": [
+          { "sku": "2010-04310-01243-1030", "inStock": false, "price": 104.95, "originalPrice": 0 },
+          { "sku": "2010-04310-01243-1040", "inStock": false, "price": 129.95, "originalPrice": 0 },
+          { "sku": "2010-04310-01243-1050", "inStock": false, "price": 174.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, candy"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-00771",
+    "name": "10.0 Performance Static",
+    "brand": "Mammut",
+    "description": ["Very abrasion-proof static rope", "This static rope is highly abrasion-resistant, very low stretch, maximum strength, extremely durable and has a long service life. Do not use for dynamic belaying! EN 1891 Type A."],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Item number", "2010-00771"] }, { "values": ["Diameter", "10 mm"] }, { "values": ["Sheath proportion", "37"] }, { "values": ["Breaking load", "27 kN"] }, { "values": ["Weight", "66 g/m"] }, { "values": ["Cut", "Basic"] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-00771_doc_219531.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }, { "values": ["2010-00771_doc_219531.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-00771-0255_main_56963.jpg",
+        "imageTransparent": "2010-00771-0255_main-png_56963.png",
+        "sizes": [
+          { "sku": "2010-00771-0255-1100", "inStock": true, "price": 275, "originalPrice": 0 },
+          { "sku": "2010-00771-0255-1050", "inStock": false, "price": 140, "originalPrice": 0 },
+          { "sku": "2010-00771-0255-1200", "inStock": false, "price": 525, "originalPrice": 0 },
+          { "sku": "2010-00771-0255-1640", "inStock": false, "price": 1100, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00771-1039_main_200118.jpg",
+        "imageTransparent": "2010-00771-1039_main-png_200118.png",
+        "sizes": [
+          { "sku": "2010-00771-1039-1100", "inStock": true, "price": 275, "originalPrice": 0 },
+          { "sku": "2010-00771-1039-1200", "inStock": true, "price": 525, "originalPrice": 0 },
+          { "sku": "2010-00771-1039-1050", "inStock": false, "price": 140, "originalPrice": 0 }
+        ],
+        "color": []
+      }
+    ]
+  },
+  {
+    "sku": "2010-00791",
+    "name": "10.5 Performance Static",
+    "brand": "Mammut",
+    "description": ["Very abrasion-proof static rope", "This static rope is highly abrasion-resistant, very low stretch, maximum strength, extremely durable and has a long service life. Do not use for dynamic belaying! EN 1891 Type A."],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-00791"] },
+          { "values": ["Diameter", "10.5 mm"] },
+          { "values": ["Sheath proportion", "37"] },
+          { "values": ["Breaking load", "32 kN"] },
+          { "values": ["Weight", "72 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-00791_doc_220853.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }, { "values": ["2010-00791_doc_220853.pdf"] }, { "values": ["User_Manual_HI-MAM-033-7_Semi-static_ropes.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-00791-3072_main_56964.jpg",
+        "imageTransparent": "2010-00791-3072_main-png_56964.png",
+        "sizes": [
+          { "sku": "2010-00791-3072-1050", "inStock": true, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-00791-3072-1100", "inStock": true, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-00791-3072-1200", "inStock": false, "price": 589.95, "originalPrice": 0 },
+          { "sku": "2010-00791-3072-1640", "inStock": false, "price": 1299.95, "originalPrice": 0 }
+        ],
+        "color": []
+      },
+      {
+        "image": "2010-00791-0001_main_56965.jpg",
+        "imageTransparent": "2010-00791-0001_main-png_56965.png",
+        "sizes": [
+          { "sku": "2010-00791-0001-1200", "inStock": true, "price": 589.95, "originalPrice": 0 },
+          { "sku": "2010-00791-0001-1050", "inStock": false, "price": 159.95, "originalPrice": 0 },
+          { "sku": "2010-00791-0001-1100", "inStock": false, "price": 299.95, "originalPrice": 0 },
+          { "sku": "2010-00791-0001-1640", "inStock": false, "price": 1299.95, "originalPrice": 0 }
+        ],
+        "color": []
+      }
+    ]
+  },
+  {
+    "sku": "2010-04200",
+    "name": "9.0 Alpine Sender Dry Rope",
+    "brand": "Mammut",
+    "description": [
+      "All-around rope for mountaineering",
+      "Triple certified all-around rope for a wide range of applications such as ice climbing, mountaineering or performance climbing in the mountains. The 9.0 Alpine Sender Dry Rope features an optimized smoother sheath made from premium quality yarns. Extremely light weight and small diameter. Easy handling and reliable durability. 9.0 Alpine Sender Dry Rope - the rope for demanding requirements."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04200"] },
+          { "values": ["Diameter", "9 mm"] },
+          { "values": ["Stretch on first fall", "32.5"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "1.5"] },
+          { "values": ["Static elongation half rope", "8.5"] },
+          { "values": ["UIAA falls (single rope 55 kg)", ">18"] },
+          { "values": ["Static elongation single rope", "8.5"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "5-6"] },
+          { "values": ["Impact force", "8.8 / 6.5 / 10.0  kN"] },
+          { "values": ["Weight", "54 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Sender construction for ultimate light weight"] },
+          { "values": ["Lasting effectiveness in repelling water and dirt according to UIAA for maximum safety in the toughest conditions"] },
+          { "values": ["Achieves < 1.5% in UIAA water absorption tests"] },
+          { "values": ["Optimized abrasion resistance thanks to Dry finishing"] },
+          { "values": ["Ready to climb, packed to prevent tangling, no need to uncoil the rope before use"] },
+          { "values": ["Center mark"] },
+          { "values": ["Triple certified single, half and twin rope"] }
+        ]
+      },
+      { "title": "Technology", "contents": [{ "values": ["Dry", "Mammut Dry ropes boast lower water absorption and extra abrasion resistance for more safety. Treated ropes last longer, making them great in wet conditions."] }] },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04200_doc_220973.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04200_doc_220973.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [{ "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04200-11237_main_160222.jpg",
+        "imageTransparent": "2010-04200-11237_main-png_160222.png",
+        "sizes": [
+          { "sku": "2010-04200-11237-1060", "inStock": true, "price": 269.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11237-1030", "inStock": false, "price": 174.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11237-1040", "inStock": false, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11237-1050", "inStock": false, "price": 214.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, sunrise-ice"]
+      },
+      {
+        "image": "2010-04200-11236_main_160220.jpg",
+        "imageTransparent": "2010-04200-11236_main-png_160220.png",
+        "sizes": [
+          { "sku": "2010-04200-11236-1030", "inStock": false, "price": 174.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11236-1040", "inStock": false, "price": 199.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11236-1050", "inStock": false, "price": 214.95, "originalPrice": 0 },
+          { "sku": "2010-04200-11236-1060", "inStock": false, "price": 269.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, ice-sunrise"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04260",
+    "name": "9.5 Gym Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Top-class all-arounder for the climbing gym",
+      "The classic among climbing gym ropes: the 9.5 Gym Classic Rope. A first-class all-arounder with a perfect combination of small diameter, low weight and high performance. The rope is based on the tried-and-tested properties of the best-selling Mammut Infinity rope. All-time favorite!"
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Climbing"] },
+          { "values": ["Item number", "2010-04260"] },
+          { "values": ["Diameter", "9.5 mm"] },
+          { "values": ["Stretch on first fall", "33.8"] },
+          { "values": ["Sheath proportion", "40"] },
+          { "values": ["UIAA dry test", "46"] },
+          { "values": ["Static elongation single rope", "8.8"] },
+          { "values": ["UIAA falls (single rope 80 kg)", "6 - 7"] },
+          { "values": ["Impact force", "8.8 kN"] },
+          { "values": ["Weight", "59 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["PFC-free"] }, { "values": ["Made for lead climbing"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04260_doc_220980.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04260_doc_220980.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04260-01231_main_160238.jpg",
+        "imageTransparent": "2010-04260-01231_main-png_160238.png",
+        "sizes": [
+          { "sku": "2010-04260-01231-1040", "inStock": true, "price": 114.95, "originalPrice": 0 },
+          { "sku": "2010-04260-01231-1050", "inStock": false, "price": 119.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, boa-white"]
+      },
+      {
+        "image": "2010-04260-01286_main_205801.jpg",
+        "imageTransparent": "2010-04260-01286_main-png_205801.png",
+        "sizes": [
+          { "sku": "2010-04260-01286-1040", "inStock": false, "price": 114.95, "originalPrice": 0 },
+          { "sku": "2010-04260-01286-1050", "inStock": false, "price": 144.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, raspberry-white"]
+      }
+    ]
+  },
+  {
+    "sku": "2010-04340",
+    "name": "8.0 Alpine Classic Rope",
+    "brand": "Mammut",
+    "description": [
+      "Versatile rope for multi-pitch routes",
+      "8.0 Alpine Classic Rope - a versatile climbing rope for multi-pitch applications. It features a construction that offsets the lighter weight and smaller diameter with greater safety. The rope’s design is based on the best-selling Mammut Phoenix rope. 8.0 Alpine Classic Rope - the rope for multi-pitch adventures on the rocks."
+    ],
+    "attributes": [
+      {
+        "title": "Details",
+        "contents": [
+          { "values": ["Suitable for", "Mountaineering, Climbing"] },
+          { "values": ["Item number", "2010-04340"] },
+          { "values": ["Diameter", "8 mm"] },
+          { "values": ["Stretch on first fall", "33"] },
+          { "values": ["Sheath proportion", "42"] },
+          { "values": ["UIAA dry test", "42"] },
+          { "values": ["Static elongation half rope", "11.5"] },
+          { "values": ["UIAA falls (single rope 55 kg)", "8 - 9"] },
+          { "values": ["Impact force", "6.3 / 9.2 kN"] },
+          { "values": ["Weight", "42 g/m"] },
+          { "values": ["Cut", "Basic"] }
+        ]
+      },
+      { "title": "Features", "contents": [{ "values": ["Center mark"] }, { "values": ["PFC-free"] }, { "values": ["Double certified half and twin rope"] }] },
+      {
+        "title": "Technology",
+        "contents": [{ "values": ["Classic", "Mammut Classic ropes are PFC-free, untreated all-purpose ropes that offer great performance in the climbing gym or while scaling an actual rock face out in good weather. They are often a particularly good choice for beginners."] }]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "PDF Manuals", "contents": [{ "values": ["2010-04340_doc_220988.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }, { "values": ["2010-04340_doc_220988.pdf"] }, { "values": ["User_Manual_HI-MAM-026-10_Dyn-Ropes_PRINT.pdf"] }] },
+      {
+        "title": "Sustainability",
+        "contents": [
+          { "values": ["Solution dye", "An innovative dyeing method that uses up to 90% fewer chemicals, up to 85% less water, and generates up to 12% fewer CO2 emissions compared to traditional dye bath methods."] },
+          { "values": ["bluesign® PRODUCT", "The bluesign® SYSTEM is a solution for sustainable textile production that eliminates the use of harmful substances. bluesign® PRODUCTS guarantee a responsible use of resources with a minimum impact on people and the environment."] }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "image": "2010-04340-01176_main_160262.jpg",
+        "imageTransparent": "2010-04340-01176_main-png_160262.png",
+        "sizes": [
+          { "sku": "2010-04340-01176-1050", "inStock": false, "price": 94.95, "originalPrice": 0 },
+          { "sku": "2010-04340-01176-1060", "inStock": false, "price": 154.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, orange-white"]
+      },
+      {
+        "image": "2010-04340-01231_main_160204.jpg",
+        "imageTransparent": "2010-04340-01231_main-png_160204.png",
+        "sizes": [
+          { "sku": "2010-04340-01231-1050", "inStock": false, "price": 94.95, "originalPrice": 0 },
+          { "sku": "2010-04340-01231-1060", "inStock": false, "price": 154.95, "originalPrice": 0 }
+        ],
+        "color": ["Classic Standard, boa-white"]
+      }
+    ]
+  },
+  {
+    "sku": "2290-00990",
+    "name": "Magic Rope Bag",
+    "brand": "Mammut",
+    "description": ["Freestanding rope bag", "A simple action converts the Magic Rope Bag from a freestanding rope bag to a mat for sitting on."],
+    "attributes": [
+      { "title": "Details", "contents": [{ "values": ["Suitable for", "Climbing"] }, { "values": ["Item number", "2290-00990"] }, { "values": ["Weight", "600 g"] }, { "values": ["Cut", "Basic"] }] },
+      {
+        "title": "Features",
+        "contents": [
+          { "values": ["Drawstring system makes the Magic free standing or flat for storage"] },
+          { "values": ["Normal carrying handle and XL handle for over the shoulder carrying"] },
+          { "values": ["Large internal zipper pocket"] },
+          { "values": ["Foam filling"] },
+          { "values": ["Magic Technology patent pending"] },
+          { "values": ["Zipper opening"] },
+          { "values": ["Internal strap to organize climbing rack"] },
+          { "values": ["Colored rope attachment points"] },
+          { "values": ["Mat for cleaning climbing shoes"] }
+        ]
+      },
+      { "title": "Materials", "contents": [{ "values": ["Hardware Main Fabric", "100% Polyamide"] }] },
+      { "title": "Sustainability", "contents": [{ "values": ["Fair Wear", "Fair Wear works to ensure fair and safe working conditions in garment factories. The non-profit engages directly with factories, trade unions, NGOs and governments to protect workers’ rights."] }] }
+    ],
+    "variants": [
+      { "image": "2290-00990-4017_main_75747.jpg", "imageTransparent": "2290-00990-4017_main-png_75747.png", "sizes": [{ "sku": "2290-00990-4017-1", "size": "one size", "inStock": false, "price": 99.95, "originalPrice": 0 }], "color": [] },
+      { "image": "2290-00990-0001_main_44205.jpg", "imageTransparent": "2290-00990-0001_main-png_44205.png", "sizes": [{ "sku": "2290-00990-0001-1", "size": "one size", "inStock": false, "price": 99.95, "originalPrice": 0 }], "color": [] }
+    ]
+  }
+]

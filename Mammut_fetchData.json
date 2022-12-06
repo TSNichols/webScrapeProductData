@@ -2,9 +2,9 @@
   {
     "sku": "2010-04190",
     "name": "8.7 Alpine Sender Dry Rope",
-    "shortDescription": "All-around rope for mountaineering",
-    "price": 229.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04190-11284_main_205816.jpg",
@@ -30,26 +30,22 @@
         ],
         "color": ["Dry Standard, vibrant orange-ocean"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04140",
     "name": "10.1 Gym Station Classic Rope",
-    "shortDescription": "Durable rope for the climbing gym",
-    "price": 734.95,
-    "originalPrice": 0,
-    "variants": [{ "image": "2010-04140-01227_main_215921.jpg", "imageTransparent": "2010-04140-01227_main-png_215921.png", "sizes": [{ "sku": "2010-04140-01227-1800", "inStock": true, "price": 734.95, "originalPrice": 0 }], "color": ["Classic Standard, blue-white"] }],
-    "inStock": true,
-    "onSale": false
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
+    "variants": [{ "image": "2010-04140-01227_main_215921.jpg", "imageTransparent": "2010-04140-01227_main-png_215921.png", "sizes": [{ "sku": "2010-04140-01227-1800", "inStock": true, "price": 734.95, "originalPrice": 0 }], "color": ["Classic Standard, blue-white"] }]
   },
   {
     "sku": "2010-04470",
     "name": "9.5 Crag We Care Classic Rope",
-    "shortDescription": "Single rope made with responsible use of resources",
-    "price": 159.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04470-0199_main_173690.jpg",
@@ -61,16 +57,14 @@
         ],
         "color": ["Classic Standard, assorted"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04480",
     "name": "9.9 Crag Workhorse Classic",
-    "shortDescription": "Rope for intensive use on the rocks",
-    "price": 199.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04480-01231_main_205793.jpg",
@@ -82,16 +76,14 @@
         ],
         "color": ["Classic Standard, boa-white"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04280",
     "name": "9.8 Crag Dry Rope",
-    "shortDescription": "Single rope for sports and traditional climbing",
-    "price": 269.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04280-11238_main_160246.jpg",
@@ -104,16 +96,14 @@
         ],
         "color": ["Dry Standard, safety orange-boa"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04210",
     "name": "9.0 Crag Sender Dry Rope",
-    "shortDescription": "Waterproofed rope for sports and trad climbers",
-    "price": 269.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04210-11236_main_160224.jpg",
@@ -126,26 +116,51 @@
         ],
         "color": ["Dry Standard, ice-sunrise"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
+  },
+  {
+    "sku": "2010-04330",
+    "name": "7.5 Alpine Sender Dry Rope",
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
+    "variants": [
+      {
+        "image": "2010-04330-11250_main_160256.jpg",
+        "imageTransparent": "2010-04330-11250_main-png_160256.png",
+        "sizes": [
+          { "sku": "2010-04330-11250-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11250-1070", "inStock": true, "price": 224.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11250-1050", "inStock": false, "price": 169.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, fire-blue"]
+      },
+      {
+        "image": "2010-04330-11251_main_160258.jpg",
+        "imageTransparent": "2010-04330-11251_main-png_160258.png",
+        "sizes": [
+          { "sku": "2010-04330-11251-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11251-1070", "inStock": true, "price": 224.95, "originalPrice": 0 },
+          { "sku": "2010-04330-11251-1050", "inStock": false, "price": 169.95, "originalPrice": 0 }
+        ],
+        "color": ["Dry Standard, blue-safety orange"]
+      }
+    ]
   },
   {
     "sku": "2010-04150",
     "name": "10.2 Crag Classic Rope",
-    "shortDescription": "Single rope for sport-, trad and top rope climbing",
-    "price": 179.95,
-    "originalPrice": 0,
-    "variants": [{ "image": "2010-04150-01228_main_160214.jpg", "imageTransparent": "2010-04150-01228_main-png_160214.png", "sizes": [{ "sku": "2010-04150-01228-1060", "inStock": true, "price": 179.95, "originalPrice": 0 }], "color": ["Classic Standard, marine-white"] }],
-    "inStock": true,
-    "onSale": false
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
+    "variants": [{ "image": "2010-04150-01228_main_160214.jpg", "imageTransparent": "2010-04150-01228_main-png_160214.png", "sizes": [{ "sku": "2010-04150-01228-1060", "inStock": true, "price": 179.95, "originalPrice": 0 }], "color": ["Classic Standard, marine-white"] }]
   },
   {
     "sku": "2010-04270",
     "name": "9.8 Crag Classic Rope",
-    "shortDescription": "Single rope for sports and traditional climbing",
-    "price": 169.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04270-01176_main_160242.jpg",
@@ -179,16 +194,14 @@
         ],
         "color": ["Classic Duodess, vibrant orange-white"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04350",
     "name": "8.0 Alpine Dry Rope",
-    "shortDescription": "Double rope for climbing and mountaineering",
-    "price": 109.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04350-11240_main_160210.jpg",
@@ -196,8 +209,8 @@
         "sizes": [
           { "sku": "2010-04350-11240-1030", "inStock": true, "price": 109.95, "originalPrice": 0 },
           { "sku": "2010-04350-11240-1050", "inStock": true, "price": 159.95, "originalPrice": 0 },
-          { "sku": "2010-04350-11240-1070", "inStock": true, "price": 204.95, "originalPrice": 0 },
-          { "sku": "2010-04350-11240-1060", "inStock": false, "price": 189.95, "originalPrice": 0 }
+          { "sku": "2010-04350-11240-1060", "inStock": true, "price": 189.95, "originalPrice": 0 },
+          { "sku": "2010-04350-11240-1070", "inStock": true, "price": 204.95, "originalPrice": 0 }
         ],
         "color": ["Dry Standard, boa-safety orange"]
       },
@@ -231,16 +244,14 @@
         ],
         "color": ["Dry Standard, safety orange-boa"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-00801",
     "name": "11.0 Performance Static",
-    "shortDescription": "Very abrasion-proof static rope",
-    "price": 339.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-00801-0255_main_56967.jpg",
@@ -263,16 +274,14 @@
         ],
         "color": []
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04070",
     "name": "6.0 Glacier Cord Dry",
-    "shortDescription": "Ultra-light hyperstatic glacier rope",
-    "price": 259.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04070-11221_main_202935.jpg",
@@ -283,16 +292,14 @@
         ],
         "color": []
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-00052",
     "name": "Accessory Cord",
-    "shortDescription": "Accessory cord for different outdoor activities",
-    "price": 120,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-00052-4047_main_56958.jpg",
@@ -344,67 +351,57 @@
       { "image": "2010-00052-3022_main_56957.jpg", "imageTransparent": "2010-00052-3022_main-png_56957.png", "sizes": [{ "sku": "2010-00052-3022-1150-107", "inStock": true, "price": 240, "originalPrice": 0 }], "color": [] },
       { "image": "2010-00052-7047_main_56954.jpg", "imageTransparent": "2010-00052-7047_main-png_56954.png", "sizes": [{ "sku": "2010-00052-7047-1150-108", "inStock": true, "price": 330, "originalPrice": 0 }], "color": [] },
       { "image": "2010-00052-0139_main_56959.jpg", "imageTransparent": "2010-00052-0139_main-png_56959.png", "sizes": [{ "sku": "2010-00052-0139-1150-105", "inStock": false, "price": 150, "originalPrice": 0 }], "color": [] }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-00042",
     "name": "Hammer Cord",
-    "shortDescription": "Versatile accessory cord",
-    "price": 79.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       { "image": "2010-00042-5052_main_56952.jpg", "imageTransparent": "2010-00042-5052_main-png_56952.png", "sizes": [{ "sku": "2010-00042-5052-1150-102", "inStock": true, "price": 79.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-00042-4100_main_56953.jpg", "imageTransparent": "2010-00042-4100_main-png_56953.png", "sizes": [{ "sku": "2010-00042-4100-1150-102", "inStock": true, "price": 79.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-00042-3000_main_56951.jpg", "imageTransparent": "2010-00042-3000_main-png_56951.png", "sizes": [{ "sku": "2010-00042-3000-1150-103", "inStock": true, "price": 109.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-00042-5133_main_95366.jpg", "imageTransparent": "2010-00042-5133_main-png_95366.png", "sizes": [{ "sku": "2010-00042-5133-1150-103", "inStock": true, "price": 109.95, "originalPrice": 0 }], "color": [] }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-03901",
     "name": "Cord POS",
-    "shortDescription": "Universal rope",
-    "price": 14.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       { "image": "2010-03901-1037_main_56947.jpg", "imageTransparent": "2010-03901-1037_main-png_56947.png", "sizes": [{ "sku": "2010-03901-1037-1060-105", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-03901-2016_main_56949.jpg", "imageTransparent": "2010-03901-2016_main-png_56949.png", "sizes": [{ "sku": "2010-03901-2016-1590-107", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-03901-3000_main_56945.jpg", "imageTransparent": "2010-03901-3000_main-png_56945.png", "sizes": [{ "sku": "2010-03901-3000-1055-106", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-03901-4047_main_56948.jpg", "imageTransparent": "2010-03901-4047_main-png_56948.png", "sizes": [{ "sku": "2010-03901-4047-1070-104", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] },
       { "image": "2010-03901-4287_main_56946.jpg", "imageTransparent": "2010-03901-4287_main-png_56946.png", "sizes": [{ "sku": "2010-03901-4287-1600-108", "inStock": true, "price": 14.95, "originalPrice": 0 }], "color": [] }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2050-00040",
     "name": "Crag Rope Bag",
-    "shortDescription": "Large rope bag with roll opening",
-    "price": 84.95,
-    "originalPrice": 0,
-    "variants": [{ "image": "2050-00040-50011_main_7206.jpg", "imageTransparent": "2050-00040-50011_main-png_7206.png", "sizes": [{ "sku": "2050-00040-50011-1", "size": "one size", "inStock": true, "price": 84.95, "originalPrice": 0 }], "color": [] }],
-    "inStock": true,
-    "onSale": false
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
+    "variants": [{ "image": "2050-00040-50011_main_7206.jpg", "imageTransparent": "2050-00040-50011_main-png_7206.png", "sizes": [{ "sku": "2050-00040-50011-1", "size": "one size", "inStock": true, "price": 84.95, "originalPrice": 0 }], "color": [] }]
   },
   {
     "sku": "2290-00511",
     "name": "Rope Bag LMNT",
-    "shortDescription": "Rope bag with backpack carrying system",
-    "price": 39.95,
-    "originalPrice": 0,
-    "variants": [{ "image": "2290-00511-0001_main_7143.jpg", "imageTransparent": "2290-00511-0001_main-png_7143.png", "sizes": [{ "sku": "2290-00511-0001-1", "size": "one size", "inStock": true, "price": 39.95, "originalPrice": 0 }], "color": [] }],
-    "inStock": true,
-    "onSale": false
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
+    "variants": [{ "image": "2290-00511-0001_main_7143.jpg", "imageTransparent": "2290-00511-0001_main-png_7143.png", "sizes": [{ "sku": "2290-00511-0001-1", "size": "one size", "inStock": true, "price": 39.95, "originalPrice": 0 }], "color": [] }]
   },
   {
     "sku": "2010-04320",
     "name": "9.9 Gym Workhorse Dry Rope",
-    "shortDescription": "Ultra-robust and durable rope for climbing gyms",
-    "price": 219.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04320-11284_main_205812.jpg",
@@ -417,16 +414,14 @@
         ],
         "color": ["Dry Standard, ocean-vibrant orange"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04230",
     "name": "9.5 Crag Classic Rope",
-    "shortDescription": "An especially good single rope",
-    "price": 169.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04230-01268_main_205796.jpg",
@@ -460,16 +455,14 @@
         ],
         "color": ["Classic Standard, blue-white"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04290",
     "name": "9.9 Crag Workhorse Dry Rope",
-    "shortDescription": "Extremely robust rope for sport- and trad climbing",
-    "price": 289.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04290-11242_main_171778.jpg",
@@ -481,16 +474,14 @@
         ],
         "color": ["Dry Standard, boa-ocean"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04240",
     "name": "9.5 Crag Dry Rope",
-    "shortDescription": "Single rope for sports and traditional climbing",
-    "price": 249.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04240-11217_main_160232.jpg",
@@ -525,16 +516,14 @@
         ],
         "color": ["Dry Duodess, boa-safety orange"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04220",
     "name": "9.5 Alpine Dry Rope",
-    "shortDescription": "Waterproofed single rope for alpine climbing",
-    "price": 249.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04220-11256_main_160226.jpg",
@@ -547,47 +536,14 @@
         ],
         "color": ["Dry Standard, safety orange-zen"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
-  },
-  {
-    "sku": "2010-04330",
-    "name": "7.5 Alpine Sender Dry Rope",
-    "shortDescription": "Double rope for mountaineering",
-    "price": 214.95,
-    "originalPrice": 0,
-    "variants": [
-      {
-        "image": "2010-04330-11250_main_160256.jpg",
-        "imageTransparent": "2010-04330-11250_main-png_160256.png",
-        "sizes": [
-          { "sku": "2010-04330-11250-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
-          { "sku": "2010-04330-11250-1070", "inStock": true, "price": 224.95, "originalPrice": 0 },
-          { "sku": "2010-04330-11250-1050", "inStock": false, "price": 169.95, "originalPrice": 0 }
-        ],
-        "color": ["Dry Standard, fire-blue"]
-      },
-      {
-        "image": "2010-04330-11251_main_160258.jpg",
-        "imageTransparent": "2010-04330-11251_main-png_160258.png",
-        "sizes": [
-          { "sku": "2010-04330-11251-1060", "inStock": true, "price": 214.95, "originalPrice": 0 },
-          { "sku": "2010-04330-11251-1050", "inStock": false, "price": 169.95, "originalPrice": 0 },
-          { "sku": "2010-04330-11251-1070", "inStock": false, "price": 224.95, "originalPrice": 0 }
-        ],
-        "color": ["Dry Standard, blue-safety orange"]
-      }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04310",
     "name": "9.9 Gym Workhorse Classic Rope",
-    "shortDescription": "Very abrasion-proof climbing rope for the gym",
-    "price": 99.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04310-01244_main_160250.jpg",
@@ -610,16 +566,14 @@
         ],
         "color": ["Classic Standard, candy"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-00771",
     "name": "10.0 Performance Static",
-    "shortDescription": "Very abrasion-proof static rope",
-    "price": 525,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-00771-0255_main_56963.jpg",
@@ -642,16 +596,14 @@
         ],
         "color": []
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-00791",
     "name": "10.5 Performance Static",
-    "shortDescription": "Very abrasion-proof static rope",
-    "price": 589.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-00791-3072_main_56964.jpg",
@@ -675,16 +627,14 @@
         ],
         "color": []
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04200",
     "name": "9.0 Alpine Sender Dry Rope",
-    "shortDescription": "All-around rope for mountaineering",
-    "price": 269.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04200-11237_main_160222.jpg",
@@ -708,16 +658,14 @@
         ],
         "color": ["Dry Standard, ice-sunrise"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04260",
     "name": "9.5 Gym Classic Rope",
-    "shortDescription": "Top-class all-arounder for the climbing gym",
-    "price": 114.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04260-01231_main_160238.jpg",
@@ -737,16 +685,14 @@
         ],
         "color": ["Classic Standard, raspberry-white"]
       }
-    ],
-    "inStock": true,
-    "onSale": false
+    ]
   },
   {
     "sku": "2010-04340",
     "name": "8.0 Alpine Classic Rope",
-    "shortDescription": "Versatile rope for multi-pitch routes",
-    "price": 94.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       {
         "image": "2010-04340-01176_main_160262.jpg",
@@ -766,21 +712,17 @@
         ],
         "color": ["Classic Standard, boa-white"]
       }
-    ],
-    "inStock": false,
-    "onSale": false
+    ]
   },
   {
     "sku": "2290-00990",
     "name": "Magic Rope Bag",
-    "shortDescription": "Freestanding rope bag",
-    "price": 99.95,
-    "originalPrice": 0,
+    "brand": "Mammut",
+    "description": null,
+    "attributes": null,
     "variants": [
       { "image": "2290-00990-4017_main_75747.jpg", "imageTransparent": "2290-00990-4017_main-png_75747.png", "sizes": [{ "sku": "2290-00990-4017-1", "size": "one size", "inStock": false, "price": 99.95, "originalPrice": 0 }], "color": [] },
       { "image": "2290-00990-0001_main_44205.jpg", "imageTransparent": "2290-00990-0001_main-png_44205.png", "sizes": [{ "sku": "2290-00990-0001-1", "size": "one size", "inStock": false, "price": 99.95, "originalPrice": 0 }], "color": [] }
-    ],
-    "inStock": false,
-    "onSale": false
+    ]
   }
 ]
