@@ -1,0 +1,62 @@
+Products  (DBname)
+    Rope    (CollectionName)
+        _id
+        baseSKU                 (String) // From manufacturer
+        name                    (String)
+        brand                   (String)
+        description             [shortDescription, longDescription]
+        bullets                 [String]
+        images                  [String] // first one is shown in table
+        specs[]                 
+            name                (String) // Table Header
+            slider              (Boolean) // Tells if slider is used
+            prefix              (String) // Abbr. for slider class naming (html)
+            val                 (String) // number if slider?
+            unit                (String) // mm/m/% etc.
+        spec_tags               [String] // boolean specs - show small symbol in table for each
+        createdAt               (Date)
+        updatedAt               (Date)
+        variants[]
+            _id
+            parentID
+            sku                 (String)
+            specs[]             // Specs that make it a variant (unique)
+                name            (String) // Table Header
+                slider          (Boolean) // Tells if slider is used
+                prefix          (String) // Abbr. for slider class naming (html)
+                val             (String) // number if slider?
+                unit            (String) // mm/m/% etc.
+            createAt            (Date)
+            updatedAt           (Date)
+            seller[]
+                _id
+                sellerID        (See Sellers Collection)
+                listPrice       (Number)
+                onSale          (Boolean)
+                salePrice       (Number)
+                discount        (Number)
+                inStock         (Boolean)
+                available       (Number)
+                createAt        (Date)
+                updatedAt       (Date)
+                hidden          (Boolean)
+                link            (String)
+
+    Sellers  (CollectionName)
+      _id
+      name
+      currency
+      membershipReq
+      shipping
+      tax
+      promo
+
+
+
+
+
+// New Entries
+Webscrape Manufacturer Data -> Format Data -> Write New Data to DB
+
+// Update Entries
+Webscrape Product Pricing Data -> Format Data -> Update DB
