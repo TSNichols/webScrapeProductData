@@ -77,7 +77,7 @@ for (let i = 0; i < prodSpecsArray.length; i++) {
         let matchVals = (spec.value).match(weightRegex)
         prodSpecsArrayFormatted[i].weight = matchVals[0]
       }
-      //TODO: Currently doesn't contain meaningful data
+      //TODO: Slippage currently doesn't contain meaningful data
       // if ((spec.label).includes('Slippage')) { prodSpecsArrayFormatted[i].slippage = spec.value }
       if ((spec.label).toLowerCase().includes('dynamic')) { // find values for each rope type
         // find values and rope type

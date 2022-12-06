@@ -9,10 +9,11 @@ async function getBDproductData (productPageURL) {
   const fileName = `BD_${(productPageURL.match(/\/[\w-]+\/$/))[0].replaceAll('/','')}.json`
 
   // Go to product page
-  await page.goto( baseURL + productPageURL )
-  await page
-    .waitForNavigation({waitUntil: 'domcontentloaded'})
-    .catch(() => {})
+  try {
+    await page.goto( baseURL + productPageURL )
+  } catch (e) {
+    console.log(`${response.errorText} at ${url}`)
+  }
 
   // look for "Load More" button - load all products
   while (await page.$('.load-more-button')) {
@@ -26,6 +27,7 @@ async function getBDproductData (productPageURL) {
     Array.from( document.querySelectorAll('.product-card') ).map( (product) => ({
       name: product.querySelector('.product-title').textContent,
       link: product.querySelector('a').getAttribute('href'),
+      brand: "Black Diamond",
     }))
   )
 
