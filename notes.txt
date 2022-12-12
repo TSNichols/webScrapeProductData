@@ -1,4 +1,13 @@
 Products  (DBname)
+    Sellers  (CollectionName)
+      _id
+      name
+      currency
+      membershipReq
+      shipping
+      tax
+      promo
+
     Rope    (CollectionName)
         _id
         baseSKU                 (String) // From manufacturer
@@ -42,14 +51,7 @@ Products  (DBname)
                 hidden          (Boolean)
                 link            (String)
 
-    Sellers  (CollectionName)
-      _id
-      name
-      currency
-      membershipReq
-      shipping
-      tax
-      promo
+    
 
 
 
