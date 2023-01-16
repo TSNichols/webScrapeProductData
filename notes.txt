@@ -13,7 +13,7 @@ Products  (DBname)
         baseSKU                 (String) // From manufacturer
         name                    (String)
         brand                   (String)
-        description             [shortDescription, longDescription]
+        description             [String] // [shortDescription, longDescription]
         bullets                 [String]
         images                  [String] // first one is shown in table
         specs[]                 
